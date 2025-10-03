@@ -1,0 +1,2269 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="V Sport Ultra HD.se">
+    <display-name lang="fi">FI: V Ultra UHD [Multi-Audio]</display-name>
+    <icon src="https://img.ilcdn.fi/AMOLNKObTXg5vFPc4jx5rVBT5DU=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F15022021474719895311" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="MTV Urheilu 1.fi">
+    <display-name lang="fi">MTV Urheilu 1.fi</display-name>
+    <icon src="https://img.ilcdn.fi/_z7ouwEmNsz0PsjErqSRFO-qEMM=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1732880057" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="FI: Viaplay 1 Urheilu 1 FHD">
+    <display-name lang="fi">FI: Viaplay 1 Urheilu 1 FHD</display-name>
+    <icon src="https://img.ilcdn.fi/hN096-9_nsBpeWkESdCUrKjL6nQ=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1719593539" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="FI: Viaplay 1 Urheilu HD">
+    <display-name lang="fi">FI: Viaplay 1 Urheilu HD</display-name>
+    <icon src="https://img.ilcdn.fi/hN096-9_nsBpeWkESdCUrKjL6nQ=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1719593539" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="FI: Viaplay 2 Urheilu FHD">
+    <display-name lang="fi">FI: Viaplay 2 Urheilu FHD</display-name>
+    <icon src="https://img.ilcdn.fi/s1FAPHIe8DSobGM_897IlyVdp4w=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1719594017" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="FI: Viaplay 2 Urheilu HD">
+    <display-name lang="fi">FI: Viaplay 2 Urheilu HD</display-name>
+    <icon src="https://img.ilcdn.fi/s1FAPHIe8DSobGM_897IlyVdp4w=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1719594017" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="FI: Viaplay 3 Urheilu FHD">
+    <display-name lang="fi">FI: Viaplay 3 Urheilu FHD</display-name>
+    <icon src="https://img.ilcdn.fi/W52rfEH3dEUBtWGzMSqK5yQgzVE=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F15428264684569495303" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="FI: Viaplay 3 Urheilu HD">
+    <display-name lang="fi">FI: Viaplay 3 Urheilu HD</display-name>
+    <icon src="https://img.ilcdn.fi/W52rfEH3dEUBtWGzMSqK5yQgzVE=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F15428264684569495303" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="V sport.fi">
+    <display-name lang="fi">V sport.fi</display-name>
+    <icon src="https://img.ilcdn.fi/GSp6jN-0dAOK7yfI_Loy39mSG8w=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1757569470514" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="V sport vinter.fi">
+    <display-name lang="fi">V sport vinter.fi</display-name>
+    <icon src="https://img.ilcdn.fi/acQ1jhCbPXTYdiT2usGS9uvBu0E=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F6017856435360933717" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="V sport GOLF.fi">
+    <display-name lang="fi">V sport GOLF.fi</display-name>
+    <icon src="https://img.ilcdn.fi/vziOngJ1-Egx7v7CJ4YGfMfRdjw=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F6202649644002445063" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="V Sport Live 1.fi">
+    <display-name lang="fi">V Sport Live 1.fi</display-name>
+    <icon src="https://img.ilcdn.fi/bj0m-H0YIV2F2xATHKBjQvnFtaA=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F17448203867064370951" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="V Sport Live 2.fi">
+    <display-name lang="fi">V Sport Live 2.fi</display-name>
+    <icon src="https://img.ilcdn.fi/gM583RHw7-HyfvCg0nCFLDTPXnw=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F17449329766971213575" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="V Sport Live 3.fi">
+    <display-name lang="fi">V Sport Live 3.fi</display-name>
+    <icon src="https://img.ilcdn.fi/9mlL0_KXQbYi43O-Mb-UGkDuEyo=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1733238878" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="V Sport Live 4.fi">
+    <display-name lang="fi">V Sport Live 4.fi</display-name>
+    <icon src="https://img.ilcdn.fi/lVzstadiDYBsyyvCqyDy7riQTUs=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1733239393" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="V Sport Live 5.fi">
+    <display-name lang="fi">V Sport Live 5.fi</display-name>
+    <icon src="https://img.ilcdn.fi/Lk34qQvCmkZUWhQU-U8RjQsK8Rs=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1733239640" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="Yle TV1.fi">
+    <display-name lang="fi">Yle TV1.fi</display-name>
+    <icon src="https://img.ilcdn.fi/D-Az_q-nf1Ln3pa2xYQzH-QbdCE=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1757606745768" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="Yle TV2.fi">
+    <display-name lang="fi">Yle TV2.fi</display-name>
+    <icon src="https://img.ilcdn.fi/0Bu1Pih6jOOYDwEJTDHdN9vOug8=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1732701303" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="TV5.fi">
+    <display-name lang="fi">TV5.fi</display-name>
+    <icon src="https://img.ilcdn.fi/iOJkEMKNmDbt9U0vCFzSiPW7a7k=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F10621190623214367699" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="Star.fi">
+    <display-name lang="fi">Star.fi</display-name>
+    <icon src="https://img.ilcdn.fi/V0Q1-5HMrWkcQH7HgeJBJPKt8uA=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F12586606875566380155" />
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <channel id="Jim.fi">
+    <display-name lang="fi">Jim.fi</display-name>
+    <url>http://www.iltalehti.fi</url>
+  </channel>
+  <programme start="20251003095500 +0000" stop="20251003115500 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">6. kierroksen ottelu pelataan Stamford Bridgellä, Lontoossa. (27.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003115500 +0000" stop="20251003135500 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">6. kierroksen ottelu pelataan Selhurst Parkilla, Lontoossa. (27.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003135500 +0000" stop="20251003155500 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">6. kierroksen ottelu pelataan Elland Roadilla. (27.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003155500 +0000" stop="20251003182500 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">6. kierroksen ottelu pelataan Etihad Stadiumilla. (27.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003182500 +0000" stop="20251003185500 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Premier League Preview</title>
+    <desc lang="fi">Ennakko-ohjelma Valioliigan tulevasta kierroksesta.(n)</desc>
+  </programme>
+  <programme start="20251003185500 +0000" stop="20251003210000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Vitality Stadiumilla. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003210000 +0000" stop="20251003220000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Tiki-Taka</title>
+    <desc lang="fi">Studio-ohjelma, jossa on keskusteluja, analyyseja, haastatteluja ja vieraita jalkapallon maailmasta.(n)</desc>
+  </programme>
+  <programme start="20251003220000 +0000" stop="20251003223000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">EFL Championship Highlights</title>
+    <desc lang="fi">Kohokohtia EFL Championshipin viimeisimmältä kierrokselta.(n)</desc>
+  </programme>
+  <programme start="20251004084000 +0000" stop="20251004094000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga: The Big Interview</title>
+    <desc lang="fi">Haastatteluohjelma Valioliigasta.(n)</desc>
+  </programme>
+  <programme start="20251004094000 +0000" stop="20251004104000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Bundesliga Highlights</title>
+    <desc lang="fi">Kohokohtia Bundesliigan viimeisimmältä kierrokselta.(n)</desc>
+  </programme>
+  <programme start="20251004104000 +0000" stop="20251004111000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Premier League Stories</title>
+    <desc lang="fi">Makasiiniohjelma Valioliigasta.(n)</desc>
+  </programme>
+  <programme start="20251004111000 +0000" stop="20251004131000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Vitality Stadiumilla. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004134500 +0000" stop="20251004135500 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Valioliigastudio.(n)</desc>
+  </programme>
+  <programme start="20251004135500 +0000" stop="20251004160000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Emirates Stadiumilla, Lontoossa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004160000 +0000" stop="20251004162500 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Valioliigastudio.(n)</desc>
+  </programme>
+  <programme start="20251004162500 +0000" stop="20251004183000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Stamford Bridgellä, Lontoossa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004183000 +0000" stop="20251004190000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Valioliigastudio.(n)</desc>
+  </programme>
+  <programme start="20251004190000 +0000" stop="20251004210000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Old Traffordilla. (4.10.2024).(n)</desc>
+  </programme>
+  <programme start="20251004210000 +0000" stop="20251004230000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Emirates Stadiumilla, Lontoossa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003030000 +0000" stop="20251003043000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">MTV Uutiset Live</title>
+    <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
+  </programme>
+  <programme start="20251003043000 +0000" stop="20251003143000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Tennis: ATP 1000 Shanghai</title>
+    <desc lang="fi">ATP 1000 -turnaus Shanghai, 2. kierros ( 3.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251003143000 +0000" stop="20251003150000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">La Liga Highlights</title>
+    <desc lang="fi">La Ligan kierroskohtainen koosteohjelma. Kaikki maalit ja tärkeimmät tapahtumat sekä kierroksen parhaimman pelaajan, maalin ja torjunnan esittely. Englanninkielinen ohjelma.(n)</desc>
+  </programme>
+  <programme start="20251003150000 +0000" stop="20251003165000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">UEFA Champions League</title>
+    <desc lang="fi">Leverkusen - PSV (1.10.2025 ). Selostajana Teppo Laaksonen.(n)</desc>
+  </programme>
+  <programme start="20251003165000 +0000" stop="20251003174500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">ATP Tennis Season in Review</title>
+    <desc lang="fi">Kooste ATP-turnausten parhaista paloista. Mukana turnauksen huippuhetket, henkilökuvaukset sekä kurkistuksia turnauksen kulisseihin.(n)</desc>
+  </programme>
+  <programme start="20251003174500 +0000" stop="20251003181000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Jalkapallon MM-karsinnat: MD7 &amp; MD8 Preview</title>
+    <desc lang="fi">Jalkapallon MM-karsinnat Extra sisältää kierroksia ennakoivat preview-ohjelmat, sekä otteluita käsittelevät review-ohjelmat. Englanninkielinen ohjelma.(n)</desc>
+  </programme>
+  <programme start="20251003181000 +0000" stop="20251003184000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Inside Serie A</title>
+    <desc lang="fi">MD 6 kierroksen ennakko-ohjelma. Englanninkielinen ohjelma.(n)</desc>
+  </programme>
+  <programme start="20251003184000 +0000" stop="20251003204500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Serie A</title>
+    <desc lang="fi">Verona - Sassuolo (3.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251003204500 +0000" stop="20251003214000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">ATP Tennis Season in Review</title>
+    <desc lang="fi">Kooste ATP-turnausten parhaista paloista. Mukana turnauksen huippuhetket, henkilökuvaukset sekä kurkistuksia turnauksen kulisseihin.(n)</desc>
+  </programme>
+  <programme start="20251003214000 +0000" stop="20251003215000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Vesillä: Behind the scenes</title>
+  </programme>
+  <programme start="20251003215000 +0000" stop="20251004030000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">MTV Uutiset Live</title>
+    <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
+  </programme>
+  <programme start="20251004030000 +0000" stop="20251004043000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">MTV Uutiset Live</title>
+    <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
+  </programme>
+  <programme start="20251004043000 +0000" stop="20251004143000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Tennis: ATP 1000 Shanghai</title>
+    <desc lang="fi">ATP 1000 -turnaus Shanghai, 2. kierros ( 4.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251004143000 +0000" stop="20251004145500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Mestarien liiga: Kaikki maalit 17.9.</title>
+    <desc lang="fi">MD 2 - 30.9.2025 Mestarien liiga illan kaikki maalit ja kiinnostavimmat tapahtumat MTV Urheilun selostajien seurassa.(n)</desc>
+  </programme>
+  <programme start="20251004145500 +0000" stop="20251004152000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Mestarien liiga: Kaikki maalit 17.9.</title>
+    <desc lang="fi">MD 2 - 1.10.2025 Mestarien liiga illan kaikki maalit ja kiinnostavimmat tapahtumat MTV Urheilun selostajien seurassa.(n)</desc>
+  </programme>
+  <programme start="20251004152000 +0000" stop="20251004162500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">FIM Motocross World Championship</title>
+    <desc lang="fi">Motocrossin MM-sarja, MXGP-luokan osakilpailu ( 14.9.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251004162500 +0000" stop="20251004183000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">La Liga</title>
+    <desc lang="fi">Athletic Bilbao - Mallorca (4.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251004183000 +0000" stop="20251004185500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Motorsport Mundial</title>
+    <desc lang="fi">Viikoittainen moottoriurheiluohjelma, joka tarjoaa tuoreimmat uutiset, kisakuvaukset ja analyysit vesiurheilusta kaksi- ja nelipyöräisiin saakka. Englanninkielinen ohjelma.(n)</desc>
+  </programme>
+  <programme start="20251004185500 +0000" stop="20251004210000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">La Liga</title>
+    <desc lang="fi">Real Madrid - Villareal (4.10.2025). Selostajana Tero Karhu.(n)</desc>
+  </programme>
+  <programme start="20251004210000 +0000" stop="20251004213500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">La Liga Highlights</title>
+    <desc lang="fi">La Ligan kierroskohtainen koosteohjelma. Kaikki maalit ja tärkeimmät tapahtumat sekä kierroksen parhaimman pelaajan, maalin ja torjunnan esittely. Englanninkielinen ohjelma.(n)</desc>
+  </programme>
+  <programme start="20251004213500 +0000" stop="20251004220000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Jalkapallon MM-karsinnat: MD7 &amp; MD8 Preview</title>
+    <desc lang="fi">Jalkapallon MM-karsinnat Extra sisältää kierroksia ennakoivat preview-ohjelmat, sekä otteluita käsittelevät review-ohjelmat. Englanninkielinen ohjelma.(n)</desc>
+  </programme>
+  <programme start="20251003070000 +0000" stop="20251003085500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">UEFA Europa League</title>
+    <desc lang="fi">2.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  </programme>
+  <programme start="20251003085500 +0000" stop="20251003092500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">GP Confidential</title>
+    <desc lang="fi">Makasiiniohjelma täydentää F1-maailmaa ennennäkemättömällä tavalla ja avaa F1-tekniikan salaisuuksia. Ep18.(n)</desc>
+  </programme>
+  <programme start="20251003092500 +0000" stop="20251003103500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">3.10.2025. Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
+  </programme>
+  <programme start="20251003103500 +0000" stop="20251003125500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">UEFA Conference League</title>
+    <desc lang="fi">2.10.2025. Selostus Velja Engström.(n)</desc>
+  </programme>
+  <programme start="20251003125500 +0000" stop="20251003140500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">3.10.2025. Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
+  </programme>
+  <programme start="20251003140500 +0000" stop="20251003162500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">UEFA Europa League</title>
+    <desc lang="fi">Ultra HD -lähetysten katselu vaatii palvelumme kanssa yhteensopivan ja näyttötarkkuuden toistoon vaaditun laitteiston sekä internetyhteyden. Toisto tapahtuu aina parhaalla laitteiston ja yhteyden mahdollistamalla tarkkuudella..Selostus: Ville Kuusinen.Tapahtumapaikka: Stadion Feijenoord.(n)</desc>
+  </programme>
+  <programme start="20251003162500 +0000" stop="20251003184000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Naisten Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003184000 +0000" stop="20251003204500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004065500 +0000" stop="20251004074500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">F1 Academy</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004074500 +0000" stop="20251004085000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL: Tonight</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251004085000 +0000" stop="20251004092500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Bundesliiga: Bundesliga Weekly</title>
+    <desc lang="fi">Bundesliigan viikkomakasiini.(n)</desc>
+  </programme>
+  <programme start="20251004092500 +0000" stop="20251004103500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">4.10.2025. Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
+  </programme>
+  <programme start="20251004103500 +0000" stop="20251004123000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004123000 +0000" stop="20251004125500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">F1-Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004125500 +0000" stop="20251004145500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">4.10.2025. Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
+  </programme>
+  <programme start="20251004145500 +0000" stop="20251004165500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004165500 +0000" stop="20251004190000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">4.1.2025.(n)</desc>
+  </programme>
+  <programme start="20251004190000 +0000" stop="20251004200000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Top 50 pelaajat juuri nyt. Sijat 50-41.(n)</desc>
+  </programme>
+  <programme start="20251004200000 +0000" stop="20251004210000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Top 50 pelaajat juuri nyt. Sijat 40-31.(n)</desc>
+  </programme>
+  <programme start="20251003070000 +0000" stop="20251003085500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">UEFA Europa League</title>
+    <desc lang="fi">2.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  </programme>
+  <programme start="20251003085500 +0000" stop="20251003092500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">GP Confidential</title>
+    <desc lang="fi">Makasiiniohjelma täydentää F1-maailmaa ennennäkemättömällä tavalla ja avaa F1-tekniikan salaisuuksia. Ep18.(n)</desc>
+  </programme>
+  <programme start="20251003092500 +0000" stop="20251003103500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">3.10.2025. Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
+  </programme>
+  <programme start="20251003103500 +0000" stop="20251003125500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">UEFA Conference League</title>
+    <desc lang="fi">2.10.2025. Selostus Velja Engström.(n)</desc>
+  </programme>
+  <programme start="20251003125500 +0000" stop="20251003140500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">3.10.2025. Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
+  </programme>
+  <programme start="20251003140500 +0000" stop="20251003162500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">UEFA Europa League</title>
+    <desc lang="fi">Ultra HD -lähetysten katselu vaatii palvelumme kanssa yhteensopivan ja näyttötarkkuuden toistoon vaaditun laitteiston sekä internetyhteyden. Toisto tapahtuu aina parhaalla laitteiston ja yhteyden mahdollistamalla tarkkuudella..Selostus: Ville Kuusinen.Tapahtumapaikka: Stadion Feijenoord.(n)</desc>
+  </programme>
+  <programme start="20251003162500 +0000" stop="20251003184000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Naisten Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003184000 +0000" stop="20251003204500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004065500 +0000" stop="20251004074500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">F1 Academy</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004074500 +0000" stop="20251004085000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL: Tonight</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251004085000 +0000" stop="20251004092500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Bundesliiga: Bundesliga Weekly</title>
+    <desc lang="fi">Bundesliigan viikkomakasiini.(n)</desc>
+  </programme>
+  <programme start="20251004092500 +0000" stop="20251004103500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">4.10.2025. Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
+  </programme>
+  <programme start="20251004103500 +0000" stop="20251004123000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004123000 +0000" stop="20251004125500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">F1-Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004125500 +0000" stop="20251004145500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">4.10.2025. Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
+  </programme>
+  <programme start="20251004145500 +0000" stop="20251004165500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004165500 +0000" stop="20251004190000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">4.1.2025.(n)</desc>
+  </programme>
+  <programme start="20251004190000 +0000" stop="20251004200000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Top 50 pelaajat juuri nyt. Sijat 50-41.(n)</desc>
+  </programme>
+  <programme start="20251004200000 +0000" stop="20251004210000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Top 50 pelaajat juuri nyt. Sijat 40-31.(n)</desc>
+  </programme>
+  <programme start="20251003070000 +0000" stop="20251003073000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga: The Big Interview</title>
+  </programme>
+  <programme start="20251003073000 +0000" stop="20251003093000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">UEFA Conference League</title>
+    <desc lang="fi">2.10.2025. Selostus Velja Engström.(n)</desc>
+  </programme>
+  <programme start="20251003093000 +0000" stop="20251003113000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">UEFA Europa League</title>
+    <desc lang="fi">Ultra HD -lähetysten katselu vaatii palvelumme kanssa yhteensopivan ja näyttötarkkuuden toistoon vaaditun laitteiston sekä internetyhteyden. Toisto tapahtuu aina parhaalla laitteiston ja yhteyden mahdollistamalla tarkkuudella..Selostus: Ville Kuusinen.Tapahtumapaikka: Stadion Feijenoord.(n)</desc>
+  </programme>
+  <programme start="20251003113000 +0000" stop="20251003133000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">UEFA Europa League</title>
+    <desc lang="fi">2.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  </programme>
+  <programme start="20251003133000 +0000" stop="20251003140000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga: Premier League Netbusters</title>
+    <desc lang="fi">Makasiiniohjelma.(n)</desc>
+  </programme>
+  <programme start="20251003140000 +0000" stop="20251003150000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Premier League The Catch Up Show</title>
+  </programme>
+  <programme start="20251003150000 +0000" stop="20251003155500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Bundesliga Highlights</title>
+    <desc lang="fi">Huippuhetkiä 5. kierrokselta.(n)</desc>
+  </programme>
+  <programme start="20251003155500 +0000" stop="20251003162500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Bundesliiga: Bundesliga Weekly</title>
+    <desc lang="fi">Bundesliigan viikkomakasiini.(n)</desc>
+  </programme>
+  <programme start="20251003162500 +0000" stop="20251003185000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">2. Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003185000 +0000" stop="20251003210000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">3.10.2025. Selostus Mikko Innanen.(n)</desc>
+  </programme>
+  <programme start="20251004050000 +0000" stop="20251004070000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">3.10.2025. Selostus Mikko Innanen.(n)</desc>
+  </programme>
+  <programme start="20251004070000 +0000" stop="20251004080000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga: Welcome to the Weekend</title>
+  </programme>
+  <programme start="20251004080000 +0000" stop="20251004090000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga: Fanzone</title>
+    <desc lang="fi">Valioliiga-kanavan ohjelmaa.(n)</desc>
+  </programme>
+  <programme start="20251004090000 +0000" stop="20251004100000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga: Team Talks</title>
+  </programme>
+  <programme start="20251004100000 +0000" stop="20251004103000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga: Fantasy</title>
+  </programme>
+  <programme start="20251004103000 +0000" stop="20251004110000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Premier League Preview</title>
+    <desc lang="fi">Makasiiniohjelma.(n)</desc>
+  </programme>
+  <programme start="20251004110000 +0000" stop="20251004112500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004112500 +0000" stop="20251004132500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Ville Kuusinen.(n)</desc>
+  </programme>
+  <programme start="20251004132500 +0000" stop="20251004135500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004135500 +0000" stop="20251004155500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  </programme>
+  <programme start="20251004155500 +0000" stop="20251004162500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004162500 +0000" stop="20251004182500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Mikko Innanen.(n)</desc>
+  </programme>
+  <programme start="20251004182500 +0000" stop="20251004190000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004190000 +0000" stop="20251004210500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003070000 +0000" stop="20251003073000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga: The Big Interview</title>
+  </programme>
+  <programme start="20251003073000 +0000" stop="20251003093000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">UEFA Conference League</title>
+    <desc lang="fi">2.10.2025. Selostus Velja Engström.(n)</desc>
+  </programme>
+  <programme start="20251003093000 +0000" stop="20251003113000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">UEFA Europa League</title>
+    <desc lang="fi">Ultra HD -lähetysten katselu vaatii palvelumme kanssa yhteensopivan ja näyttötarkkuuden toistoon vaaditun laitteiston sekä internetyhteyden. Toisto tapahtuu aina parhaalla laitteiston ja yhteyden mahdollistamalla tarkkuudella..Selostus: Ville Kuusinen.Tapahtumapaikka: Stadion Feijenoord.(n)</desc>
+  </programme>
+  <programme start="20251003113000 +0000" stop="20251003133000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">UEFA Europa League</title>
+    <desc lang="fi">2.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  </programme>
+  <programme start="20251003133000 +0000" stop="20251003140000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga: Premier League Netbusters</title>
+    <desc lang="fi">Makasiiniohjelma.(n)</desc>
+  </programme>
+  <programme start="20251003140000 +0000" stop="20251003150000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Premier League The Catch Up Show</title>
+  </programme>
+  <programme start="20251003150000 +0000" stop="20251003155500 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Bundesliga Highlights</title>
+    <desc lang="fi">Huippuhetkiä 5. kierrokselta.(n)</desc>
+  </programme>
+  <programme start="20251003155500 +0000" stop="20251003162500 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Bundesliiga: Bundesliga Weekly</title>
+    <desc lang="fi">Bundesliigan viikkomakasiini.(n)</desc>
+  </programme>
+  <programme start="20251003162500 +0000" stop="20251003185000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">2. Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003185000 +0000" stop="20251003210000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">3.10.2025. Selostus Mikko Innanen.(n)</desc>
+  </programme>
+  <programme start="20251004050000 +0000" stop="20251004070000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">3.10.2025. Selostus Mikko Innanen.(n)</desc>
+  </programme>
+  <programme start="20251004070000 +0000" stop="20251004080000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga: Welcome to the Weekend</title>
+  </programme>
+  <programme start="20251004080000 +0000" stop="20251004090000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga: Fanzone</title>
+    <desc lang="fi">Valioliiga-kanavan ohjelmaa.(n)</desc>
+  </programme>
+  <programme start="20251004090000 +0000" stop="20251004100000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga: Team Talks</title>
+  </programme>
+  <programme start="20251004100000 +0000" stop="20251004103000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga: Fantasy</title>
+  </programme>
+  <programme start="20251004103000 +0000" stop="20251004110000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Premier League Preview</title>
+    <desc lang="fi">Makasiiniohjelma.(n)</desc>
+  </programme>
+  <programme start="20251004110000 +0000" stop="20251004112500 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004112500 +0000" stop="20251004132500 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Ville Kuusinen.(n)</desc>
+  </programme>
+  <programme start="20251004132500 +0000" stop="20251004135500 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004135500 +0000" stop="20251004155500 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  </programme>
+  <programme start="20251004155500 +0000" stop="20251004162500 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004162500 +0000" stop="20251004182500 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Mikko Innanen.(n)</desc>
+  </programme>
+  <programme start="20251004182500 +0000" stop="20251004190000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Premier League Studio</title>
+    <desc lang="fi">Suora lähetys.(n)</desc>
+  </programme>
+  <programme start="20251004190000 +0000" stop="20251004210500 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003070000 +0000" stop="20251003090000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">EFL Championship</title>
+    <desc lang="fi">2.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003090000 +0000" stop="20251003111500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">DFB-Pokal Frauen</title>
+    <desc lang="fi">29.9.2025. 1. kierros.(n)</desc>
+  </programme>
+  <programme start="20251003111500 +0000" stop="20251003114500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Formula Regional</title>
+    <desc lang="fi">Ajettujen kisojen kohokohtia. Formula Regional 2025.(n)</desc>
+  </programme>
+  <programme start="20251003114500 +0000" stop="20251003134500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">EFL Championship</title>
+    <desc lang="fi">1.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003134500 +0000" stop="20251003154500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">EFL Championship</title>
+    <desc lang="fi">2.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003154500 +0000" stop="20251003161500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Ligue 1 Preview Show</title>
+    <desc lang="fi">Makasiiniohjelma.(n)</desc>
+  </programme>
+  <programme start="20251003161500 +0000" stop="20251003182000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">UEFA Conference League</title>
+    <desc lang="fi">2.10.2025. Selostus Velja Engström.(n)</desc>
+  </programme>
+  <programme start="20251003182000 +0000" stop="20251003203000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003203000 +0000" stop="20251003210000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Ligue 1 Preview Show</title>
+    <desc lang="fi">Makasiiniohjelma.(n)</desc>
+  </programme>
+  <programme start="20251004050000 +0000" stop="20251004070000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004070000 +0000" stop="20251004090500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">2. Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004090500 +0000" stop="20251004095500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Porsche Carrera Cup Benelux</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004095500 +0000" stop="20251004102500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">FastZone</title>
+    <desc lang="fi">Makasiiniohjelma käy viikoittain läpi moottoriurheilun parhaat palat kilparadoilta ja niiden ulkopuolelta. Ep25.(n)</desc>
+  </programme>
+  <programme start="20251004102500 +0000" stop="20251004112500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Ferrari Challenge</title>
+    <desc lang="fi">Ajettujen kisojen kohokohtia. Ferrari Challenge Europe 2025.(n)</desc>
+  </programme>
+  <programme start="20251004112500 +0000" stop="20251004135000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">EFL Championship</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004135000 +0000" stop="20251004162000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Ville Kuusinen.(n)</desc>
+  </programme>
+  <programme start="20251004162000 +0000" stop="20251004182500 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Bundesliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  </programme>
+  <programme start="20251004182500 +0000" stop="20251004203000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">2. Bundesliiga</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004203000 +0000" stop="20251004210000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kooste Singaporen aika-ajoista 4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003070000 +0000" stop="20251003090000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">EFL Championship</title>
+    <desc lang="fi">2.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003090000 +0000" stop="20251003111500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">DFB-Pokal Frauen</title>
+    <desc lang="fi">29.9.2025. 1. kierros.(n)</desc>
+  </programme>
+  <programme start="20251003111500 +0000" stop="20251003114500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Formula Regional</title>
+    <desc lang="fi">Ajettujen kisojen kohokohtia. Formula Regional 2025.(n)</desc>
+  </programme>
+  <programme start="20251003114500 +0000" stop="20251003134500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">EFL Championship</title>
+    <desc lang="fi">1.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003134500 +0000" stop="20251003154500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">EFL Championship</title>
+    <desc lang="fi">2.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003154500 +0000" stop="20251003161500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Ligue 1 Preview Show</title>
+    <desc lang="fi">Makasiiniohjelma.(n)</desc>
+  </programme>
+  <programme start="20251003161500 +0000" stop="20251003182000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">UEFA Conference League</title>
+    <desc lang="fi">2.10.2025. Selostus Velja Engström.(n)</desc>
+  </programme>
+  <programme start="20251003182000 +0000" stop="20251003203000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003203000 +0000" stop="20251003210000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Ligue 1 Preview Show</title>
+    <desc lang="fi">Makasiiniohjelma.(n)</desc>
+  </programme>
+  <programme start="20251004050000 +0000" stop="20251004070000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004070000 +0000" stop="20251004090500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">2. Bundesliiga</title>
+    <desc lang="fi">3.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004090500 +0000" stop="20251004095500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Porsche Carrera Cup Benelux</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004095500 +0000" stop="20251004102500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">FastZone</title>
+    <desc lang="fi">Makasiiniohjelma käy viikoittain läpi moottoriurheilun parhaat palat kilparadoilta ja niiden ulkopuolelta. Ep25.(n)</desc>
+  </programme>
+  <programme start="20251004102500 +0000" stop="20251004112500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Ferrari Challenge</title>
+    <desc lang="fi">Ajettujen kisojen kohokohtia. Ferrari Challenge Europe 2025.(n)</desc>
+  </programme>
+  <programme start="20251004112500 +0000" stop="20251004135000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">EFL Championship</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004135000 +0000" stop="20251004162000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Ville Kuusinen.(n)</desc>
+  </programme>
+  <programme start="20251004162000 +0000" stop="20251004182500 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Bundesliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  </programme>
+  <programme start="20251004182500 +0000" stop="20251004203000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">2. Bundesliiga</title>
+    <desc lang="fi">4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251004203000 +0000" stop="20251004210000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kooste Singaporen aika-ajoista 4.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251003110000 +0000" stop="20251003130000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">6. kierroksen ottelu pelataan St. James' Parkilla. (28.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003130000 +0000" stop="20251003133000 +0000" channel="V sport.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kohokohtia kilpailusta, joka pelattiin Golf de Saint-Nom-La-Bretèchessä, Pariisissa, Ranskassa. (18.-21.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003133000 +0000" stop="20251003140000 +0000" channel="V sport.fi">
+    <title lang="fi">Premier League Stories</title>
+    <desc lang="fi">Makasiiniohjelma Valioliigasta.(n)</desc>
+  </programme>
+  <programme start="20251003140000 +0000" stop="20251003143000 +0000" channel="V sport.fi">
+    <title lang="fi">Ligue 1 Highlights</title>
+    <desc lang="fi">Kohokohtia Ligue 1:n viimeisimmältä kierrokselta.(n)</desc>
+  </programme>
+  <programme start="20251003143000 +0000" stop="20251003150000 +0000" channel="V sport.fi">
+    <title lang="fi">MLB: Plays Of The Week</title>
+    <desc lang="fi">Major League Baseballin viikon kohokohdat.(n)</desc>
+  </programme>
+  <programme start="20251003150000 +0000" stop="20251003173000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">6. kierroksen ottelu pelataan Hill Dickinson Stadiumilla, Liverpoolissa. (29.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003173000 +0000" stop="20251003180000 +0000" channel="V sport.fi">
+    <title lang="fi">Premier League Stories</title>
+    <desc lang="fi">Makasiiniohjelma Valioliigasta.(n)</desc>
+  </programme>
+  <programme start="20251003180000 +0000" stop="20251003184000 +0000" channel="V sport.fi">
+    <title lang="fi">Premier League Preview</title>
+    <desc lang="fi">Ennakko-ohjelma Valioliigan tulevasta kierroksesta.(n)</desc>
+  </programme>
+  <programme start="20251003184000 +0000" stop="20251003204500 +0000" channel="V sport.fi">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Stade Jean Bouinilla, Pariisissa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003204500 +0000" stop="20251003224500 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">6. kierroksen ottelu pelataan Villa Parkilla, Birminghamissa. (28.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251004111500 +0000" stop="20251004114500 +0000" channel="V sport.fi">
+    <title lang="fi">Premier League Stories</title>
+    <desc lang="fi">Makasiiniohjelma Valioliigasta.(n)</desc>
+  </programme>
+  <programme start="20251004114500 +0000" stop="20251004121500 +0000" channel="V sport.fi">
+    <title lang="fi">Premier League Preview</title>
+    <desc lang="fi">Ennakko-ohjelma Valioliigan tulevasta kierroksesta.(n)</desc>
+  </programme>
+  <programme start="20251004121500 +0000" stop="20251004124500 +0000" channel="V sport.fi">
+    <title lang="fi">MLB: Plays Of The Week</title>
+    <desc lang="fi">Major League Baseballin viikon kohokohdat.(n)</desc>
+  </programme>
+  <programme start="20251004124500 +0000" stop="20251004134500 +0000" channel="V sport.fi">
+    <title lang="fi">Premier League Review</title>
+    <desc lang="fi">Kohokohtia Valioliigan viimeisimmältä kierrokselta.(n)</desc>
+  </programme>
+  <programme start="20251004134500 +0000" stop="20251004141500 +0000" channel="V sport.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kohokohtia kilpailusta, joka pelattiin Golf de Saint-Nom-La-Bretèchessä, Pariisissa, Ranskassa. (18.-21.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251004141500 +0000" stop="20251004145500 +0000" channel="V sport.fi">
+    <title lang="fi">Ligue 1 Highlights</title>
+    <desc lang="fi">Kohokohtia Ligue 1:n viimeisimmältä kierrokselta.(n)</desc>
+  </programme>
+  <programme start="20251004145500 +0000" stop="20251004170000 +0000" channel="V sport.fi">
+    <title lang="fi">Ligue 1</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Stade Saint-Symphorienilla. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004170000 +0000" stop="20251004190000 +0000" channel="V sport.fi">
+    <title lang="fi">Bundesliiga</title>
+    <desc lang="fi">6. kierroksen ottelu pelataan PreZero Arenalla, Sinsheimissa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004190000 +0000" stop="20251004210000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Emirates Stadiumilla, Lontoossa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004210000 +0000" stop="20251004230000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Stamford Bridgellä, Lontoossa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003100000 +0000" stop="20251003110000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251003110000 +0000" stop="20251003130000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan Canadian Tire Centressä. (21.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003130000 +0000" stop="20251003150000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan Honda Centerissä. (22.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003150000 +0000" stop="20251003160000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251003160000 +0000" stop="20251003180000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan T-Mobile Arenassa, Las Vegasissa. (23.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003180000 +0000" stop="20251003200000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan Lenovo Centerissä, Raleigh'ssa. (24.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003200000 +0000" stop="20251003210000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251003210000 +0000" stop="20251003230000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan T-Mobile Arenassa, Las Vegasissa. (25.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251004100000 +0000" stop="20251004110000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251004110000 +0000" stop="20251004130000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan T-Mobile Arenassa, Las Vegasissa. (25.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251004130000 +0000" stop="20251004150000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan Lenovo Centerissä, Raleigh'ssa. (24.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251004150000 +0000" stop="20251004160000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251004160000 +0000" stop="20251004180000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan T-Mobile Arenassa, Las Vegasissa. (23.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251004180000 +0000" stop="20251004200000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan Honda Centerissä. (22.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251004200000 +0000" stop="20251004210000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251004210000 +0000" stop="20251004230000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Harjoitusottelu pelataan Canadian Tire Centressä. (21.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251003070000 +0000" stop="20251003100000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf: LPGA Tour</title>
+    <desc lang="fi">Kilpailu pelataan Hoakalei Country Clubilla, Havaijissa. (1.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003100000 +0000" stop="20251003110000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf Central</title>
+    <desc lang="fi">Makasiiniohjelma, joka tarjoaa parhaat ja uusimmat uutiset golfin maailmasta ja pelaajien ja asiantuntijoiden haastatteluja.(n)</desc>
+  </programme>
+  <programme start="20251003110000 +0000" stop="20251003160000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kilpailu pelataan Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003160000 +0000" stop="20251003170000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf Central</title>
+    <desc lang="fi">Makasiiniohjelma, joka tarjoaa parhaat ja uusimmat uutiset golfin maailmasta ja pelaajien ja asiantuntijoiden haastatteluja.(n)</desc>
+  </programme>
+  <programme start="20251003170000 +0000" stop="20251003220000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kilpailu pelataan Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003220000 +0000" stop="20251003230000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf Central</title>
+    <desc lang="fi">Makasiiniohjelma, joka tarjoaa parhaat ja uusimmat uutiset golfin maailmasta ja pelaajien ja asiantuntijoiden haastatteluja.(n)</desc>
+  </programme>
+  <programme start="20251003230000 +0000" stop="20251004020000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf: LPGA Tour</title>
+    <desc lang="fi">Kilpailu pelataan Hoakalei Country Clubilla, Havaijissa. (1.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004070000 +0000" stop="20251004100000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf: LPGA Tour</title>
+    <desc lang="fi">Kilpailu pelataan Hoakalei Country Clubilla, Havaijissa. (1.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004100000 +0000" stop="20251004103000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Challenge Tour Grand Final Highlights</title>
+    <desc lang="fi">Kohokohtia kilpailusta, joka pelattiin Golf Nazionalessa, Sutrissa, Italiassa. (18.-21.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251004103000 +0000" stop="20251004110000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kohokohtia kilpailusta, joka pelattiin Golf de Saint-Nom-La-Bretèchessä, Pariisissa, Ranskassa. (18.-21.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251004110000 +0000" stop="20251004160000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kilpailu pelataan Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004160000 +0000" stop="20251004170000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf Central</title>
+    <desc lang="fi">Makasiiniohjelma, joka tarjoaa parhaat ja uusimmat uutiset golfin maailmasta ja pelaajien ja asiantuntijoiden haastatteluja.(n)</desc>
+  </programme>
+  <programme start="20251004170000 +0000" stop="20251004220000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kilpailu pelataan Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004220000 +0000" stop="20251004230000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf Central</title>
+    <desc lang="fi">Makasiiniohjelma, joka tarjoaa parhaat ja uusimmat uutiset golfin maailmasta ja pelaajien ja asiantuntijoiden haastatteluja.(n)</desc>
+  </programme>
+  <programme start="20251004230000 +0000" stop="20251005020000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf: LPGA Tour</title>
+    <desc lang="fi">Kilpailu pelataan Hoakalei Country Clubilla, Havaijissa. (1.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003092500 +0000" stop="20251003103500 +0000" channel="V Sport Live 1.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003125500 +0000" stop="20251003140500 +0000" channel="V Sport Live 1.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004092500 +0000" stop="20251004103500 +0000" channel="V Sport Live 1.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004125500 +0000" stop="20251004140500 +0000" channel="V Sport Live 1.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003092500 +0000" stop="20251003103500 +0000" channel="V Sport Live 2.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003125500 +0000" stop="20251003140500 +0000" channel="V Sport Live 2.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004092500 +0000" stop="20251004103500 +0000" channel="V Sport Live 2.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004125500 +0000" stop="20251004140500 +0000" channel="V Sport Live 2.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003092500 +0000" stop="20251003103500 +0000" channel="V Sport Live 3.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003125500 +0000" stop="20251003140500 +0000" channel="V Sport Live 3.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004092500 +0000" stop="20251004103500 +0000" channel="V Sport Live 3.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004125500 +0000" stop="20251004140500 +0000" channel="V Sport Live 3.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003092500 +0000" stop="20251003103500 +0000" channel="V Sport Live 4.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003125500 +0000" stop="20251003140500 +0000" channel="V Sport Live 4.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (3.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004092500 +0000" stop="20251004103500 +0000" channel="V Sport Live 4.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251004125500 +0000" stop="20251004140500 +0000" channel="V Sport Live 4.fi">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251003032500 +0000" stop="20251003063000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Ylen aamu</title>
+    <desc lang="fi">6.39 Kääntääkö USA:n tiedustelutieto Ukrainan sodan kulun? 7.09 Miksi olemme niin törkeitä internetissä? 7.25 Vaikuttaako kuuma kesä taimenien ja lohien kutuun? 7.42 Jälkiviisaat 8.24 Lapin säilölumi on myyntivaltti myös maailmalla 8.50 Ymmärretäänkö työpaikoilla kulttuurin merkitys? Studiossa Totti Toivonen ja Ilkka Lahti.(n)</desc>
+  </programme>
+  <programme start="20251003063000 +0000" stop="20251003065900 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Puoli seitsemän</title>
+    <desc lang="fi">Kirjailija Tuomas Kyrö on kävelevä urheilutietopankki. Hänen mökkinsä seinää koristaa kolme kultalevyä, ja metsäkävelyiden lisäksi hän tuulettaa päätään kuljeskelemalla hautausmaalla. Juontajina Ella Kanninen ja Mikko Kekäläinen.(n)</desc>
+  </programme>
+  <programme start="20251003065900 +0000" stop="20251003080000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">La Promesa</title>
+    <desc lang="fi">Martinan ihailija lähettää Alonsolle kirjeen, joka saa koko kartanon sekaisin. Pían synnytys kestää tuskallisen pitkään vaikka Abel ja Jana tekevät kaiken voitavansa.(n)</desc>
+  </programme>
+  <programme start="20251003080000 +0000" stop="20251003080500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Uusimaa</title>
+    <desc lang="fi">Uutisia Uudeltamaalta.(n)</desc>
+  </programme>
+  <programme start="20251003080500 +0000" stop="20251003081000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Kaakkois-Suomi</title>
+    <desc lang="fi">Uutisia Kaakkois-Suomesta.(n)</desc>
+  </programme>
+  <programme start="20251003081000 +0000" stop="20251003081500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Lounais-Suomi</title>
+    <desc lang="fi">Uutisia Lounais-Suomesta.(n)</desc>
+  </programme>
+  <programme start="20251003081500 +0000" stop="20251003082000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Häme</title>
+    <desc lang="fi">Uutisia Kanta- ja Päijät-Hämeestä.(n)</desc>
+  </programme>
+  <programme start="20251003082000 +0000" stop="20251003082500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Pirkanmaa</title>
+    <desc lang="fi">Uutisia Pirkanmaalta.(n)</desc>
+  </programme>
+  <programme start="20251003082500 +0000" stop="20251003083000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Keski-Suomi ja Etelä-Savo</title>
+    <desc lang="fi">Uutisia Keski-Suomesta ja Etelä-Savosta.(n)</desc>
+  </programme>
+  <programme start="20251003083000 +0000" stop="20251003083500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Itä-Suomi</title>
+    <desc lang="fi">Uutisia Itä-Suomesta.(n)</desc>
+  </programme>
+  <programme start="20251003083500 +0000" stop="20251003084000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Pohjanmaa</title>
+    <desc lang="fi">Uutisia Pohjamaalta.(n)</desc>
+  </programme>
+  <programme start="20251003084000 +0000" stop="20251003084500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Pohjois-Suomi</title>
+    <desc lang="fi">Uutisia Pohjois-Suomesta.(n)</desc>
+  </programme>
+  <programme start="20251003084500 +0000" stop="20251003085000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Lappi</title>
+    <desc lang="fi">Uutisia Lapista.(n)</desc>
+  </programme>
+  <programme start="20251003085000 +0000" stop="20251003085400 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Oddasat</title>
+    <desc lang="fi">Ylen omat saamenkieliset tv-uutiset arkisin klo 16.45. Tekstitetty suomeksi. Muista myös pohjoismaiset saamenkieliset tv-uutiset arkisin myöhäisillassa suomenkielisten uutisten jälkeen.(n)</desc>
+  </programme>
+  <programme start="20251003085400 +0000" stop="20251003091000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Oddasat</title>
+  </programme>
+  <programme start="20251003091000 +0000" stop="20251003093000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Van Life</title>
+    <desc lang="fi">Voiko tällaista ollakaan? Slovenia ja sen smaragdinväriset vedet vievät pakumatkaajan sydämen siitäkin huolimatta, että puskaparkkeilu on maassa kielletty. Ehkä osittain siksi toteutuu myös yksi Ainon pitkäaikaisista haaveista: yö omassa kodissa viiniköynnösten katveessa.(n)</desc>
+  </programme>
+  <programme start="20251003093000 +0000" stop="20251003101600 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Summertide - Kotilahden kutsu</title>
+    <desc lang="fi">Jack ja Martin tutkivat rannalla tapahtunutta räjähdystä. Kenen on vastuu? Wesley ja Amina lähentyvät toisiaan. Hannes saa yllättävän vieraan.(n)</desc>
+  </programme>
+  <programme start="20251003101600 +0000" stop="20251003115000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Lähellä syntiä</title>
+    <desc lang="fi">Lämminhenkinen perhe-elokuva naisesta, jonka aviomies palaa vuosien sotavankeudesta osin muistinsa menettäneenä. O: Hanno Leminen. N: Tuija Halonen, Erkki Viljos, Felix Taraste, Aku Korhonen. T: Suomi-Filmi. (1955) (Mv).(n)</desc>
+  </programme>
+  <programme start="20251003115000 +0000" stop="20251003115500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Ryysyrannan Jooseppi</title>
+    <desc lang="fi">Ilmari Kiannon romaaniin perustuva elokuva suurperheen elämästä Nälkämaan korvessa 1920-luvulla. Ohjaus: Roland af Hällström. N: Heimo Lepistö, Hilkka Helinä, Elvi Saarnio, Senni Nieminen, Leif Wager, Matti Lehtelä.(n)</desc>
+  </programme>
+  <programme start="20251003115500 +0000" stop="20251003122500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Antiikkimies</title>
+    <desc lang="fi">Mikko Viinikka ostaa kuolinpesiä ja perkaa poismenneiden tavarat huutokauppoihin tai kaatopaikalle. Mikko on arjen antiikkimies, joka ei tavaroilla tunteile.(n)</desc>
+  </programme>
+  <programme start="20251003122500 +0000" stop="20251003125500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Rahdinmetsästäjät</title>
+    <desc lang="fi">Lomalta palaavaa Samia odottaa kotipihassa ikävä yllätys. Juha ja Atlas joutuvat etsimään huoltoa tien päältä eikä työn laatu oikein vakuuta. Kahvinkeittokaan rekassa ei suju ihan ongelmitta.(n)</desc>
+  </programme>
+  <programme start="20251003125500 +0000" stop="20251003133500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">A-studio</title>
+    <desc lang="fi">Yhdysvaltain presidentti Donald Trump julkisti maanantaina 20-kohtaisen rauhansuunnitelman Gazan sodan lopettamiseksi. Tuoko se vihdoin rauhan Lähi-itään ja miten Hamas siihen suhtautuu?  A-Talkissa Gazan tulevaisuudesta keskustelevat eduskunnan ulkoasianvaliokunnan puheenjohtaja Johannes Koskinen (sd.), ulkoasiainvaliokunnan jäsen Atte Kaleva (kok.), apulaisprofessori Rinna Kullaa ja vieraileva johtava asiantuntija Olli Ruohomäki. Juontaja on Annika Damström.(n)</desc>
+  </programme>
+  <programme start="20251003133500 +0000" stop="20251003134000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset selkosuomeksi</title>
+    <desc lang="fi">Tv-uutiset selkosuomeksi. Tekstitetty.(n)</desc>
+  </programme>
+  <programme start="20251003134000 +0000" stop="20251003134500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Oddasat</title>
+    <desc lang="fi">Ylen omat saamenkieliset tv-uutiset arkisin klo 16.45. Tekstitetty suomeksi. Muista myös pohjoismaiset saamenkieliset tv-uutiset arkisin myöhäisillassa suomenkielisten uutisten jälkeen.(n)</desc>
+  </programme>
+  <programme start="20251003134500 +0000" stop="20251003135000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Novosti Yle</title>
+    <desc lang="fi">Venäjänkieliset uutiset.(n)</desc>
+  </programme>
+  <programme start="20251003135000 +0000" stop="20251003135500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset viittomakielellä</title>
+    <desc lang="fi">Yle Uutiset viittomakielellä kertoo päivän tärkeimmät uutisaiheet viittomakielellä. Ohjelma käsittelee myös kuuroihin ja viittomakieleen liittyviä aiheita. Uutisankkureina toimivat äidinkieleltään viittomakieliset kuurot. Uutiset toimitetaan vuoden jokaisena päivänä.(n)</desc>
+  </programme>
+  <programme start="20251003135500 +0000" stop="20251003140000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Alueeltasi</title>
+    <desc lang="fi">Uutisia alueeltasi.(n)</desc>
+  </programme>
+  <programme start="20251003140000 +0000" stop="20251003141000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251003141000 +0000" stop="20251003150000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Summertide - Kotilahden kutsu</title>
+    <desc lang="fi">Joannan yllättävä paluu järkyttää Hanneksen perhettä. Lahdella kuvattu räjähdys huolestuttaa Jackia ja Martinia. Kuinka Martin reagoi Charlien palatessa? Estella kertoo Rebeccalle traumaattisesta kokemuksestaan tulipalossa.(n)</desc>
+  </programme>
+  <programme start="20251003150000 +0000" stop="20251003152100 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251003152100 +0000" stop="20251003153000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Alueeltasi</title>
+    <desc lang="fi">Uutisia alueeltasi.(n)</desc>
+  </programme>
+  <programme start="20251003153000 +0000" stop="20251003160000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Puoli seitsemän</title>
+    <desc lang="fi">Perjantai pinkillä sohvalla: näyttelijä Mikko Töyssy, yleisurheiluasiantuntija Tuomas Raja, laulaja-lauluntekijä Rebekka Holi ja kirjailija Tuomas Kyrö.(n)</desc>
+  </programme>
+  <programme start="20251003160000 +0000" stop="20251003164600 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Grantchester</title>
+    <desc lang="fi">Alphyn lupaavasti alkanut ihastus törmää päin seinää. Lahjakas naisopiskelija löytyy kuolleena metsästä, mutta miten hän sinne joutui? Geordie kokee pienen järkytyksen.(n)</desc>
+  </programme>
+  <programme start="20251003164600 +0000" stop="20251003165500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Periaatekysymys</title>
+    <desc lang="fi">Lyhytelokuva parkkipirkosta, joka janoaa rakkautta ja hyväksyntää, mutta tielle asettuu hänen oma periaatteellisuutensa. O: Anton Lipasti ja Eetu Helenius. Suomi 2022. Lyhytelokuva sai tuomariston myöntämän erikoispalkinnon kotimaisen kilpailun alle 30 minuuttisten sarjassa Tampereen elokuvajuhlilla 2023.(n)</desc>
+  </programme>
+  <programme start="20251003165500 +0000" stop="20251003170000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Kovan viikon ilta</title>
+    <desc lang="fi">Uusi kausi tulossa 27.9. alkaen! Jukka Lindström tarjoilee viikon viihdyttävimmän uutispaketin. Kovan viikon ilta kokoaa pitelemättömät koomikot ja sanavalmiit toimittajat yhteisen pöydän ääreen perkaamaan kiinnostavimmat ajankohtaiset puheenaiheet. Lindströmin seurana nähdään näyttelijä-käsikirjoittajat Niina Lahtinen ja Joonas Nordman, sekä toimittaja Ruben Stiller. Mukana ovat myös koomikot Iikka Kivi, Aatu Raitala ja Eeva Vekki, brändijohtaja Lotta Backlund, toimituspäällikkö Vappu Kaarenoja, sekä toimittajat Jari Hanska, Adile Sevimli ja Robert Sundman.(n)</desc>
+  </programme>
+  <programme start="20251003170000 +0000" stop="20251003172900 +0000" channel="Yle TV1.fi">
+    <title lang="fi">M/S Mystery</title>
+    <desc lang="fi">Riku lähtee selvittämään Steven Seagalin näköisen miehen henkilöllisyyttä ja mahdollista osallisuutta laivakatoamisiin. Samalla tutkimustyön eettisyys laitetaan suurennuslasin alle. Eetu on monen muun ohella joutunut Steven Seagalin näköisen miehen uhriksi. Alamaailman huhu laivatuuppijasta tarkastetaan. Riku tapaa Rautaheimoa ja Nokkosta ja käy läpi huhujen ja faktojen välistä ohutta punaista lankaa. Mutta sitten tulee jymypommi: Turun Airiston syvänteestä, laivaväylän varrelta, on löytynyt meren pohjasta kaksi ruumista.(n)</desc>
+  </programme>
+  <programme start="20251003172900 +0000" stop="20251003175500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251003175500 +0000" stop="20251003180500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Urheiluruutu</title>
+    <desc lang="fi">Päivän tärkeimmät urheilu-uutiset.(n)</desc>
+  </programme>
+  <programme start="20251003180500 +0000" stop="20251003185500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Sohvaperunat</title>
+    <desc lang="fi">Sohvaperunat ovat taas valmiina kommentoimaan ja elämään kanssasi viikon televisiotarjontaa. Ohjelma näyttää suomalaisen televisiokatselukokemuksen aidoimmillaan.(n)</desc>
+  </programme>
+  <programme start="20251003185500 +0000" stop="20251003185900 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251003185900 +0000" stop="20251003190300 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Urheiluruutu</title>
+    <desc lang="fi">Päivän tärkeimmät urheilu-uutiset.(n)</desc>
+  </programme>
+  <programme start="20251003190300 +0000" stop="20251003191100 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Uutis-Suomi</title>
+    <desc lang="fi">Kiinnostavia uutisia eri puolelta Suomea.(n)</desc>
+  </programme>
+  <programme start="20251003191100 +0000" stop="20251003201000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Vigil</title>
+    <desc lang="fi">Väkivaltainen välikohtaus armeijan tukikohdassa johdattaa Amyn syyllisen jäljille. Kotipuolessa Kirsten harjoittaa kissa-hiiri-leikkiä ampujan kanssa ja raskauden loppusuora alkaa vaatia veronsa.(n)</desc>
+  </programme>
+  <programme start="20251003201000 +0000" stop="20251003202500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Oddasat</title>
+  </programme>
+  <programme start="20251003202500 +0000" stop="20251003211800 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Silent Witness</title>
+    <desc lang="fi">Pilvenpiirtäjän katolta syöksyy mies varmaan kuolemaan. Lyellin väki hämmästyy huomatessaan, että poliisin sijasta tapausta tutkii järjestäytyneen rikollisuuden yksikkö NCA. Mistä on kyse?(n)</desc>
+  </programme>
+  <programme start="20251003211800 +0000" stop="20251003214500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Naissotilaat</title>
+    <desc lang="fi">Airi, Jasmin, Sanni T. ja Sanni K. ovat päässeet kotiutumaan uusiin yksikköihinsä. Ovatko he tyytyväisiä valintoihinsa? Viikon mittainen taistelu- ja ampumaharjoitus maasto-olosuhteissa ottaa koville, mutta lopulta naiset pääsevät rentoutumaan saunan lauteille. Jasmin ja Airi pääsevät ampumaan ensimmäistä kertaa singolla, mutta toinen heistä kohtaa yllättävän ongelman.(n)</desc>
+  </programme>
+  <programme start="20251003214500 +0000" stop="20251003221500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Naissotilaat</title>
+    <desc lang="fi">Syksy on jo pitkällä. Airiin on purrut juoksukärpänen ja hän lenkkeilee jopa vapaa-ajallaan. Airi ja Jasmin pääsevät tutustumaan isoihin ajoneuvoihin. Saadakseen Puolustusvoimien ajokortin, pitää läpäistä muun muassa käsittelykoe. Airi ja Jasmin pääsevät harjoittelemaan käsittelykoetta varten, mutta kuinka peräkärryn irrottaminen ja kiinnittäminen sekä peruuttelu oikein sujuu? Sanni T. ja Sanni K. ajavat hieman pienemmillä ajoneuvoilla ja saavat koulutusta ohjusryhmän eri tehtäviin. Sanni saa kuulla odotettuja uutisia.(n)</desc>
+  </programme>
+  <programme start="20251004040000 +0000" stop="20251004050000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Kadonneet perijät</title>
+    <desc lang="fi">Eräs monien tragedioiden murtama nainen kuoli asunnossaan yksin ja ilman yhteyttä perheeseensä. Kun Mette Frisk ja Adam Jon Kronegh etsivät perintöön oikeutettuja sukulaisia, käy ilmi, että naisen isällä oli ollut enemmän kuin yksi perhe.(n)</desc>
+  </programme>
+  <programme start="20251004050000 +0000" stop="20251004050500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251004050500 +0000" stop="20251004055500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Autismin maailma</title>
+    <desc lang="fi">Lee ja Suiki jakavat kokemuksiaan siitä, miten he ovat selviytyneet dysleksian tuomista haasteista niin opinnoissa, työelämässä kuin arjessakin. He saavat ohjelmassa kertoa omista kokemuksistaan videon avulla, jotta perhe ja ystävät ymmärtäisivät heitä paremmin.(n)</desc>
+  </programme>
+  <programme start="20251004055500 +0000" stop="20251004060000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Kirjava luonto</title>
+    <desc lang="fi">Näe sääksen majesteettinen metsästys.(n)</desc>
+  </programme>
+  <programme start="20251004060000 +0000" stop="20251004060500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251004060500 +0000" stop="20251004065500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Merenkulkija Amerigo Vespucci</title>
+    <desc lang="fi">Italialainen Amerigo Vespucci osallistui 1400 - 1500 -luvulla useaan tutkimusmatkaan, mutta harva tietää että Amerikka on nimetty hänen mukaansa. Kuka oli tämä Medicien suojatti, kauppias ja merenkulkija, jonka värikäs elämä päättyi Sevillassa vuonna 1512? Tuotanto: Atlantis Film/ZDF/Arte, Saksa 2023.(n)</desc>
+  </programme>
+  <programme start="20251004065500 +0000" stop="20251004070000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Pieni suuri maailma</title>
+    <desc lang="fi">Maisemia maailmalta pieninä paketteina.(n)</desc>
+  </programme>
+  <programme start="20251004070000 +0000" stop="20251004070500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251004070500 +0000" stop="20251004074500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Ykkösaamu</title>
+    <desc lang="fi">Ykkösaamu kysyy lauantaiaamuisin suoraan eturivin vallanpitäjiltä "mitä, miksi ja miten niin". Suoraan lähetykseen otetaan runsaasti yleisökysymyksiä. Niitä keräävä juttu julkaistaan lähetystä edeltävänä torstaina Ylen uutissivustolla.(n)</desc>
+  </programme>
+  <programme start="20251004074500 +0000" stop="20251004075000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Uusimaa</title>
+    <desc lang="fi">Uutisia Uudeltamaalta.(n)</desc>
+  </programme>
+  <programme start="20251004075000 +0000" stop="20251004075500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Kaakkois-Suomi</title>
+    <desc lang="fi">Uutisia Kaakkois-Suomesta.(n)</desc>
+  </programme>
+  <programme start="20251004075500 +0000" stop="20251004080000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Lounais-Suomi</title>
+    <desc lang="fi">Uutisia Lounais-Suomesta.(n)</desc>
+  </programme>
+  <programme start="20251004080000 +0000" stop="20251004080500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Häme</title>
+    <desc lang="fi">Uutisia Kanta- ja Päijät-Hämeestä.(n)</desc>
+  </programme>
+  <programme start="20251004080500 +0000" stop="20251004081000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Pirkanmaa</title>
+    <desc lang="fi">Uutisia Pirkanmaalta.(n)</desc>
+  </programme>
+  <programme start="20251004081000 +0000" stop="20251004081500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Keski-Suomi ja Etelä-Savo</title>
+    <desc lang="fi">Uutisia Keski-Suomesta ja Etelä-Savosta.(n)</desc>
+  </programme>
+  <programme start="20251004081500 +0000" stop="20251004082000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Itä-Suomi</title>
+    <desc lang="fi">Uutisia Itä-Suomesta.(n)</desc>
+  </programme>
+  <programme start="20251004082000 +0000" stop="20251004082500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Pohjanmaa</title>
+    <desc lang="fi">Uutisia Pohjamaalta.(n)</desc>
+  </programme>
+  <programme start="20251004082500 +0000" stop="20251004083000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Pohjois-Suomi</title>
+    <desc lang="fi">Uutisia Pohjois-Suomesta.(n)</desc>
+  </programme>
+  <programme start="20251004083000 +0000" stop="20251004083500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset Lappi</title>
+    <desc lang="fi">Uutisia Lapista.(n)</desc>
+  </programme>
+  <programme start="20251004083500 +0000" stop="20251004083900 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Oddasat</title>
+    <desc lang="fi">Ylen omat saamenkieliset tv-uutiset arkisin klo 16.45. Tekstitetty suomeksi. Muista myös pohjoismaiset saamenkieliset tv-uutiset arkisin myöhäisillassa suomenkielisten uutisten jälkeen.(n)</desc>
+  </programme>
+  <programme start="20251004083900 +0000" stop="20251004085300 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Oddasat</title>
+  </programme>
+  <programme start="20251004085300 +0000" stop="20251004090000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Kahden polven treffit</title>
+    <desc lang="fi">25-vuotias Emilia kohtaa jaksossa Liisa-Cristiina Laaksosen. Heitä yhdistää lapsuus sijaisperheessä ja sen tuomat ajatukset juurettomuudesta. He pohtivat omaa rooliaan äiteinä ja juurien merkitystä.(n)</desc>
+  </programme>
+  <programme start="20251004090000 +0000" stop="20251004094000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">RSO Musiikkitalossa</title>
+    <desc lang="fi">Radion sinfoniaorkesteri, kapellimestari Susanna Mälkki, sol. Karine Deshayes, mezzosopraano. -  Hector Berlioz: Kuningatar Mabin scherzo draamallisesta sinfoniasta Romeo ja Julia; Kleopatra, lyyrinen kohtaus. Taltioitu Musiikkitalossa 17.9.2025.(n)</desc>
+  </programme>
+  <programme start="20251004094000 +0000" stop="20251004100000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Elävä arkisto</title>
+    <desc lang="fi">Sievä kuvaus Saaristomeren kansallispuiston luonnosta ja eläimistä. Tuotanto Yle TV1 Opetusohjelmat.(n)</desc>
+  </programme>
+  <programme start="20251004100000 +0000" stop="20251004104900 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Sohvaperunat</title>
+    <desc lang="fi">Sohvaperunat ovat taas valmiina kommentoimaan ja elämään kanssasi viikon televisiotarjontaa. Ohjelma näyttää suomalaisen televisiokatselukokemuksen aidoimmillaan.(n)</desc>
+  </programme>
+  <programme start="20251004104900 +0000" stop="20251004110000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Luontopäiväkirja</title>
+    <desc lang="fi">Metsäkauriita. Ruotsalainen luontodokumenttisarja.(n)</desc>
+  </programme>
+  <programme start="20251004110000 +0000" stop="20251004120000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Syyttäjä</title>
+    <desc lang="fi">Oikeudelle lääketieteellisiä lausuntoja antava mies on löydetty surmattuna. Vaimon mukaan uhrilla oli suhde naimisissa olevan naisen kanssa, joka harrasti vapaita suhteita. Liittyykö se asiaan?(n)</desc>
+  </programme>
+  <programme start="20251004120000 +0000" stop="20251004121800 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Van Life</title>
+    <desc lang="fi">Voiko tällaista ollakaan? Slovenia ja sen smaragdinväriset vedet vievät pakumatkaajan sydämen siitäkin huolimatta, että puskaparkkeilu on maassa kielletty. Ehkä osittain siksi toteutuu myös yksi Ainon pitkäaikaisista haaveista: yö omassa kodissa viiniköynnösten katveessa.(n)</desc>
+  </programme>
+  <programme start="20251004121800 +0000" stop="20251004123000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Luontopäiväkirja</title>
+    <desc lang="fi">Lokakuun hanhia. Ruotsalainen luontodokkarisarja.(n)</desc>
+  </programme>
+  <programme start="20251004123000 +0000" stop="20251004133000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Efter Nio</title>
+    <desc lang="fi">Tarve. Magnus Betnér adhd:staan, Jenni Pupulandia kauneusihanteista, Marcus Grothista tuli munkki Saddhabodhi, työministeri Mika Poutala, Elisabeth Wide siirtolaistyöntekijöistä. Parad Media.(n)</desc>
+  </programme>
+  <programme start="20251004133000 +0000" stop="20251004135000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Etsijät</title>
+    <desc lang="fi">Vapaaehtoisten ruumiinetsijöiden yhdistys tappaa aikaa huoltoasemalla, kun Venni pudottaa uutispommin: sekä hänen äitinsä että isäpuolensa ovat mystisesti kadonneet. Yololaiset innostuvat, sillä heillä on taas keikka!(n)</desc>
+  </programme>
+  <programme start="20251004135000 +0000" stop="20251004135500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Novosti Yle</title>
+    <desc lang="fi">Venäjänkieliset uutiset.(n)</desc>
+  </programme>
+  <programme start="20251004135500 +0000" stop="20251004140000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset viittomakielellä</title>
+    <desc lang="fi">Yle Uutiset viittomakielellä kertoo päivän tärkeimmät uutisaiheet viittomakielellä. Ohjelma käsittelee myös kuuroihin ja viittomakieleen liittyviä aiheita. Uutisankkureina toimivat äidinkieleltään viittomakieliset kuurot. Uutiset toimitetaan vuoden jokaisena päivänä.(n)</desc>
+  </programme>
+  <programme start="20251004140000 +0000" stop="20251004141000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251004141000 +0000" stop="20251004150000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Spencerin siskokset</title>
+    <desc lang="fi">Victorian varakas ystävä Marlina löytää sulhasensa kuolleena uima-altaasta. Onko kyseessä selkeä hukkumistapaus, vai liittyykö siihen jotain hämärää? Darby ja Victoria tutkivat liittyykö sulhasen kuolema yritysvakoiluun, vai onko Marlinan jälkikasvulla sormensa pelissä?(n)</desc>
+  </programme>
+  <programme start="20251004150000 +0000" stop="20251004151000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251004151000 +0000" stop="20251004151500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Urheiluruutu</title>
+    <desc lang="fi">Päivän tärkeimmät urheilu-uutiset.(n)</desc>
+  </programme>
+  <programme start="20251004151500 +0000" stop="20251004154500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Strömsö</title>
+    <desc lang="fi">Talvella käytettävä pyörä kannattaa pestä ja öljytä, ja sen renkaat tulee tarkistaa. Pyöräkorjaaja Ari Korpilahti kertoo vinkkinsä niin kokeneille kuin kokemattomille talvipyöräilijöille. Päivän ohjelmassa on myös kalatacoja ja omatekoista deodoranttia. yle.fi/stromso.(n)</desc>
+  </programme>
+  <programme start="20251004154500 +0000" stop="20251004163500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Avara luonto: Puiden suojassa</title>
+    <desc lang="fi">Puut ovat tarjonneet suojaa, ravintoa ja elinympäristöjä lukuisille eläinlajeille jo miljoonien vuosien ajan. Ohjelmassa matkataan ympäri maailmaa ja perehdytään puiden ja eläinten symbioottiseen suhteeseen. Tuotanto: doclights/NDR. (The Wonder of Trees, Saksa 2024).(n)</desc>
+  </programme>
+  <programme start="20251004163500 +0000" stop="20251004164500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Luontopäiväkirja</title>
+    <desc lang="fi">Hirviä. Ruotsalainen luontodokumenttisarja.(n)</desc>
+  </programme>
+  <programme start="20251004164500 +0000" stop="20251004172900 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Karen Pirie</title>
+    <desc lang="fi">Tekninen tutkinta löytää todisteita, jotka kääntävät kidnappaustapauksen päälaelleen. Miten uhrin omaiset ottavat vastaan villiltä kuulostavan teorian? Entä Karenin esimies?(n)</desc>
+  </programme>
+  <programme start="20251004172900 +0000" stop="20251004174500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Yle Uutiset</title>
+    <desc lang="fi">Yle Uutiset toimittaa uutislähetyksiä TV1:ssä ja Areenassa varhaisesta aamusta alkaen. Illan päälähetykset klo 18:00 ja 20.30 kokoavat sinulle päivän tärkeimmät uutiset Suomesta ja maailmalta.(n)</desc>
+  </programme>
+  <programme start="20251004174500 +0000" stop="20251004180000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Urheiluruutu</title>
+    <desc lang="fi">Päivän tärkeimmät urheilu-uutiset.(n)</desc>
+  </programme>
+  <programme start="20251004180000 +0000" stop="20251004191500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Elämäni Biisi</title>
+    <desc lang="fi">Elämäni Biisi orkesteri ottaa versiotavakseen Aulikki Oksasen, Leena Huovisen, Miia Tervon, Reijo Mäen ja Matti Myllyahon valitsemat biisit. Tarinoihin niiden takana meidät johdattaa Katja Ståhl.(n)</desc>
+  </programme>
+  <programme start="20251004191500 +0000" stop="20251004194500 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Kovan viikon ilta</title>
+    <desc lang="fi">Jukka Lindström uutisviikon kimpussa. Pöydässä toimittaja Ruben Stiller, toimituspäällikkö Vappu Kaarenoja ja koomikko Aatu Raitala. Vieraana Pekka Strang.(n)</desc>
+  </programme>
+  <programme start="20251004194500 +0000" stop="20251004203000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Roy Grace</title>
+    <desc lang="fi">Näyttää siltä, että kyse on antiikkivarkaudesta, ja uhrin veljen mukaan etenkin yksi esine oli hyvin arvokas. Juttu on mutkikas, ja sen juuret yltävät vuosikymmenien taa.(n)</desc>
+  </programme>
+  <programme start="20251004203000 +0000" stop="20251004210000 +0000" channel="Yle TV1.fi">
+    <title lang="fi">Trauma</title>
+    <desc lang="fi">Piia Rekolan aviomies, Sami, on rauhallinen ja avulias mies. Heidän avioliittoaan kuitenkin varjostaa Samin sisällä asuva musta koira. Ilmaisu kuvaa masennusta, josta Sami kertoo kärsineensä jo nuoresta saakka. Eräänä marraskuisena päivänä vuonna 2020 Piia löytää miehensä itsemurhan tehneenä heidän kotoaan. Kaikki viittaa siihen, että Samin ratkaisu ei ole ollut hetken mielijohde. Piia löytää pöydältä siististi aseteltuna Samin suljetun matkapuhelimen, silmälasit sekä vaimolleen osoitetun jäähyväiskirjeen. Samin kuoleman jälkeen Piia pyrkii hoitamaan suruaan syömällä, mutta huomaa pian, että strategia ei toimi. Piia ymmärtää, että hänen on pystyttävä kohtaamaan vaikeat tunteet ilman herkkuja. Voidakseen jatkossakin olla läsnä lastensä elämässä, hän päättää pudottaa reilusti painoaan menemällä vatsalaukun ohitusleikkaukseen. Selviytymiskeinona Piia käyttää ronskia ja mustaa huumoria arjessa ja stand-up -lavoilla. Onneksi leikkaus ei muuta häntä ihmisenä, mutta hänen huumorinsa alkaa saada vääjäämättä uusia sävyjä. Tapauksesta kertovat Piia Rekola ja hänen ystävänsä Mikko Rintakoski.(n)</desc>
+  </programme>
+  <programme start="20251003035000 +0000" stop="20251003035100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen</title>
+    <desc lang="fi">Ohjelmaa perheen pienimmille.(n)</desc>
+  </programme>
+  <programme start="20251003035100 +0000" stop="20251003035300 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Nimipäiväonnittelu</title>
+    <desc lang="fi">Onnea kaikille! Animaatiosarjassa touhuaa porkkanapäinen Touho-poika, joka loihtii milloin mitäkin muovailuvahasta. Lopussa onnitellaan nimipäiväsankareita.(n)</desc>
+  </programme>
+  <programme start="20251003035300 +0000" stop="20251003040000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Momolu ja ystävät</title>
+    <desc lang="fi">Hikolta loppuvat selvitettävät mysteerit. Onneksi hänellä on ystäviä, jotka voivat keksiä lisää!(n)</desc>
+  </programme>
+  <programme start="20251003040000 +0000" stop="20251003040500 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Poppelikumpu</title>
+    <desc lang="fi">Nopsu on kasvanut niin paljon, ettei vanha hattu enää mahdu hänen päähänsä. Mistä Nopsu saisi uuden hatun?(n)</desc>
+  </programme>
+  <programme start="20251003040500 +0000" stop="20251003040600 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen: Juontopalat</title>
+    <desc lang="fi">Loviisa ja Veera rakentavat minimaan.(n)</desc>
+  </programme>
+  <programme start="20251003040600 +0000" stop="20251003041100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pipsa Possu</title>
+    <desc lang="fi">Englantilaisen piirrossarjan sankaritar on viisivuotias, hieman pomotteluun taipuva Pipsa Possu, joka asuu iloisen kirjavassa kodissaan pikkuveljensä, Jyrin sekä Isä Possun ja Äiti Possun kanssa. Ja koska he ovat possuja, sarjassa röhkitään paljon.(n)</desc>
+  </programme>
+  <programme start="20251003041100 +0000" stop="20251003041800 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Hirviökoulu</title>
+    <desc lang="fi">Äklökäs ei päässyt Siivelin juhliin, ja nyt muut hirviöt leikkivät piilosta ilman häntä. Ope Kammola ehdottaa kamupenkillä istumista, jotta muut tulisivat leikkimään hänen kanssaan.(n)</desc>
+  </programme>
+  <programme start="20251003041800 +0000" stop="20251003041900 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen: Juontopalat</title>
+    <desc lang="fi">Jaakko rakentaa nelosen.(n)</desc>
+  </programme>
+  <programme start="20251003041900 +0000" stop="20251003043100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Stella ja Sami</title>
+    <desc lang="fi">Retu on kovin kiinnostunut Stellan ja Samin leijasta. Illalla Sami ei saa unta ja huomaa Retun kadonneen. Onko leijakin kadonnut?(n)</desc>
+  </programme>
+  <programme start="20251003043100 +0000" stop="20251003043900 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Suurenmoinen herra Kunkku</title>
+    <desc lang="fi">Herra Kunkun konsertti. Illalla on konsertti, jossa esiintyvät kaikki herra Kunkun ystävät, mutta herra Kunkku ei millään keksi itselleen sopivaa soitinta.(n)</desc>
+  </programme>
+  <programme start="20251003043900 +0000" stop="20251003044400 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkosen posti</title>
+    <desc lang="fi">Susanna esittelee lasten lähettämiä piirustuksia.(n)</desc>
+  </programme>
+  <programme start="20251003044400 +0000" stop="20251003045600 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Tie tähtiin</title>
+    <desc lang="fi">Riekko lainaa kadettien käyttöön spektrometrin, laitteen joka tunnistaa jo kaukaa aineiden koostumuksia. Haukka tekee avaruudesta herkullisen löydön, tai ainakin luulee niin.(n)</desc>
+  </programme>
+  <programme start="20251003045600 +0000" stop="20251003045800 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen: Juontopalat</title>
+    <desc lang="fi">Susanna kertoo mitkä asiat auttavat jaksamaan pidempään.(n)</desc>
+  </programme>
+  <programme start="20251003045800 +0000" stop="20251003050900 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Emmi ja Kuru</title>
+    <desc lang="fi">Kuru ja Emmi tapaavat eväsretkellä kolme pientä papua. Niille on löydettävä kasvupaikka ennen kuin tulee ilta.(n)</desc>
+  </programme>
+  <programme start="20251003050900 +0000" stop="20251003052000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Retki-Roope</title>
+    <desc lang="fi">Päivänpaisteen puistossa tapahtuu taas! Puistonvartijan poika Roope tuntee puiston niin kuin omat taskunsa. Ystäviensä, lumimies Tampan ja Teresan kanssa he auttavat ja selvittävät monta kiperää tilannetta apunaan monitaitoinen auto Vinha sekä tietysti retkipakki.(n)</desc>
+  </programme>
+  <programme start="20251003052000 +0000" stop="20251003052200 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Nimipäiväonnittelu</title>
+    <desc lang="fi">Onnea kaikille! Animaatiosarjassa touhuaa porkkanapäinen Touho-poika, joka loihtii milloin mitäkin muovailuvahasta. Lopussa onnitellaan nimipäiväsankareita.(n)</desc>
+  </programme>
+  <programme start="20251003052200 +0000" stop="20251003052300 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen</title>
+    <desc lang="fi">Arkipäivän Pikku Kakkonen tunnin paketissa. Katso lastenohjelmia yhdessä tuttujen juontajien kanssa.(n)</desc>
+  </programme>
+  <programme start="20251003052300 +0000" stop="20251003052400 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Galaxi</title>
+    <desc lang="fi">Koulululaisten oma ohjelma!(n)</desc>
+  </programme>
+  <programme start="20251003052400 +0000" stop="20251003053600 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Metsäleikkimestarit</title>
+    <desc lang="fi">Mikä katastrofi! Mandan jengin rakentaessa unelmamajaa maalipurkki leviää vahingossa puroon ja värjää sen veden.(n)</desc>
+  </programme>
+  <programme start="20251003053600 +0000" stop="20251003055000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Romppu, Rasse ja Sikuriina</title>
+    <desc lang="fi">Ystävykset osallistuvat valvomiskilpailuun, mutta kaikilla on eri näkemys parhaasta taktiikasta. Onnistuuko yhteistyö riitaisissa tunnelmissa?(n)</desc>
+  </programme>
+  <programme start="20251003055000 +0000" stop="20251003061000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Hemmagympa med Sofia</title>
+    <desc lang="fi">Jumppaa SVT:n kotitreeneissä! Tällä kertaa keskitytään voimaharjoitteluun. Ei suomenkielistä tekstitystä.(n)</desc>
+  </programme>
+  <programme start="20251003061000 +0000" stop="20251003064000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Merkkien salat</title>
+    <desc lang="fi">Graalin malja on symbolimaailman suurimpia mysteereitä. Liisa ja Ella lähtevät sen jäljille Dan Brownin hengessä. Pitääkö Graalin olla todellinen esine?(n)</desc>
+  </programme>
+  <programme start="20251003064000 +0000" stop="20251003070000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Kovat miehet</title>
+    <desc lang="fi">Lyhytelokuva isästä ja pojasta, perisuomalaisesta uhmasta ja jääräpäisyydestä tämän päivän maalaismaisemassa. Tässä suhteessa ei valiteta, ei anneta periksi eikä ainakaan myönnetä. O: Maarit Lalli, 1999.(n)</desc>
+  </programme>
+  <programme start="20251003070000 +0000" stop="20251003080000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Ruokamatka Venetsiasta Istanbuliin</title>
+    <desc lang="fi">Pohjois-Kreikan rauhallisessa merenrantakylässä kokki Rick Stein maistaa suolaisia filotaikinapiirakoita, jotka ovat paikallinen myyntimenestys. Ravintoloissa suositaan uppopaistamista ja meren herkkuja.(n)</desc>
+  </programme>
+  <programme start="20251003080000 +0000" stop="20251003083000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Landgång</title>
+    <desc lang="fi">Osa 4/5. German poikkeaa tänään tavoistaan ja tarjoaa miehistölle pikaruokaa, uruguaylaisia hampurilaisia. Anne pääsee mukaan filippiiniläisten uudenvuodenjuhlaan ja aluksen pelastusharjoitukseen. Ruotsin televisio.(n)</desc>
+  </programme>
+  <programme start="20251003083000 +0000" stop="20251003090000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Elämäni eläimet: Eläinsairaalassa</title>
+    <desc lang="fi">2/10. Jonas Leksell yrittää avustaa antiloopinvasan hoitamisessa. Intiassa hän pääsee ruokkimaan norsuja. Miten lehmän sorkat vuollaan nykyään?(n)</desc>
+  </programme>
+  <programme start="20251003090000 +0000" stop="20251003100000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Riistametsällä</title>
+    <desc lang="fi">Jørgen ja Nikolaj haaveilevat hippileiristä ja panostavat väreihin. Tällä kertaa he haluavat pataan meren älykkäimmän eläimen mustekalan. Mutta ken onkaan lopulta fiksuin, kaverukset vai mustekala? Jos pyydystys ei tuota tulosta, he saavat syötäväkseen peräaukkonsa kautta hengittävää eläintä.(n)</desc>
+  </programme>
+  <programme start="20251003100000 +0000" stop="20251003104000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Kekseliäs nikkari</title>
+    <desc lang="fi">Tilalle haetaan lampaita syyserotuksesta. Uimalammikko saa sillan. Pian juhlitaan sadonkorjuuta. Entä mitä haaveilutornille kuuluu? Sarjassa keksijä-Erik perheineen unelmoi omavaraisesta elämästä maatilallaan.(n)</desc>
+  </programme>
+  <programme start="20251003104000 +0000" stop="20251003105400 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Luontoretkellä</title>
+    <desc lang="fi">Norjalaiset liikkuvat mielellään luonnossa. Kaupunkien ympäristöissäkin on runsaasti nähtävää. Tänään tutustutaan Stavangerin maisemiin.(n)</desc>
+  </programme>
+  <programme start="20251003105400 +0000" stop="20251003111000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Luontoretkellä</title>
+    <desc lang="fi">Norjalaiset liikkuvat mielellään luonnossa. Kaupunkien ympäristöissäkin on runsaasti nähtävää. Tänään tutustutaan Tromssan maisemiin.(n)</desc>
+  </programme>
+  <programme start="20251003111000 +0000" stop="20251003111400 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Norja ilmasta nähtynä</title>
+    <desc lang="fi">Sarja vie katsojansa Norjan upeisiin maisemiin. Luvassa jylhiä tuntureita, kapeita vuonoja ja tuttuja norjalaisia maamerkkejä Holmenkollenilta Huippuvuorille. Tuotanto Norsk Rikskringkasting As (2018-2019).(n)</desc>
+  </programme>
+  <programme start="20251003111400 +0000" stop="20251003111800 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Norja ilmasta nähtynä</title>
+    <desc lang="fi">Sarja vie katsojansa Norjan upeisiin maisemiin. Luvassa jylhiä tuntureita, kapeita vuonoja ja tuttuja norjalaisia maamerkkejä Holmenkollenilta Huippuvuorille. Tuotanto Norsk Rikskringkasting As (2018-2019).(n)</desc>
+  </programme>
+  <programme start="20251003111800 +0000" stop="20251003112200 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Norja ilmasta nähtynä</title>
+    <desc lang="fi">Sarja vie katsojansa Norjan upeisiin maisemiin. Luvassa jylhiä tuntureita, kapeita vuonoja ja tuttuja norjalaisia maamerkkejä Holmenkollenilta Huippuvuorille. Tuotanto Norsk Rikskringkasting As (2018-2019).(n)</desc>
+  </programme>
+  <programme start="20251003112200 +0000" stop="20251003113200 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Norja ilmasta nähtynä</title>
+    <desc lang="fi">Sarja vie katsojansa Norjan upeisiin maisemiin. Luvassa jylhiä tuntureita, kapeita vuonoja ja tuttuja norjalaisia maamerkkejä Holmenkollenilta Huippuvuorille. Tuotanto Norsk Rikskringkasting As (2018-2019).(n)</desc>
+  </programme>
+  <programme start="20251003113200 +0000" stop="20251003113400 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Huippuvuoret yläilmoista</title>
+    <desc lang="fi">Näkymiä Huippuvuorilta droonilla kuvattuna.(n)</desc>
+  </programme>
+  <programme start="20251003113400 +0000" stop="20251003120300 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Peltsin kova vuosi</title>
+    <desc lang="fi">Tukahduttava kuumuus ja loputtomiin haarautuvat metsäpolut ovat Mikko "Peltsi" Peltolan seuraavan haasteen tiukimmat vastukset. Tavoitteena on ajaa neljäsataa kilometriä neljässä päivässä.(n)</desc>
+  </programme>
+  <programme start="20251003120300 +0000" stop="20251003130100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Kauppakaupunkien aarteita</title>
+    <desc lang="fi">Skivessä antiikin ja arvoesineiden asiantuntijat näkevät sodanaikaisen taulun ja vanhoja Lego-palikoita. Ostajat tekevät ennennäkemättömän päätöksen. Cecilie puolestaan vierailee paikallisella panimolla.(n)</desc>
+  </programme>
+  <programme start="20251003130100 +0000" stop="20251003140000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Husdrömmar</title>
+    <desc lang="fi">Taras ja Tanja tahtoivat pois kaupungin hälystä. Nyt he rakentavat unelmataloaan. Suunnitelmat ovat suuret ja toiveita on paljon, mutta saavatko he vanhan talonsa myytyä ajoissa, niin että rahat riittävät?(n)</desc>
+  </programme>
+  <programme start="20251003140000 +0000" stop="20251003150000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen</title>
+    <desc lang="fi">Katsellaan Elizabethin kanssa Tilkku ja Nukka, Kaapo, Luonto yllättää aina, Hannes Hamsteri, Tähtioppilas, Vegesaurukset sekä Mira ja Viksu.(n)</desc>
+  </programme>
+  <programme start="20251003150000 +0000" stop="20251003152000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Parayleisurheilun MM</title>
+    <desc lang="fi">7. kisapäivän kooste. Petteri Peitso (F11 kiekko),  Amanda Kotaja (T54 400 m), Iida Lounela (T12 100 m), E-P Mattila (T54, 100 m). New Delhi, Intia. Selostus Jari Haapala ja Tuomas Törrönen.(n)</desc>
+  </programme>
+  <programme start="20251003152000 +0000" stop="20251003174000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Kansallinen liiga</title>
+    <desc lang="fi">Ratkeako Kansallisen liigan mestaruus? KuPS:in on pakko voittaa TV-ottelun HPS:ää vastaan vieraskentällä ja samalla HJK:n hävittävä vierasottelunsa Åland Unitedia vastaan jotta mestaruustaistelu vielä jatkuu. Lähetyksessä seurataan myös Ahvenanmaalla pelattavaa ottelua Åland United-HJK. Selostus Kristian Lindfors, asiantuntija Essi Sainio ja juontaja Hinni Hirvonen.(n)</desc>
+  </programme>
+  <programme start="20251003174000 +0000" stop="20251003175000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Sportliv</title>
+    <desc lang="fi">Anne Söderlund on kädenväännön nelinkertainen maailmanmestari. Ämpärillisen kultamitaleita voittanut ähtäväläinen kuvailee itsensä todella laiskaksi. Osa tarvittavasta treenistä tulee ilmaiseksi työn ohessa, mutta MM-kultatekniikka on jalostunut pihan kädenvääntöparakissa. Kohta mitaliämpäri on vaihdettava isompaan.(n)</desc>
+  </programme>
+  <programme start="20251003175000 +0000" stop="20251003180000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Sportliv</title>
+    <desc lang="fi">Joonas Kuivalainen on näyttämisen halusta ja muiden epäilyistä elävä moninkertainen maailmanmestari. 120-kiloinen salolainen on sisäsoudun ME-mies, leuanvedon MM-mitalisti, meriviisiottelun EM-voittaja ja hengenpelastuksen SE-haltija. Hän tarvitsee urheilua ja treeniä. Muuten hän sekoaa.(n)</desc>
+  </programme>
+  <programme start="20251003180000 +0000" stop="20251003184500 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Karppi</title>
+    <desc lang="fi">Häkkiin asetellun lääketutkijan henkirikos pakottaa virkavapaalla olevan Karpin takaisin töihin ja Nurmen työpariksi. Ruumiin selästä löytyvät viillot vievät kohti monimutkaista murhamysteeriä. Karpin tytär Henna törmää vankilasta vapautetun rikollisen ankeaan arkeen.(n)</desc>
+  </programme>
+  <programme start="20251003184500 +0000" stop="20251003193000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">YleXPop</title>
+    <desc lang="fi">YleXPopia juhlitaan tänä vuonna Turun Kupittaanpuistossa, missä katsojia viihdyttää Suomen eturivin artistit Averagekidluke, OLGA, Goldielocks, HUGO, Mirella ja Turisti.(n)</desc>
+  </programme>
+  <programme start="20251003193000 +0000" stop="20251003201200 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Ace of Base: All That She Wants</title>
+    <desc lang="fi">Kun Ace of Base nousee Billboard-listojen kärkeen The Sign -albumillaan, saksalainen fani murtautuu Berggrenin perheen lapsuudenkotiin. Kaikki bändin jäsenet joutuvat palkkaamaan henkivartijat.(n)</desc>
+  </programme>
+  <programme start="20251003201200 +0000" stop="20251003210100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Abban tarina</title>
+    <desc lang="fi">Vaikuttava dokumentti ruotsalaisyhtye Abban uskomattomasta noususta maailman suosituimmaksi yhtyeeksi. Abban yllättävä Euroviisuvoitto Waterloo-kappaleella 50 vuotta sitten oli lähtölaukaus kansainväliselle uralle, joka mullisti bändin jäsenten elämän. Dokumenttiin on löydetty yhtyeen ennennäkemättömiä haastatteluja sekä uutta kuvamateriaalia arkistoista. Tietysti hittibiisejä unohtamatta! Tuotanto: EBU-yhteistyö, Rogan Productions. Britannia, 2024.(n)</desc>
+  </programme>
+  <programme start="20251004035000 +0000" stop="20251004035100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen</title>
+    <desc lang="fi">Ohjelmaa perheen pienimmille.(n)</desc>
+  </programme>
+  <programme start="20251004035100 +0000" stop="20251004035200 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Nimipäiväonnittelu</title>
+    <desc lang="fi">Onnea kaikille! Animaatiosarjassa touhuaa porkkanapäinen Touho-poika, joka loihtii milloin mitäkin muovailuvahasta. Lopussa onnitellaan nimipäiväsankareita.(n)</desc>
+  </programme>
+  <programme start="20251004035200 +0000" stop="20251004040400 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Nappulat</title>
+    <desc lang="fi">Jonnen ja Lauran koputusleikkiin vastaa Napo! Kuullaan Kenkärokki, nähdään lasten taiturointia lajittelukipityksessä, tutustutaan saukkoon ja ihmetellään ilmapallopumppua. Kuninkaallisten leikkien lopuksi lauletaan Kärpänen istui polvella.(n)</desc>
+  </programme>
+  <programme start="20251004040400 +0000" stop="20251004040600 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Leppäkerttu ja Mehiläinen</title>
+    <desc lang="fi">Leppäkerttu ja Mehiläinen ihmettelevät sienien kauneutta.(n)</desc>
+  </programme>
+  <programme start="20251004040600 +0000" stop="20251004041100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pipsa Possu</title>
+    <desc lang="fi">Pedro alkaa yskiä kerhossa, ja pian muutkin lapset yskivät. Tohtori Karhu saapuu paikalle ja antaa lapsille pahaa lääkettä, mutta kuka huolehtii Tohtori Karhusta, kun hän sairastuu?(n)</desc>
+  </programme>
+  <programme start="20251004041100 +0000" stop="20251004041800 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Saara ja Sorsa</title>
+    <desc lang="fi">Saarasta kruunataan Lammen prinsessa, mutta Saara ei ole varma, mitä prinsessan tehtäviin kuuluu.(n)</desc>
+  </programme>
+  <programme start="20251004041800 +0000" stop="20251004043000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Franklin ja ystävät</title>
+    <desc lang="fi">Ystävykset saavat tehtäväkseen haastatella puumaalaisia ja kuunnella heidän elämäntarinoitaan.(n)</desc>
+  </programme>
+  <programme start="20251004043000 +0000" stop="20251004043100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen</title>
+    <desc lang="fi">Ohjelmaa perheen pienimmille.(n)</desc>
+  </programme>
+  <programme start="20251004043100 +0000" stop="20251004043900 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Sam et Julia</title>
+    <desc lang="fi">Entinen asukas koputtaa Julian ovelle nähdäkseen lapsuudenkotinsa ja kyselee vanhan soittorasiansa perään. Julia on löytänyt sen, mutta siitä luopuminen tuntuu vaikealta.(n)</desc>
+  </programme>
+  <programme start="20251004043900 +0000" stop="20251004050400 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen: Seikkailukone</title>
+    <desc lang="fi">Kaikkien seikkailujen sankari Reppu-Heppu kutsuu Sinut mukaan. Seikkailukone arpoo kartan ja yhdessä selvitämme tehtävät ja laulamme matkalaulut. Seikkailuseurana Jyrki ja Senja sekä muusikot Isa-Eerika ja Janne.(n)</desc>
+  </programme>
+  <programme start="20251004050400 +0000" stop="20251004051100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Bluey</title>
+    <desc lang="fi">Rontti vie Tuurin ja Pommon ensimmäistä kertaa elokuviin, ja Tuuri jännittää kovasti elokuvan pelottavaa kohtausta. Kun Pommon käytös käy mahdottomaksi, Tuurin täytyy voittaa pelkonsa.(n)</desc>
+  </programme>
+  <programme start="20251004051100 +0000" stop="20251004052200 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Barbapapa</title>
+    <desc lang="fi">Barbapirpanat voittavat arvonnassa taulutietokoneen. Kun lapsia on seitsemän ja tabletteja vain yksi, niin nahinaahan siitä seuraa.(n)</desc>
+  </programme>
+  <programme start="20251004052200 +0000" stop="20251004053400 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Rollen remmi</title>
+    <desc lang="fi">Miksu odottaa innolla tilaamaansa maalia, mutta postinkantaja Omar satuttaa jalkansa koripallopelissä ja joutuu pyörätuoliin. Huomataan, että Raksalaaksossa onkin monia paikkoja, joihin ei pyörätuolilla pääse.(n)</desc>
+  </programme>
+  <programme start="20251004053400 +0000" stop="20251004055700 +0000" channel="Yle TV2.fi">
+    <title lang="fi">The Octonauts</title>
+    <desc lang="fi">Oktonautit vastaavat Antarktikselta saapuvaan erikoiseen avunpyyntöön.(n)</desc>
+  </programme>
+  <programme start="20251004055700 +0000" stop="20251004055900 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Nimipäiväonnittelu</title>
+    <desc lang="fi">Onnea kaikille! Animaatiosarjassa touhuaa porkkanapäinen Touho-poika, joka loihtii milloin mitäkin muovailuvahasta. Lopussa onnitellaan nimipäiväsankareita.(n)</desc>
+  </programme>
+  <programme start="20251004055900 +0000" stop="20251004060000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pikku Kakkonen</title>
+    <desc lang="fi">Ohjelmaa perheen pienimmille.(n)</desc>
+  </programme>
+  <programme start="20251004060000 +0000" stop="20251004060700 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Shaun the Sheep</title>
+    <desc lang="fi">Maajussi asentaa taloon hienon ovikellon, jossa on myös kamera. Pihan tapahtumissa riittääkin taltioitavaa.(n)</desc>
+  </programme>
+  <programme start="20251004060700 +0000" stop="20251004061900 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Voihan Poni</title>
+    <desc lang="fi">Poni haluaa juhlistaa suurta merkkipäivää, vaikka Annilla ei ole aavistustakaan siitä, mitä juhlittavaa päivässä on.(n)</desc>
+  </programme>
+  <programme start="20251004061900 +0000" stop="20251004063100 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Le refuge d'Audrey</title>
+    <desc lang="fi">Siivousta inhoava Auri lyö isän kanssa vetoa, että jos hän ja Tommi voivat vuorokauden ajan elää kuin eläin, saa siivoaminen jäädä kolmeksi viikoksi.(n)</desc>
+  </programme>
+  <programme start="20251004063100 +0000" stop="20251004063300 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Extreme-futiskikat</title>
+    <desc lang="fi">Nappaavatko futiskikat? Tsekatkaa! Tänään Magics esittää maagisia temppuja. Kikkailemassa on Walter.(n)</desc>
+  </programme>
+  <programme start="20251004063300 +0000" stop="20251004070000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Space Nova</title>
+    <desc lang="fi">On Luna-aseman vuosikokouksen aika, mutta Jero haluaa välttyä tylsien puheiden kuulemiselta. Hän päättää tehdä itsestään robottikopion, joka osallistuu kokoukseen hänen puolestaan.(n)</desc>
+  </programme>
+  <programme start="20251004070000 +0000" stop="20251004073000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Kandit</title>
+    <desc lang="fi">Kausi 1, 5/8. Lehmän potkaisema mies ja kylän suurin tyrä. Jenni siirtyy Lohtajalle muutamaksi päiväksi. Lapsipotilaiden itku testaa kandien kestävyyttä.(n)</desc>
+  </programme>
+  <programme start="20251004073000 +0000" stop="20251004081000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Hirvelä</title>
+    <desc lang="fi">Metsän kuninkaallakin on omat vitsauksensa, kuten liukkaat sorkat peilikirkkaalla jäällä. Myös erilaiset loiset ja virukset voivat olla hirvelle pahimmassa tapauksessa kohtalokkaita. Hirvi on Pohjolan luonnolle monin tavoin hyödyllinen - eikä vähiten siksi, että ihmisistä on mielenkiintoista kohdata niin mahtava eläin. Norjalainen luontosarja.(n)</desc>
+  </programme>
+  <programme start="20251004081000 +0000" stop="20251004091000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Luontomatkalla</title>
+    <desc lang="fi">6/10. Valkoiset karhut ja hirvet ovat harvinaisia. Joakim seuraa vaaleaturkkisten kermodeskarhujen kalastuspuuhia Kanadassa, kun taas Anders etsii valkoista hirveä Värmlannissa ja Länsi-Götanmaalla. Tuotanto: SVT, 2015.(n)</desc>
+  </programme>
+  <programme start="20251004091000 +0000" stop="20251004101000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Suuri ompelukisa</title>
+    <desc lang="fi">Musiikkiviikolla käytetään Modien rakastaman anorakin kaavoja. Vanhaa denimiä työstetään kantrin tyyliin ja räätälintyönä valmistuu David Bowien innoittamat asut.(n)</desc>
+  </programme>
+  <programme start="20251004101000 +0000" stop="20251004112000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Avara luonto: Järvihylkeiden jäljillä</title>
+    <desc lang="fi">Maapallolla on vain viidessä järvessä pysyvä hyljekanta. Norppakuvaaja Juha Taskinen ja hyljetutkija Mervi Kunnasranta matkasivat maan sulkemien hylkeiden luo selvittääkseen mitä niille kuuluu.(n)</desc>
+  </programme>
+  <programme start="20251004112000 +0000" stop="20251004113000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Periaatekysymys</title>
+    <desc lang="fi">Lyhytelokuva parkkipirkosta, joka janoaa rakkautta ja hyväksyntää, mutta tielle asettuu hänen oma periaatteellisuutensa. O: Anton Lipasti ja Eetu Helenius. Suomi 2022. Lyhytelokuva sai tuomariston myöntämän erikoispalkinnon kotimaisen kilpailun alle 30 minuuttisten sarjassa Tampereen elokuvajuhlilla 2023.(n)</desc>
+  </programme>
+  <programme start="20251004113000 +0000" stop="20251004130000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Laulu koti-ikävästä</title>
+    <desc lang="fi">Rokkari Kai Latvalehto ja isä Tauno ajavat Oulusta Göteborgiin, missä he asuivat 70-luvulla. Automatka muuttuu musiikilliseksi retkeksi yhteiseen tunnemuistiin ja suomalaissiirtolaisuuden historiaan.(n)</desc>
+  </programme>
+  <programme start="20251004130000 +0000" stop="20251004142000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Kaija Koo: Tinakenkäkuningatar</title>
+    <desc lang="fi">Dokumentti poikkeuksellisen, yli 40-vuotisen uran tehneestä Kaija Koosta. Dokumentti käy läpi artistin elämää ja hänen mukanaan liikutaan keikoilla, studioissa ja visuaalisissa mielenmaisemissa. Ohjaus: Pia Asikainen.(n)</desc>
+  </programme>
+  <programme start="20251004142000 +0000" stop="20251004150600 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Abban tarina</title>
+    <desc lang="fi">Vaikuttava dokumentti ruotsalaisyhtye Abban uskomattomasta noususta maailman suosituimmaksi yhtyeeksi. Abban yllättävä Euroviisuvoitto Waterloo-kappaleella 50 vuotta sitten oli lähtölaukaus kansainväliselle uralle, joka mullisti bändin jäsenten elämän. Dokumenttiin on löydetty yhtyeen ennennäkemättömiä haastatteluja sekä uutta kuvamateriaalia arkistoista. Tietysti hittibiisejä unohtamatta! Tuotanto: EBU-yhteistyö, Rogan Productions. Britannia, 2024.(n)</desc>
+  </programme>
+  <programme start="20251004150600 +0000" stop="20251004155300 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Abban tarina</title>
+    <desc lang="fi">Vaikuttava dokumentti ruotsalaisyhtye Abban uskomattomasta noususta maailman suosituimmaksi yhtyeeksi. Abban yllättävä Euroviisuvoitto Waterloo-kappaleella 50 vuotta sitten oli lähtölaukaus kansainväliselle uralle, joka mullisti bändin jäsenten elämän. Dokumenttiin on löydetty yhtyeen ennennäkemättömiä haastatteluja sekä uutta kuvamateriaalia arkistoista. Tietysti hittibiisejä unohtamatta! Tuotanto: EBU-yhteistyö, Rogan Productions. Britannia, 2024.(n)</desc>
+  </programme>
+  <programme start="20251004155300 +0000" stop="20251004160000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Pitääkö mun kaikki hoitaa?</title>
+    <desc lang="fi">(Suomi 2011) Oscar-ehdokkaaksi yltänyt lyhyt komedia lapsiperheen aamusta ja äidistä, joka luulee että asiat hoituvat parhaiten kun hoitaa kaiken itse. N: Joanna Haartti, Santtu Karvonen. O: Selma Vilhunen.(n)</desc>
+  </programme>
+  <programme start="20251004160000 +0000" stop="20251004165000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Sohvaperunat</title>
+    <desc lang="fi">Sohvaperunat ovat taas valmiina kommentoimaan ja elämään kanssasi viikon televisiotarjontaa. Ohjelma näyttää suomalaisen televisiokatselukokemuksen aidoimmillaan.(n)</desc>
+  </programme>
+  <programme start="20251004165000 +0000" stop="20251004174000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Parayleisurheilun MM</title>
+    <desc lang="fi">8. kisapäivän kooste. Teijo Kööpikkä F57-luokan kuulafinaalissa, Iida Lounela T12-luokan 200 metrin alkuerissä ja Henry Manni T34-luokan 800 metrin alkuerissä. New Delhi, Intia. Selostus Jari Haapala ja Tuomas Törrönen.(n)</desc>
+  </programme>
+  <programme start="20251004174000 +0000" stop="20251004180500 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Jopet-show</title>
+    <desc lang="fi">Jopet-Show jätti hahmoihin perustuvalla huumorilla vahvan leimansa suomalaisen sketsiviihteen historiaan. Jopet-Show'n tarkoitus oli yhdistää sketsimestari Jope Ruonansuun hauskat hahmot tyylikkääseen visuaaliseen ilmaisuun. Siitä syntyi liuta legendaarisia hahmoja kuten Lääkäri Kaikkonen, Sivupersoona, Rekkamies Mauri, Rane &amp; Rane, joiden hokemia kansa edelleenkin innolla toistaa. R: Jope Ruonansuu, Mika Räinä, Jukka Toivonen, Miia Nuutila. O: Rike Jokela, Marko Talli. T: Filmiteollisuus Fine Oy. Ohjelma sisältää aikansa ilmaisutapoja, joita ei nykyaikana käytettäisi.(n)</desc>
+  </programme>
+  <programme start="20251004180500 +0000" stop="20251004185000 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Louis Theroux: tähtihaastattelut</title>
+    <desc lang="fi">Kausi 1, 6/6. Rita Ora on maailmankuulu tähti ja monipuolinen viihdebrändi. Menestys ja maine ovat tuoneet paljon julkisuutta, eivätkä skandaalilehdet ole aina kohdelleet Ritaa hellin käsin. Louis tutustuu henkilöön julkisuuskuvan takana.(n)</desc>
+  </programme>
+  <programme start="20251004185000 +0000" stop="20251004202700 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Lapsia ja aikuisia</title>
+    <desc lang="fi">(2004) Komedia lapsettomuusklinikan psykologista, joka ryhtyy hankkimaan perheenlisäystä salaa mieheltään. N: Minna Haapkylä, Minttu Mustakallio, Kari-Pekka Toivonen. O: Aleksi Salmenperä.(n)</desc>
+  </programme>
+  <programme start="20251004202700 +0000" stop="20251004205900 +0000" channel="Yle TV2.fi">
+    <title lang="fi">Kesken</title>
+    <desc lang="fi">Pia Andellin lyhytelokuvassa on päivälliset ystävien kesken. Satu tulee myöhässä ja yksin. Viaton kysymys saa pöydällisen ihmisiä hiljenemään ja ajattelemaan omaa elämäänsa, siis sitä mitä ei halua ajatella, ainakaan tänään. Satu tietää jo sen, mikä selviää muille illan aikana: Kaikilla on jokin asia kesken. Pääosissa Vera Kiiskinen, Krista Kosonen, Tommi Korpela, Ria Kataja, Meri Nenonen, Hannu-Pekka Björkman ja Janne Reinikainen. Käsikirjoitus: Suna Vuori. T: Of Course My Films. (Suomi 2024).(n)</desc>
+  </programme>
+  <programme start="20251003005000 +0000" stop="20251003015500 +0000" channel="TV5.fi">
+    <title lang="fi">Supertähtien yllätysremontit</title>
+    <desc lang="fi">Lämminhenkisessä sarjassa Hollywoodin ykkösjulkkikset osoittavat kiitollisuutensa heidän elämäänsä voimakkaasti vaikuttaneille ihmisille yllätysremonteilla.(n)</desc>
+  </programme>
+  <programme start="20251003015500 +0000" stop="20251003032000 +0000" channel="TV5.fi">
+    <title lang="fi">Onnenpyörä</title>
+    <desc lang="fi">Tällä kertaa kilpailijoiksi tulevat Jussi Kankaanpäästä, Atte Tampereelta ja Hanna Sammatista. Peli on jännää heti ensimmäisestä pikapelistä asti, joten nyt ovat kotiarvaajatkin kovilla.(n)</desc>
+  </programme>
+  <programme start="20251003032000 +0000" stop="20251003034000 +0000" channel="TV5.fi">
+    <title lang="fi">Järvenrantataloa etsimässä</title>
+    <desc lang="fi">Koti järven rannalla on vastoin yleistä luuloa mahdollista hankkia, vaikka ei olisikaan miljonääri. Sarjassa tiukan budjetin asunnonostajat löytävät lopulta unelmiensa kodin.(n)</desc>
+  </programme>
+  <programme start="20251003034000 +0000" stop="20251003040500 +0000" channel="TV5.fi">
+    <title lang="fi">Järvenrantataloa etsimässä</title>
+    <desc lang="fi">Koti järven rannalla on vastoin yleistä luuloa mahdollista hankkia, vaikka ei olisikaan miljonääri. Sarjassa tiukan budjetin asunnonostajat löytävät lopulta unelmiensa kodin.(n)</desc>
+  </programme>
+  <programme start="20251003040500 +0000" stop="20251003045500 +0000" channel="TV5.fi">
+    <title lang="fi">Kokki vaihtoon?</title>
+    <desc lang="fi">Cliff Crooks auttaa soul-ravintolan kokkia ja kahta kokkia, jotka ovat menettäneet kiinnostuksensa.(n)</desc>
+  </programme>
+  <programme start="20251003045500 +0000" stop="20251003051500 +0000" channel="TV5.fi">
+    <title lang="fi">Bizarre Foods: Delicious Destinations</title>
+    <desc lang="fi">Kausi 7, osa 21. Amerikkalainen tv-kasvo, kokki ja ruokatoimittaja Andrew Zimmern matkaa sarjassa maailmalla maistelemassa maukkaimpia paikallisia ruokia. (Bizarre Foods: Delicious Destinations, lifestyle, USA, 2018).(n)</desc>
+  </programme>
+  <programme start="20251003051500 +0000" stop="20251003053500 +0000" channel="TV5.fi">
+    <title lang="fi">Bizarre Foods: Delicious Destinations</title>
+    <desc lang="fi">Kausi 7, osa 22. Amerikkalainen tv-kasvo, kokki ja ruokatoimittaja Andrew Zimmern matkaa sarjassa maailmalla maistelemassa maukkaimpia paikallisia ruokia. (Bizarre Foods: Delicious Destinations, lifestyle, USA, 2018).(n)</desc>
+  </programme>
+  <programme start="20251003053500 +0000" stop="20251003060000 +0000" channel="TV5.fi">
+    <title lang="fi">House Hunters International</title>
+    <desc lang="fi">Sarjassa sinkut, pariskunnat ja perheet etsivät uutta kotia asunnonvälittäjän avustuksella Yhdysvalloissa.(n)</desc>
+  </programme>
+  <programme start="20251003060000 +0000" stop="20251003063500 +0000" channel="TV5.fi">
+    <title lang="fi">House Hunters International</title>
+    <desc lang="fi">Sarjassa sinkut, pariskunnat ja perheet etsivät uutta kotia asunnonvälittäjän avustuksella Yhdysvalloissa.(n)</desc>
+  </programme>
+  <programme start="20251003063500 +0000" stop="20251003070500 +0000" channel="TV5.fi">
+    <title lang="fi">Järvenrantataloa etsimässä</title>
+    <desc lang="fi">Alkaa uusintana. Koti järven rannalla on vastoin yleistä luuloa mahdollista hankkia, vaikka ei olisikaan miljonääri. Sarjassa tiukan budjetin asunnonostajat löytävät lopulta unelmiensa kodin.(n)</desc>
+  </programme>
+  <programme start="20251003070500 +0000" stop="20251003073500 +0000" channel="TV5.fi">
+    <title lang="fi">Järvenrantataloa etsimässä</title>
+    <desc lang="fi">Koti järven rannalla on vastoin yleistä luuloa mahdollista hankkia, vaikka ei olisikaan miljonääri. Sarjassa tiukan budjetin asunnonostajat löytävät lopulta unelmiensa kodin.(n)</desc>
+  </programme>
+  <programme start="20251003073500 +0000" stop="20251003084000 +0000" channel="TV5.fi">
+    <title lang="fi">Supertähtien yllätysremontit</title>
+    <desc lang="fi">Lämminhenkisessä sarjassa Hollywoodin ykkösjulkkikset osoittavat kiitollisuutensa heidän elämäänsä voimakkaasti vaikuttaneille ihmisille yllätysremonteilla.(n)</desc>
+  </programme>
+  <programme start="20251003084000 +0000" stop="20251003095000 +0000" channel="TV5.fi">
+    <title lang="fi">Halloween Cookie Challenge</title>
+    <desc lang="fi">Keksien valmistajat leipovat ja koristelevat pelottavia juhlaherkkuja tavoitteenaa voittaa 10 000 dollaria ja Halloween-keksimestarin tittelin.(n)</desc>
+  </programme>
+  <programme start="20251003095000 +0000" stop="20251003105000 +0000" channel="TV5.fi">
+    <title lang="fi">Chopped</title>
+    <desc lang="fi">Ted Allenin juontamassa kilpailussa kokit valmistavat epätavallisista ruoka-aineyhdistelmistä kolmen ruokalajin aterioita.(n)</desc>
+  </programme>
+  <programme start="20251003105000 +0000" stop="20251003115500 +0000" channel="TV5.fi">
+    <title lang="fi">Onnenpyörä</title>
+    <desc lang="fi">Tällä kertaa kilpailijoiksi tulevat Heidi Oulusta, Mikko Espoosta ja Reetta Tampereelta.(n)</desc>
+  </programme>
+  <programme start="20251003115500 +0000" stop="20251003130000 +0000" channel="TV5.fi">
+    <title lang="fi">Teho-osasto</title>
+    <desc lang="fi">Clementellä ja hänen tyttöystävällään Jodiella on hauskaa, kunnes Jodien aviomies Bobby keskeyttää heidät. Kun Jodie uhkaa ottaa avioeron, Bobby ottaa asiat omiin käsiinsä.(n)</desc>
+  </programme>
+  <programme start="20251003130000 +0000" stop="20251003133000 +0000" channel="TV5.fi">
+    <title lang="fi">Pelastajat</title>
+    <desc lang="fi">Sarjassa nähdään, miten pelastajat selviytyvät työssään ja käydään läpi dramaattisia ja myös traagisia tapahtumia.(n)</desc>
+  </programme>
+  <programme start="20251003133000 +0000" stop="20251003140500 +0000" channel="TV5.fi">
+    <title lang="fi">Pelastajat</title>
+    <desc lang="fi">Sarjassa nähdään, miten pelastajat selviytyvät työssään ja käydään läpi dramaattisia ja myös traagisia tapahtumia.(n)</desc>
+  </programme>
+  <programme start="20251003140500 +0000" stop="20251003151000 +0000" channel="TV5.fi">
+    <title lang="fi">Unelmahäät</title>
+    <desc lang="fi">Saran, 27, ja Tuomon, 36, ensitapaamisen aikoihin romanssi ei vielä syttynyt, sillä Sara seurusteli Tuomon kaverin kanssa. Suhteessa ei ollut kuitenkaan kaikki hyvin, joten Tuomo päätti kaapata Saran.(n)</desc>
+  </programme>
+  <programme start="20251003151000 +0000" stop="20251003160500 +0000" channel="TV5.fi">
+    <title lang="fi">Jeopardy! Suomi</title>
+    <desc lang="fi">Wallu Valpio, Martina Aitolehti ja Harri Moisio taistelevat kauden kahdeksannen jakson voitosta juontaja Kalle Lambergin johdolla. Parhaiten kysynyt kilpailija kerryttää hyväntekeväisyyspottia ja etenee semifinaaliin taistelemaan Jeopardyn mestaruudesta.(n)</desc>
+  </programme>
+  <programme start="20251003160500 +0000" stop="20251003180000 +0000" channel="TV5.fi">
+    <title lang="fi">Police Academy 2: Their First Assignment</title>
+    <desc lang="fi">Poliisiopiston torveloista kasvateista kertovan sarjan toinen osa. Ensimmäisestä, vuonna 1984 ilmestyneestä Poliisiopisto-elokuvasta tuttu Mahoney on kumppaneineen saanut koulun päätökseen ja arvon poliisit ovat nyt valmiita rosvojahtiin. Jotkut heistä ovatkin jo saaneet töitä rikollisliigan piinaamasta poliisipiiristä. Poliisipiirin esimies, opiston rehtorin Eric Lassardin velipoika, on irtisanomisuhan alla, mikäli roistoja ei saada kuriin. Toisaalta uudella poliisitarkastaja Mauserilla ei olisi mitään sitä vastaan, että tehtävä \nepäonnistuisi.(n)</desc>
+  </programme>
+  <programme start="20251003180000 +0000" stop="20251003201500 +0000" channel="TV5.fi">
+    <title lang="fi">Edge of Tomorrow</title>
+    <desc lang="fi">Tieteiselokuva vastahakoisesta armeijan upseerista (Tom Cruise), joka joutuu aikasilmukkaan ja kokee saman päivän taistelukentällä yhä uudelleen. USA 2014.(n)</desc>
+  </programme>
+  <programme start="20251003201500 +0000" stop="20251003223500 +0000" channel="TV5.fi">
+    <title lang="fi">World War Z</title>
+    <desc lang="fi">Hengästyttävän nopeatempoisessa toimintaelokuvassa YK:n entinen tutkija matkustaa ympäri maailman yrittäen pysäyttää pandemian, joka leviää kuin kulovalkea.(n)</desc>
+  </programme>
+  <programme start="20251003223500 +0000" stop="20251003231500 +0000" channel="TV5.fi">
+    <title lang="fi">Laten ja Sarkun hurjat suunnitelmat</title>
+    <desc lang="fi">Nyt laitetaan Käkisaari Oy:n tili sileäksi, kun Lauri lähtee ostoksille traktorin etukuormaaja silmissä kiiltäen. Varaosatarpeiltakaan ei traktorin kanssa vältytä. Terassin katon pellitys edistyy, kun saadaan Joni pariskunnan avuksi.(n)</desc>
+  </programme>
+  <programme start="20251003231500 +0000" stop="20251003234500 +0000" channel="TV5.fi">
+    <title lang="fi">Laten ja Sarkun hurjat suunnitelmat</title>
+    <desc lang="fi">Laurin aherrus traktorin parissa jatkuu. Sarkku pääsee Sirin kanssa treenaamaan ja ensimmäiselle maastoretkelle yhdessä. Pariskunta pohtii, viihtyisivätkö lampaat Käkisaaressa. Lauri päättää lähteä testaamaan taitojaan lammaspaimenena.(n)</desc>
+  </programme>
+  <programme start="20251003234500 +0000" stop="20251004005000 +0000" channel="TV5.fi">
+    <title lang="fi">Aku, Kalle ja Euroopan ihmeet</title>
+    <desc lang="fi">Koomikkokaksikko Aku ja Kalle ovat päätyneet Madeiran vehreälle saarelle. Madeiralla on yksi Euroopan korkeimmista merikallioista, Cabo Girao. Akun ja Kallen päätä pyörryttää merikallion lisäksi myös madeiralainen poncha.(n)</desc>
+  </programme>
+  <programme start="20251004005000 +0000" stop="20251004015500 +0000" channel="TV5.fi">
+    <title lang="fi">Onnenpyörä</title>
+    <desc lang="fi">Tällä kertaa kilpailijoiksi tulevat Heidi Oulusta, Mikko Espoosta ja Reetta Tampereelta.(n)</desc>
+  </programme>
+  <programme start="20251004015500 +0000" stop="20251004022500 +0000" channel="TV5.fi">
+    <title lang="fi">House Hunters International</title>
+    <desc lang="fi">Sarjassa sinkut, pariskunnat ja perheet etsivät uutta kotia asunnonvälittäjän avustuksella Yhdysvalloissa.(n)</desc>
+  </programme>
+  <programme start="20251004022500 +0000" stop="20251004030500 +0000" channel="TV5.fi">
+    <title lang="fi">House Hunters International</title>
+    <desc lang="fi">Sarjassa sinkut, pariskunnat ja perheet etsivät uutta kotia asunnonvälittäjän avustuksella Yhdysvalloissa.(n)</desc>
+  </programme>
+  <programme start="20251004030500 +0000" stop="20251004033000 +0000" channel="TV5.fi">
+    <title lang="fi">House Hunters International</title>
+    <desc lang="fi">Sarjassa sinkut, pariskunnat ja perheet etsivät uutta kotia asunnonvälittäjän avustuksella Yhdysvalloissa.(n)</desc>
+  </programme>
+  <programme start="20251004033000 +0000" stop="20251004035000 +0000" channel="TV5.fi">
+    <title lang="fi">House Hunters International</title>
+    <desc lang="fi">Sarjassa sinkut, pariskunnat ja perheet etsivät uutta kotia asunnonvälittäjän avustuksella Yhdysvalloissa.(n)</desc>
+  </programme>
+  <programme start="20251004035000 +0000" stop="20251004041500 +0000" channel="TV5.fi">
+    <title lang="fi">Järvenrantataloa etsimässä</title>
+    <desc lang="fi">Koti järven rannalla on vastoin yleistä luuloa mahdollista hankkia, vaikka ei olisikaan miljonääri. Sarjassa tiukan budjetin asunnonostajat löytävät lopulta unelmiensa kodin.(n)</desc>
+  </programme>
+  <programme start="20251004041500 +0000" stop="20251004043500 +0000" channel="TV5.fi">
+    <title lang="fi">Järvenrantataloa etsimässä</title>
+    <desc lang="fi">Koti järven rannalla on vastoin yleistä luuloa mahdollista hankkia, vaikka ei olisikaan miljonääri. Sarjassa tiukan budjetin asunnonostajat löytävät lopulta unelmiensa kodin.(n)</desc>
+  </programme>
+  <programme start="20251004043500 +0000" stop="20251004052500 +0000" channel="TV5.fi">
+    <title lang="fi">Supertähtien yllätysremontit</title>
+    <desc lang="fi">Lämminhenkisessä sarjassa Hollywoodin ykkösjulkkikset osoittavat kiitollisuutensa heidän elämäänsä voimakkaasti vaikuttaneille ihmisille yllätysremonteilla.(n)</desc>
+  </programme>
+  <programme start="20251004052500 +0000" stop="20251004061500 +0000" channel="TV5.fi">
+    <title lang="fi">Supertähtien yllätysremontit</title>
+    <desc lang="fi">Lämminhenkisessä sarjassa Hollywoodin ykkösjulkkikset osoittavat kiitollisuutensa heidän elämäänsä voimakkaasti vaikuttaneille ihmisille yllätysremonteilla.(n)</desc>
+  </programme>
+  <programme start="20251004061500 +0000" stop="20251004072000 +0000" channel="TV5.fi">
+    <title lang="fi">Jeopardy! Suomi</title>
+    <desc lang="fi">Seitsemännessä Jeopardy-jaksossa toisensa kohtaavat Sanna Stellan, Lauri Huttunen ja Ulla Virtanen. Kalle Lambergin isännöimässä visailussa on löydettävä oikeat kysymykset esitettyihin vastauksiin. Jakson voittaja lunastaa paikan Jeopardyn semifinaalissa.(n)</desc>
+  </programme>
+  <programme start="20251004072000 +0000" stop="20251004082000 +0000" channel="TV5.fi">
+    <title lang="fi">Jeopardy! Suomi</title>
+    <desc lang="fi">Wallu Valpio, Martina Aitolehti ja Harri Moisio taistelevat kauden kahdeksannen jakson voitosta juontaja Kalle Lambergin johdolla. Parhaiten kysynyt kilpailija kerryttää hyväntekeväisyyspottia ja etenee semifinaaliin taistelemaan Jeopardyn mestaruudesta.(n)</desc>
+  </programme>
+  <programme start="20251004082000 +0000" stop="20251004092500 +0000" channel="TV5.fi">
+    <title lang="fi">Aku, Kalle ja Euroopan ihmeet</title>
+    <desc lang="fi">Koomikkokaksikko Aku ja Kalle ovat päätyneet Madeiran vehreälle saarelle. Madeiralla on yksi Euroopan korkeimmista merikallioista, Cabo Girao. Akun ja Kallen päätä pyörryttää merikallion lisäksi myös madeiralainen poncha.(n)</desc>
+  </programme>
+  <programme start="20251004092500 +0000" stop="20251004103000 +0000" channel="TV5.fi">
+    <title lang="fi">Unelmahäät</title>
+    <desc lang="fi">34-vuotias Tiina ja 38-vuotias Tomi lausuvat rakkauden valat Hyvinkään vanhassa kirkossa vain yhdeksän kuukauden seurustelun jälkeen. Pari tapasi toisensa molempien kantakapakassa Tolpan Krouvissa Hyvinkäällä. Railakasta sinkkuelämää viettänyt Tiina kohtasi baaritiskillä miehen, jonka hän tunnisti nähneensä samassa ravintolassa jo kerran aiemmin. ”Vau, mikä mies” tuumasi Tiina ja päätti ottaa Tomista yhden illan jutun. Seuraavana päivänä he tapasivat jälleen Tolpan Krouvissa, ja suhde eteni pian vakavaksi. Toukokuussa 2023 – vain neljän kuukauden tuttavuuden jälkeen – Tomi kosi rakastaan.(n)</desc>
+  </programme>
+  <programme start="20251004103000 +0000" stop="20251004113500 +0000" channel="TV5.fi">
+    <title lang="fi">Unelmahäät</title>
+    <desc lang="fi">34-vuotias Tanja ja 24-vuotias Susanna tapasivat kesällä 2023, ja saavat maaliskuussa 2024 kirkollisen siunauksen avioliitolleen Lempäälässä. Tinderissä matchin napanneiden naisten ensitreffit kestivät kolme päivää, ja noin viikon päästä Susanna kosi Tanjaa. Suhteen alku osui mielenkiintoiseen hetkeen, sillä Tanja oli raskaana ja odotti kaksosia. Lapset syntyivät lokakuussa, ja parhaillaan pari elää vauva-arkea Vesilahdessa. Kaksikon luonteissa vastakohdat täydentävät toisiaan, sillä Susanna on rauhallisuuden perikuva ja Tanja impulsiivinen hössöttäjä.(n)</desc>
+  </programme>
+  <programme start="20251004113500 +0000" stop="20251004124000 +0000" channel="TV5.fi">
+    <title lang="fi">Unelmahäät</title>
+    <desc lang="fi">41-vuotiaan Sarin ja 23-vuotiaan Eemilin suhteessa ikä on vain numeroita. Eemil saapui eräänä päivänä kyntämään Sarin peltoa, ja yllättävä kohtaaminen pellon laidassa istutti rakkauden siemenen.(n)</desc>
+  </programme>
+  <programme start="20251004124000 +0000" stop="20251004135000 +0000" channel="TV5.fi">
+    <title lang="fi">Unelmahäät</title>
+    <desc lang="fi">Raskaan musiikin ystävät Teea, 37 ja Jukka-Pekka, 39, saavat toisensa goottityylisessä hääjuhlassa Vaasassa. Pari tapasi toisensa baarissa, ja siitä vain kahden viikon kuluttua Jukka-Pekka muutti Teean luokse.(n)</desc>
+  </programme>
+  <programme start="20251004135000 +0000" stop="20251004145500 +0000" channel="TV5.fi">
+    <title lang="fi">Unelmahäät</title>
+    <desc lang="fi">Saran, 27, ja Tuomon, 36, ensitapaamisen aikoihin romanssi ei vielä syttynyt, sillä Sara seurusteli Tuomon kaverin kanssa. Suhteessa ei ollut kuitenkaan kaikki hyvin, joten Tuomo päätti kaapata Saran.(n)</desc>
+  </programme>
+  <programme start="20251004145500 +0000" stop="20251004180000 +0000" channel="TV5.fi">
+    <title lang="fi">Harry Potter ja Feeniksin kilta</title>
+    <desc lang="fi">Ensimmäinen kesä Pimeyden ruhtinaan kohtaamisen jälkeen on ohi. Kun Harry palaa Tylypahkaan, hän saa tietää, että velhoyhteisö ei vieläkään myönnä Voldemortin palanneen. Taikuuden tulevaisuus saattaa riippua Harry Potterista ja Feeniksin killasta.(n)</desc>
+  </programme>
+  <programme start="20251004180000 +0000" stop="20251004202500 +0000" channel="TV5.fi">
+    <title lang="fi">Dungeons &amp; Dragons: Honor Among Thieves</title>
+    <desc lang="fi">Hurmaava varas ja yllättävä ryhmä seikkailijoita yrittävät palauttaa kadonneen reliikin, mutta tehtävä epäonnistuu, kun he ajautuvat vaikeuksiin väärien ihmisten kanssa.(n)</desc>
+  </programme>
+  <programme start="20251004202500 +0000" stop="20251004225000 +0000" channel="TV5.fi">
+    <title lang="fi">Edge of Tomorrow</title>
+    <desc lang="fi">Tieteiselokuva vastahakoisesta armeijan upseerista (Tom Cruise), joka joutuu aikasilmukkaan ja kokee saman päivän taistelukentällä yhä uudelleen. USA 2014.(n)</desc>
+  </programme>
+  <programme start="20251004225000 +0000" stop="20251004235500 +0000" channel="TV5.fi">
+    <title lang="fi">Jeopardy! Suomi</title>
+    <desc lang="fi">Seitsemännessä Jeopardy-jaksossa toisensa kohtaavat Sanna Stellan, Lauri Huttunen ja Ulla Virtanen. Kalle Lambergin isännöimässä visailussa on löydettävä oikeat kysymykset esitettyihin vastauksiin. Jakson voittaja lunastaa paikan Jeopardyn semifinaalissa.(n)</desc>
+  </programme>
+  <programme start="20251004235500 +0000" stop="20251005005500 +0000" channel="TV5.fi">
+    <title lang="fi">Jeopardy! Suomi</title>
+    <desc lang="fi">Wallu Valpio, Martina Aitolehti ja Harri Moisio taistelevat kauden kahdeksannen jakson voitosta juontaja Kalle Lambergin johdolla. Parhaiten kysynyt kilpailija kerryttää hyväntekeväisyyspottia ja etenee semifinaaliin taistelemaan Jeopardyn mestaruudesta.(n)</desc>
+  </programme>
+  <programme start="20251005005500 +0000" stop="20251005015500 +0000" channel="TV5.fi">
+    <title lang="fi">112</title>
+    <desc lang="fi">Sarjassa seurataan hätäkeskuksen, poliisin, pelastuslaitosten sekä FinnHemsin lääkärihelikopterin ja rajavartiolaitoksen toimintaa ja yhteistyötä.(n)</desc>
+  </programme>
+  <programme start="20251003003500 +0000" stop="20251003010000 +0000" channel="Star.fi">
+    <title lang="fi">Elämää Philadelphiassa</title>
+    <desc lang="fi">Ei ole mitään amerikkalaisempaa kuin paini. Siksi porukka päättää järjestää painishow'n kotiin palaaville sotilaille. Dee yllättyy siitä, että hänen kanssaan netissä jutellut sotilas ei olekaan hänen odotustensa mukainen.(n)</desc>
+  </programme>
+  <programme start="20251003010000 +0000" stop="20251003015000 +0000" channel="Star.fi">
+    <title lang="fi">Will Trent</title>
+    <desc lang="fi">Jaksossa tutkitaan murhaa, joka noudattaa tuttua kaavaa. Tappaja on aina yhden askeleen edellä, ja jäljitystyä pakottaa tutkijat kohtaamaan menneisyytensä.(n)</desc>
+  </programme>
+  <programme start="20251003015000 +0000" stop="20251003023500 +0000" channel="Star.fi">
+    <title lang="fi">High Potential</title>
+    <desc lang="fi">Tiimi tutkii eksoottisiin lajeihin erikoistuneen eläinlääkärin kuolemaa. Työasiat häiritsevät Karadecin treffielämää. Morgan seuraa teini-ikäiseen tyttäreensä liittyvää aavistustaan vanhempana.(n)</desc>
+  </programme>
+  <programme start="20251003023500 +0000" stop="20251003030000 +0000" channel="Star.fi">
+    <title lang="fi">How I Met Your Father</title>
+    <desc lang="fi">Sophie ja Ellen määrätään toteuttamaan työprojekti yhdessä. Sid yllättää Hannah'n Los Angelesissa. Charlie ja Val yrittävät saada kaiken irti ajastaan Jessen kanssa tämän saatua ikävän ennustuksen selvännäkijältä.(n)</desc>
+  </programme>
+  <programme start="20251003030000 +0000" stop="20251003035000 +0000" channel="Star.fi">
+    <title lang="fi">Melkein MENSA</title>
+    <desc lang="fi">Näyttelijä Santtu Karvonen, laulaja Simo Silmu ja Kova tiimin e-pelaaja Cyanide vastaavat vakikapteeni Eero Ritalan kanssa asiallisiin kysymyksiin teemoista Sankarit ja M-kirjain hämmentävässä tietokilpailussa. Juha Perälä tuomaroi.(n)</desc>
+  </programme>
+  <programme start="20251003035000 +0000" stop="20251003041500 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Kun Homer osoittaa hämmästyttäviä kykyjä ottaa vastaan iskuja, Moe kehottaa tätä ryhtymään ammattilaisnyrkkeilijäksi. Mutta kun raskaansarjan mestari Drederick Tatum on melkein nuijimassa Homerin kuoliaaksi, Moe viheltää ottelun poikki.(n)</desc>
+  </programme>
+  <programme start="20251003041500 +0000" stop="20251003044000 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Johtaja Burnsin kauan kateissa ollut avioton poika Larry saapuu kuvioihin, mutta Burnilla on vaikeuksia sietää häntä, kun poika osoittautuukin pölkkypääksi.(n)</desc>
+  </programme>
+  <programme start="20251003044000 +0000" stop="20251003051000 +0000" channel="Star.fi">
+    <title lang="fi">Sampo ja kotivideot</title>
+    <desc lang="fi">Paukku ei naurata. Tänään vauhdissa on lappalainen pefletinnoutaja, Sirkkaliisa menee sekaisin kakstahtimoottorin kanssa, kohtaamme dyynien törröttimen sekä abduktiosäde imaisee alukseen upeat Sanna Stellanin ja Miitta Sorvalin!(n)</desc>
+  </programme>
+  <programme start="20251003051000 +0000" stop="20251003053500 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Kauden avausjaksossa Charlie käy läpi häidensä peruutuksesta ja Alanin yllätyshäistä 22-vuotiaan Kandin (vieraileva tähti APRIL BOWLBY) kanssa johtuvaa jälkipyykkiä. Heidän vielä ollessaan Las Vegasissa Alan ja hänen materialistinen morsiamensa huomaavat, ettei Alanin voittoputki ole ohi, kun hän voittaa puoli miljoonaa dollaria rahapelikoneesta. Neljä kuukautta myöhemmin Alan vierailee veljensä kotona ja huomaa, että Charlie ottaa kaiken irti tyhjästä talosta. Mutta Alanilla on suuria uutisia: hän on eroamassa.(n)</desc>
+  </programme>
+  <programme start="20251003053500 +0000" stop="20251003060000 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Poikamiehen elämästä nauttiva hulivili Charlie kokee ei-toivotun elämänmuutoksen, kun hänen hissukkaveljensä Alan eroaa vaimostaan ja muuttaa Charlien nurkkiin 10-vuotiaan Jake-poikansa kanssa. Lisäkierteitä yhteiseloon tuovat Charlien alati vaiihtuvat tyttöystävät, veljesten dominoiva äiti Evelyn, sarkastinen taloudenhoitaja Berta, rikas naapurintyttö Rose ja Alanin entinen vaimo Judith. Pääosissa Charlie Sheen, Jon Cryer ja Angus T. Jones. Amerikkalainen komediasarja.(n)</desc>
+  </programme>
+  <programme start="20251003060000 +0000" stop="20251003063000 +0000" channel="Star.fi">
+    <title lang="fi">Moderni perhe</title>
+    <desc lang="fi">Kausi 3. Jakso 13/24. Häiden valopilkku. Lilyllä on kunniatehtävä häissä, mutta Cam ja Mitchell ovat huolissaan tytön kielenkäytöstä. Claire osallistuu vaaliväittelyyn. Amerikkalainen komediasarja.(n)</desc>
+  </programme>
+  <programme start="20251003063000 +0000" stop="20251003070000 +0000" channel="Star.fi">
+    <title lang="fi">Moderni perhe</title>
+    <desc lang="fi">Phil yrittää hurmata uuden asiakkaan (Greg Kinnear) eikä huomaa, että tämä puolestaan yrittää hurmata Clairen. Claire pahastuu miehensä piittaamattomuudesta, mutta lopulta asiakas menee liian pitkälle ja jopa Phil hermostuu. Cam ja Mitch ovat evakossa Jayn ja Glorian luona, mikä aiheuttaa kaikenlaista kitkaa. Onneksi erolapsi Manny on paikalla sovittelemassa kiistoja. Palkittu amerikkalainen, mockumentary-tyyliin kuvattu komediasarja. Kolmas kausi.(n)</desc>
+  </programme>
+  <programme start="20251003070000 +0000" stop="20251003080000 +0000" channel="Star.fi">
+    <title lang="fi">Kymppitonni</title>
+    <desc lang="fi">Kymppitonni goes Toimistopojat. Illan kilpailijat ovat tottuneet haastamaan toisiaan ja tekevät sen tällä kertaa sanavihjeillä. Ennätyksiä lyödään monella tapaa. Kilpailemassa Sere Siltala, Veikka Markkanen, Roponen, Kevin Tran ja Eero ”Suhis” Suhonen. Pisteitä jakaa Viki Eerikkilä.(n)</desc>
+  </programme>
+  <programme start="20251003080000 +0000" stop="20251003083000 +0000" channel="Star.fi">
+    <title lang="fi">Pawn Stars</title>
+    <desc lang="fi">Kun Peter vahingoittaa itseään sekä oravaperhettä moottorisahaonnettomuudessa, Chris ja Stewie ottavat hoiviinsa yhden loukkaantuneista jyrsijöistä hoitaakseen sen kuntoon. Sillä aikaa kiropraktikko korjaa Peterin vamman oikaisemalla hänen selkärankansa – ja palauttaa Peterin hänen "oikeaan pituuteensa" eli 195 senttimetriin.(n)</desc>
+  </programme>
+  <programme start="20251003083000 +0000" stop="20251003090000 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Peter ja Lois pohjustavat vahingossa videoklipin, mikä lähettää heidät jostakin syystä osaksi sitä.(n)</desc>
+  </programme>
+  <programme start="20251003090000 +0000" stop="20251003093000 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Marge ja Lisa puhdistavat rantakiviä ölhytankkerionnetttomuuden jäljiltä. Bart tekee kotitöitä vanhan eukon kartanossa, joka paljastuu burleski-klubiksi.(n)</desc>
+  </programme>
+  <programme start="20251003093000 +0000" stop="20251003100000 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Vieraillessaan Simpsoneilla Milhousen vanhemmat Kirk ja Luanne riitelevät ongelmistaan ja lopulta Luanne ilmoittaa haluavansa eron. Homer alkaa pelätä oman avioliittonsa puolesta.(n)</desc>
+  </programme>
+  <programme start="20251003100000 +0000" stop="20251003103000 +0000" channel="Star.fi">
+    <title lang="fi">Sampo ja kotivideot</title>
+    <desc lang="fi">Moisiota majoneesilla. Katsojat, olkaa valmiina sillä tänään tyynysota eskaloituu, keikalle tulee Siivouspalvelu Pikku Tuhatjalkainen, Pertillä on taas larppauspäivä sekä vierailun suorittaa Harri Moisio!(n)</desc>
+  </programme>
+  <programme start="20251003103000 +0000" stop="20251003105500 +0000" channel="Star.fi">
+    <title lang="fi">How I Met Your Father</title>
+    <desc lang="fi">Ellen epäilee Rachelilla olevan jotain meneillään. Hän ja Sid tekevät kyttäyskeikan. Sophie etsii käsiinsä Jessen, joka on pahastunut siitä, ettei häntä kutsuttu kollegansa syntymäpäiväjuhliin.(n)</desc>
+  </programme>
+  <programme start="20251003105500 +0000" stop="20251003112000 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Charlie tapailee Kandin (vieraileva tähti APRIL BOWLBY) äitiä Mandia (vieraileva tähti GAIL O'GRADY). Alan masentuu, koska Kandi on jättänyt hänet ja asuu katkeran Judithin luona, joka aivopesi Kandin Alania vastaan. Mandin kannustuksella Alan menee Judithin talolle voittaakseen Kandin takaisin. Kandi esittelee Judithille isänsä Andyn (KEVIN SORBO - "Hercules", "Gene Roddenberry’s Andromeda").(n)</desc>
+  </programme>
+  <programme start="20251003112000 +0000" stop="20251003114500 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Charlie melkein hukkuu yrittäessään tehdä vaikutusta kauniiseen tyttöön. Hän kertoo Alanille, että heidän edesmennyt isänsä ilmestyi hänelle ja esitti hänelle pyynnön.(n)</desc>
+  </programme>
+  <programme start="20251003114500 +0000" stop="20251003121500 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Alan ja Kandi päätyvät epätavalliseen huoltajuuskiistaan. Alan on päättänyt pitää hänen ja Kandin koiran huoltajuuden, Kandin lähtiessä ja vieden erossa asunnon ja auton. Koska hän menetti kaiken Judithille heidän erossaan, hän päättää palkata parhaan lakimiehen, jonka tuntee, eli Judithin.(n)</desc>
+  </programme>
+  <programme start="20251003121500 +0000" stop="20251003131000 +0000" channel="Star.fi">
+    <title lang="fi">High Potential</title>
+    <desc lang="fi">Korkeaprofiilisen, lääketeknologiaa kehittävän startup-yrityksen villit toimistojuhlat johtavat perustajan ja toimitusjohtajan järkyttävään murhaan. Uusi kollega poliisiasemalla herättää Morganin kiinnostuksen.(n)</desc>
+  </programme>
+  <programme start="20251003131000 +0000" stop="20251003134000 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Penny on rahapulassa, joten Leonard yrittää auttaa häntä järjestelemään raha-asioitaan ja Sheldon puolestaan lainaa auliisti rahaa. Pennyn tiliotteita selatessaan Leonard huomaa erään epäkohdan ja päättää puuttua siihen silläkin uhalla, että joutuu palaamaan kotiin ilman housuja...(n)</desc>
+  </programme>
+  <programme start="20251003134000 +0000" stop="20251003140500 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Leonardin äiti Beverly saapuu vierailulle, eikä Leonard ole asiasta erityisen innoissaan. Maineikkaana psykiatrina ja tieteilijänä uraa tehnyt äiti ei nimittäin ole kovin kannustava tai lämmin poikaansa kohtaan. Kaiken lisäksi Beverlyn esittämät psykoanalyyttiset diagnoosit saavat Pennyn kyyneliin ja Rajin ja Howardin raivon partaalle.(n)</desc>
+  </programme>
+  <programme start="20251003140500 +0000" stop="20251003143500 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Peter vie uuden kummisedän roolinsa uudelle tasolle.(n)</desc>
+  </programme>
+  <programme start="20251003143500 +0000" stop="20251003150000 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Meg suunnittelee häitään yllättävän Quahogin asukkaan kanssa. Sillä aikaa Peter löytää uuden liivin. Hänellä on monta asuun sopivaa seikkailua, ja yhden seikkailun aikana hänen kätensä lähtevät irti. Hänelle jää pikkuruiset kädet, jotka eivät ole vielä kasvaneet takaisin.(n)</desc>
+  </programme>
+  <programme start="20251003150000 +0000" stop="20251003153000 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Rangaistukseksi tihutöistään Nelson joutuu auttamaan Wilsonia koulun pihalla. Katsoessaan hänen öykkäröintiään Lisa huomaa viehättyvänsä kovis-Nelsonista.(n)</desc>
+  </programme>
+  <programme start="20251003153000 +0000" stop="20251003160000 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Hurrikaani puhaltaa Springfieldin halki ja tuhoaa Ned Flandersin talon, mutta ei vahingoita Simpsonien taloa. Hurskas Ned on niin raivoissaan tästä epäoikeudenmukaisuudesta, että päätyy mielisairaalaan.(n)</desc>
+  </programme>
+  <programme start="20251003160000 +0000" stop="20251003163000 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Alan on iloinen, ettei hänen tarvitse enää maksaa elatusapua Judithille, kun tämä menee naimisiin miesystävänsä Herbin (vieraileva tähti RYAN STILES - "The Drew Carey Show") kanssa. Judithin ja Herbin hääsuunnitelmat ovat vaarassa, koska Jake ei voi sietää tulevaa isäpuoltaan. Alan pyytää Charlien apua, jotta he voisivat ystävystyä Herbin kanssa ja parantaa Herbin suhdetta Jakeen.(n)</desc>
+  </programme>
+  <programme start="20251003163000 +0000" stop="20251003170000 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Charlie ei tule toimeen teräväkielisen ja passiivisaggressiivisen äitiinsä kanssa, mutta on ihastunut Lydiaan (vieraileva tähti KATHERIN LaNASA - "Justice"), vaaleaan huippuluokan kiinteistönvälittäjään. joka muistuttaa tismalleen Charlien äitiä. Valitettavasti yhteneväisyydet eivät lopu siihen, ja suhde alkaa vaikuttaa turhankin tutulta.(n)</desc>
+  </programme>
+  <programme start="20251003170000 +0000" stop="20251003173000 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Paintball-ottelulla on yllättäviä seurauksia Leonardin ja hänen ystäviensä kannalta, kun se johtaa riitaan Pennyn ja Sheldonin välillä, ja romanssiin Wolowitzin ja Leslien välillä.(n)</desc>
+  </programme>
+  <programme start="20251003173000 +0000" stop="20251003180000 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Junamatka San Franciscoon hyppää sivuraiteille, kun Leonard, Sheldon, Wolowitz ja Raj huomaavat kauniin scifi-näyttelijä Summer Glaun olevan samassa junassa.(n)</desc>
+  </programme>
+  <programme start="20251003180000 +0000" stop="20251003183000 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Penny alkaa askartelemaan kukanmuotoisia hiuskoruja myydäkseen niitä, mutta saa huomata, että hänen työtapansa eivät ole järin tehokkaat. Sheldon rientää apuun tuotantolinjan kehittelyyn, Leonard luo nettisivut kukkien myymiseen ja Raj ja Howard auttavat kukkien kuumaliimakokoamisessa. Huippuunsa hiotusta tuotanto- ja markkinointikoneistosta huolimatta tulos taitaa jälleen olla pannukakku...(n)</desc>
+  </programme>
+  <programme start="20251003183000 +0000" stop="20251003190000 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Leonardin ja Sheldonin yläkertaan muuttaa uusi asukas, joka osoittautuu kauniiksi nuoreksi naiseksi. Kundit ovat tietenkin innoissaan, kun saavat auttaa uutta tulokasta, mutta Penny haistaa pikku hiljaa palaneen käryä.(n)</desc>
+  </programme>
+  <programme start="20251003190000 +0000" stop="20251003211000 +0000" channel="Star.fi">
+    <title lang="fi">The Circle</title>
+    <desc lang="fi">Mae Holland on nuori ja terävä nainen, joka saa unelmatyön teknologiayhtiössä nimeltä Circle. Unelmatyöllä on varjopuolensa, joka vaikuttaa niin Maeen, hänen läheisiinsä kuin koko ihmiskuntaan.(n)</desc>
+  </programme>
+  <programme start="20251003211000 +0000" stop="20251003232500 +0000" channel="Star.fi">
+    <title lang="fi">Logan Lucky</title>
+    <desc lang="fi">(Logan Lucky 2017). Mestariohjaaja Steven Soderberghin veijaritarinassa elämän kolhima entinen jalkapallotähti Jimmy Logan (Channing Tatum) menettää työpaikkansa ja päättää tehdä kaikkien aikojen ryöstön. Monimutkaisen suunnitelman toteuttamiseen tarvitaan muun muassa yksikätinen baarimikko, autoja rakastava kampaaja sekä räjähde-expertti nimeltä Bang. Ohjaaja Soderbergh muistetaan erityisesti Ocean's Eleven -hittielokuvastaan. Pääosissa: Channing Tatum, Adam Driver, Daniel Craig, Riley Keough, Seth MacFarlane, Katie Holmes. Ohjaus: Steven Soderbergh.(n)</desc>
+  </programme>
+  <programme start="20251003232500 +0000" stop="20251003235500 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Peter vie uuden kummisedän roolinsa uudelle tasolle.(n)</desc>
+  </programme>
+  <programme start="20251003235500 +0000" stop="20251004002500 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Meg suunnittelee häitään yllättävän Quahogin asukkaan kanssa. Sillä aikaa Peter löytää uuden liivin. Hänellä on monta asuun sopivaa seikkailua, ja yhden seikkailun aikana hänen kätensä lähtevät irti. Hänelle jää pikkuruiset kädet, jotka eivät ole vielä kasvaneet takaisin.(n)</desc>
+  </programme>
+  <programme start="20251004002500 +0000" stop="20251004005500 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Rangaistukseksi tihutöistään Nelson joutuu auttamaan Wilsonia koulun pihalla. Katsoessaan hänen öykkäröintiään Lisa huomaa viehättyvänsä kovis-Nelsonista.(n)</desc>
+  </programme>
+  <programme start="20251004005500 +0000" stop="20251004012000 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Hurrikaani puhaltaa Springfieldin halki ja tuhoaa Ned Flandersin talon, mutta ei vahingoita Simpsonien taloa. Hurskas Ned on niin raivoissaan tästä epäoikeudenmukaisuudesta, että päätyy mielisairaalaan.(n)</desc>
+  </programme>
+  <programme start="20251004012000 +0000" stop="20251004014500 +0000" channel="Star.fi">
+    <title lang="fi">Pawn Stars</title>
+    <desc lang="fi">Kun Peter vahingoittaa itseään sekä oravaperhettä moottorisahaonnettomuudessa, Chris ja Stewie ottavat hoiviinsa yhden loukkaantuneista jyrsijöistä hoitaakseen sen kuntoon. Sillä aikaa kiropraktikko korjaa Peterin vamman oikaisemalla hänen selkärankansa – ja palauttaa Peterin hänen "oikeaan pituuteensa" eli 195 senttimetriin.(n)</desc>
+  </programme>
+  <programme start="20251004014500 +0000" stop="20251004021000 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Peter ja Lois pohjustavat vahingossa videoklipin, mikä lähettää heidät jostakin syystä osaksi sitä.(n)</desc>
+  </programme>
+  <programme start="20251004021000 +0000" stop="20251004030000 +0000" channel="Star.fi">
+    <title lang="fi">High Potential</title>
+    <desc lang="fi">Korkeaprofiilisen, lääketeknologiaa kehittävän startup-yrityksen villit toimistojuhlat johtavat perustajan ja toimitusjohtajan järkyttävään murhaan. Uusi kollega poliisiasemalla herättää Morganin kiinnostuksen.(n)</desc>
+  </programme>
+  <programme start="20251004030000 +0000" stop="20251004034500 +0000" channel="Star.fi">
+    <title lang="fi">Onnenpyörä VIP</title>
+    <desc lang="fi">Kevään viimeisessä finaalissa selviää, kuka voittaa 10 000 euroa valitsemalleen hyväntekeväisyyskohteelle. Cristal Snow:n ja  Niko Saarisen johdolla kisaamassa NikoLa, Virpi Kätkä ja Noora Karma.(n)</desc>
+  </programme>
+  <programme start="20251004034500 +0000" stop="20251004043500 +0000" channel="Star.fi">
+    <title lang="fi">Melkein MENSA</title>
+    <desc lang="fi">Tubettavat muusikot Seksikäs Suklaa ja Dosdela haastavat yrittäjä Niina Kuhdan ja Eero Ritalan asiattomaan taistoon tiedon herruudesta kun teemoina ovat Aasia ja magia. Juha Perälä tuomaroi.(n)</desc>
+  </programme>
+  <programme start="20251004043500 +0000" stop="20251004052000 +0000" channel="Star.fi">
+    <title lang="fi">Melkein MENSA</title>
+    <desc lang="fi">Näyttelijä Santtu Karvonen, laulaja Simo Silmu ja Kova tiimin e-pelaaja Cyanide vastaavat vakikapteeni Eero Ritalan kanssa asiallisiin kysymyksiin teemoista Sankarit ja M-kirjain hämmentävässä tietokilpailussa. Juha Perälä tuomaroi.(n)</desc>
+  </programme>
+  <programme start="20251004052000 +0000" stop="20251004055000 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Homer huomaa musiikkimakunsa vanhentuneen ja haluaa osoittaa olevansa edelleen nykymenossa mukana. Hän vie Bartin ja Lisan festareille ja päätyy ohjelmanumeroksi.(n)</desc>
+  </programme>
+  <programme start="20251004055000 +0000" stop="20251004062000 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Simpsonit lähtevät rantalomalle, jossa Lisa päättää muuttua nörtistä surffariksi ja kerää itselleen ihailijoita. Bart haluaa paljastaa Lisan todellisen luonteen.(n)</desc>
+  </programme>
+  <programme start="20251004062000 +0000" stop="20251004065000 +0000" channel="Star.fi">
+    <title lang="fi">Simpsonit</title>
+    <desc lang="fi">Tässä vuotuisessa kauhuteemaisessa trilogiassa Bart ja Lisa löytävät ullakolla asuvan pahan olion, Lisa luo vahingossa miniatyyrisivilisaation ja avaruusolennot Kang ja Kodos osallistuvat Yhdysvaltojen presidentinvaaleihin.(n)</desc>
+  </programme>
+  <programme start="20251004065000 +0000" stop="20251004071500 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Leonardin ja Stephanien romanssi kukoistaa. Onnea varjostaa ainoastaan yksi este: Sheldon. Sheldonin mielestä Stephanie on juuri oikea nainen Leonardille, ja niinpä hän tekee kaikkensa saadakseen parin suhteen toimimaan. Ikävä kyllä Sheldon on sosiaalisesti ja romanttisesti sen verran rajoittunut, että tekee enemmän hallaa kuin hyötyä...(n)</desc>
+  </programme>
+  <programme start="20251004071500 +0000" stop="20251004074000 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Stephanie on viime aikoina viettänyt yhä enemmän aikaa Sheldonin ja Leonardin luona. Kun Leonardin vaatekaappi on täyttynyt näteistä mekoista, sänkyyn on ilmestynyt kukalliset lakanat ja ikkunalaudalle tuoksukynttilöitä, Leonard viimein hoksaa, että hän ja Stephanie ilmeisesti asuvat yhdessä. Hän säikähtää suhteen pikaista etenemistä ja yrittää kertoa tunteistaan Stephanielle, mutta huonolla menestyksellä...(n)</desc>
+  </programme>
+  <programme start="20251004074000 +0000" stop="20251004081000 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Kun Pennyn kommentti koskien Wolowitzin rakkauselämää saa Wolowitzin masentumaan, hänen ystävänsä menettävät tärkeimmän tiimikaverinsa juuri ennen robottitaistelukisaa.(n)</desc>
+  </programme>
+  <programme start="20251004081000 +0000" stop="20251004083500 +0000" channel="Star.fi">
+    <title lang="fi">Rillit huurussa</title>
+    <desc lang="fi">Sheldonin täytyy ystävystyä ärsyttävän mutta vaikutusvaltaisen kollegansa kanssa, ja helpoimmin se tietenkin onnistuu tutustumalla ystävystymisen tieteellisiin teorioihin.(n)</desc>
+  </programme>
+  <programme start="20251004083500 +0000" stop="20251004090500 +0000" channel="Star.fi">
+    <title lang="fi">Elämää Philadelphiassa</title>
+    <desc lang="fi">Kun Frankin holtiton elämäntapa muodostuu porukalle vaivaksi, he järjestävät väliintulon.(n)</desc>
+  </programme>
+  <programme start="20251004090500 +0000" stop="20251004093500 +0000" channel="Star.fi">
+    <title lang="fi">Elämää Philadelphiassa</title>
+    <desc lang="fi">Dee on mustasukkainen Tarjoilijan naimisiinmenosta ennen itseään ja tekee kaikkensa kaataakseen häät. Muut harhauttavat Charlieta saamalla hänet taas deittailemaan.(n)</desc>
+  </programme>
+  <programme start="20251004093500 +0000" stop="20251004100000 +0000" channel="Star.fi">
+    <title lang="fi">Elämää Philadelphiassa</title>
+    <desc lang="fi">Porukka selittää tuomarille kaikki vuoden 2008 baseballin mestaruussarjan aikana kokemansa vastoinkäymiset, jotta tämä hylkäisi heille silloin annetun suuren parkkisakon.(n)</desc>
+  </programme>
+  <programme start="20251004100000 +0000" stop="20251004102500 +0000" channel="Star.fi">
+    <title lang="fi">Elämää Philadelphiassa</title>
+    <desc lang="fi">Ei ole mitään amerikkalaisempaa kuin paini. Siksi porukka päättää järjestää painishow'n kotiin palaaville sotilaille. Dee yllättyy siitä, että hänen kanssaan netissä jutellut sotilas ei olekaan hänen odotustensa mukainen.(n)</desc>
+  </programme>
+  <programme start="20251004102500 +0000" stop="20251004105000 +0000" channel="Star.fi">
+    <title lang="fi">Huutokaupan metsästäjät</title>
+    <desc lang="fi">Ivy vie lapsensa rantapäivälle Victorvilleen ja he ottavat siitä kaiken irti. Brandi yrittää unohtaa huonot leirikokemuksensa hyvän varaston avulla. Kenny onnistuu saamaan mukavan tuoton, vaikka Rene läksytti häntä huonoista valinnoista.(n)</desc>
+  </programme>
+  <programme start="20251004105000 +0000" stop="20251004111500 +0000" channel="Star.fi">
+    <title lang="fi">Huutokaupan metsästäjät</title>
+    <desc lang="fi">Laura on yksinään Moreno Valleyssa eikä kainostele kertoa syytä. Brandin saa sievoisen voiton. Renen varasto tuottaa muutaman yllätyksen ja Ivy kokeilee yliluonnollisia voimia.(n)</desc>
+  </programme>
+  <programme start="20251004111500 +0000" stop="20251004114500 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Kun Lois kannustaa Peteriä lukemaan kirjan, Peter joutuu auto-onnettomuuteen matkalla kirjastoon. Peterin ollessa koomassa hän uneksii tapaavansa menneisyydestään tuttuja, mutta jo kuolleita hahmoja.(n)</desc>
+  </programme>
+  <programme start="20251004114500 +0000" stop="20251004121500 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Kun Lois kannustaa Peteriä lukemaan kirjan, Peter joutuu auto-onnettomuuteen matkalla kirjastoon. Peterin ollessa koomassa hän uneksii tapaavansa menneisyydestään tuttuja, mutta jo kuolleita hahmoja.(n)</desc>
+  </programme>
+  <programme start="20251004121500 +0000" stop="20251004124000 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Hurrikaani pakottaa perheen pysymään motellihuoneessa, joten he kuluttavat aikaa lukemalla hotelliraamattua. Peter alkaa kertoa kolmea Raamatun tarinaa omina versioinaan perheelle.(n)</desc>
+  </programme>
+  <programme start="20251004124000 +0000" stop="20251004131000 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Kun rehtori Shepherd saa potkut haukuttuaan Chrisiä lihavaksi koulussa, hän muuttaa Griffinien luo. Brian puolestaan haastaa Stewien oikeuteen tämän kirjoitettua lastenkirjasarjan, jossa Brian esiintyy idioottina.(n)</desc>
+  </programme>
+  <programme start="20251004131000 +0000" stop="20251004134000 +0000" channel="Star.fi">
+    <title lang="fi">Moderni perhe</title>
+    <desc lang="fi">Kun Phil ei saa puhelua lääkäriltään vastaanotolla käyntinsä jälkeen, hän vetää hätäisiä johtopäätöksiä ja alkaa sanoa hyvästejä. Javier ilmaantuu taas varoittamatta ja vie Mannyn hevoskilpailuihin myöhästyneenä syntymäpäivälahjana. Kun Mitch tuo kotiin palkinnon, alkaa kilpailu siitä, kenellä on suurin pokaali.(n)</desc>
+  </programme>
+  <programme start="20251004134000 +0000" stop="20251004140500 +0000" channel="Star.fi">
+    <title lang="fi">Moderni perhe</title>
+    <desc lang="fi">Luken ja Mannyn on kehiteltävä kouluprojektia varten kapseli, joka suojaisi kananmunaa kahden kerroksen pudotukselta. Kun Claire ja Jay saavat vihiä asiasta, kilpailuvietti ottaa heistä lopulta vallan. Phil värvää Haleyn ja Glorian avustajiksi yleisöön tärkeää kiinteistöesittelyä varten. Mitch ja Cam tapaavat äitiehdokkaita ja yrittävät kovasti olla hurmaavia ja miellyttäviä.(n)</desc>
+  </programme>
+  <programme start="20251004140500 +0000" stop="20251004150000 +0000" channel="Star.fi">
+    <title lang="fi">Kokkisota</title>
+    <desc lang="fi">Vauhdikas ja viihdyttävä Kokkisota palaa televisioihin sädehtivän Anni Ihamäen luotsaamana. Ensimmäisessä jaksossa toisistaan mittaa ottavat huippukokit Tommi Tuominen ja Linnea Vihonen. Apunaan muotiguru Sami Sykkö ja tanssilegenda Jorma Uotinen sekä heidän 20 euron arvoiset kauppakassinsa. Jakso 1/10.(n)</desc>
+  </programme>
+  <programme start="20251004150000 +0000" stop="20251004153000 +0000" channel="Star.fi">
+    <title lang="fi">Sampo ja kotivideot</title>
+    <desc lang="fi">Paukku ei naurata. Tänään vauhdissa on lappalainen pefletinnoutaja, Sirkkaliisa menee sekaisin kakstahtimoottorin kanssa, kohtaamme dyynien törröttimen sekä abduktiosäde imaisee alukseen upeat Sanna Stellanin ja Miitta Sorvalin!(n)</desc>
+  </programme>
+  <programme start="20251004153000 +0000" stop="20251004160000 +0000" channel="Star.fi">
+    <title lang="fi">Sampo ja kotivideot</title>
+    <desc lang="fi">Moisiota majoneesilla. Katsojat, olkaa valmiina sillä tänään tyynysota eskaloituu, keikalle tulee Siivouspalvelu Pikku Tuhatjalkainen, Pertillä on taas larppauspäivä sekä vierailun suorittaa Harri Moisio!(n)</desc>
+  </programme>
+  <programme start="20251004160000 +0000" stop="20251004170000 +0000" channel="Star.fi">
+    <title lang="fi">Kymppitonni</title>
+    <desc lang="fi">Kymppitonni goes Toimistopojat. Illan kilpailijat ovat tottuneet haastamaan toisiaan ja tekevät sen tällä kertaa sanavihjeillä. Ennätyksiä lyödään monella tapaa. Kilpailemassa Sere Siltala, Veikka Markkanen, Roponen, Kevin Tran ja Eero ”Suhis” Suhonen. Pisteitä jakaa Viki Eerikkilä.(n)</desc>
+  </programme>
+  <programme start="20251004170000 +0000" stop="20251004173000 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Jaken opettaja, Francine (JULIA CAMPBELL) pyytää vanhemmat Alanin ja Judithin luokkaansa keskustelemaan Jaken vähäisestä kiinnostuksesta koulunkäyntiin. Ollessaan epätoivoisesti älykästä seuraa vailla seurustellessaan tyhjäpäisen tyttöystävänsä Kandin (vieraileva tähti APRIL BOWLBY) kanssa, Alan ihastuu Francineen platonisesti. Kun Alan ja Judith pakottavat Jaken osallistumaan koulun musikaaliin, Charlie auttaa häntä valmistautumisessa.(n)</desc>
+  </programme>
+  <programme start="20251004173000 +0000" stop="20251004180000 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Poikamiehen elämästä nauttiva hulivili Charlie kokee ei-toivotun elämänmuutoksen, kun hänen hissukkaveljensä Alan eroaa vaimostaan ja muuttaa Charlien nurkkiin 10-vuotiaan Jake-poikansa kanssa. Lisäkierteitä yhteiseloon tuovat Charlien alati vaiihtuvat tyttöystävät, veljesten dominoiva äiti Evelyn, sarkastinen taloudenhoitaja Berta, rikas naapurintyttö Rose ja Alanin entinen vaimo Judith. Pääosissa Charlie Sheen, Jon Cryer ja Angus T. Jones. Amerikkalainen komediasarja.(n)</desc>
+  </programme>
+  <programme start="20251004180000 +0000" stop="20251004202000 +0000" channel="Star.fi">
+    <title lang="fi">Parker</title>
+    <desc lang="fi">Parker on alansa uskaliain, huolellisin ja armottomin ryöstäjä, jolle mikään keikka ei ole liian vaikea. Hän osaa suunnitella ja toteuttaa mitä vain, kunhan ryhmä on rikkumattoman lojaali ja noudattaa suunnitelmaa tarkalleen. Kun viimeisin ryöstö menee pieleen yhden miehen huolimattomuuden takia, Parker kieltäytyy yhteistyöstä rikollispomo Melanderin kanssa seuraavalla kerralla. Tämä ei muita miellytä, ja Parker jätetään kuolemaan syrjäisen tien varteen.(n)</desc>
+  </programme>
+  <programme start="20251004202000 +0000" stop="20251004205000 +0000" channel="Star.fi">
+    <title lang="fi">Elämää Philadelphiassa</title>
+    <desc lang="fi">Kun Frankin holtiton elämäntapa muodostuu porukalle vaivaksi, he järjestävät väliintulon.(n)</desc>
+  </programme>
+  <programme start="20251004205000 +0000" stop="20251004212000 +0000" channel="Star.fi">
+    <title lang="fi">Elämää Philadelphiassa</title>
+    <desc lang="fi">Dee on mustasukkainen Tarjoilijan naimisiinmenosta ennen itseään ja tekee kaikkensa kaataakseen häät. Muut harhauttavat Charlieta saamalla hänet taas deittailemaan.(n)</desc>
+  </programme>
+  <programme start="20251004212000 +0000" stop="20251004214500 +0000" channel="Star.fi">
+    <title lang="fi">Elämää Philadelphiassa</title>
+    <desc lang="fi">Porukka selittää tuomarille kaikki vuoden 2008 baseballin mestaruussarjan aikana kokemansa vastoinkäymiset, jotta tämä hylkäisi heille silloin annetun suuren parkkisakon.(n)</desc>
+  </programme>
+  <programme start="20251004214500 +0000" stop="20251004221000 +0000" channel="Star.fi">
+    <title lang="fi">Elämää Philadelphiassa</title>
+    <desc lang="fi">Ei ole mitään amerikkalaisempaa kuin paini. Siksi porukka päättää järjestää painishow'n kotiin palaaville sotilaille. Dee yllättyy siitä, että hänen kanssaan netissä jutellut sotilas ei olekaan hänen odotustensa mukainen.(n)</desc>
+  </programme>
+  <programme start="20251004221000 +0000" stop="20251004224000 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Stewie sanoo vihdoin ensimmäisen sanansa, ja se on kirosana. Kun muut äidit syrjivät Loisia, hän yrittää selvittää, mistä Stewie olisi sen voinut oppia.(n)</desc>
+  </programme>
+  <programme start="20251004224000 +0000" stop="20251004231000 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Stewie "lopettaa suhteen" Rupertin kanssa saatuaan tietää, että Rupert kuului ennen Chrisille. Stewie ei pääse yli loukatuista tunteistaan, joten hän päättää toimia.(n)</desc>
+  </programme>
+  <programme start="20251004231000 +0000" stop="20251004234000 +0000" channel="Star.fi">
+    <title lang="fi">Pawn Stars</title>
+    <desc lang="fi">Kun Peter vahingoittaa itseään sekä oravaperhettä moottorisahaonnettomuudessa, Chris ja Stewie ottavat hoiviinsa yhden loukkaantuneista jyrsijöistä hoitaakseen sen kuntoon. Sillä aikaa kiropraktikko korjaa Peterin vamman oikaisemalla hänen selkärankansa – ja palauttaa Peterin hänen "oikeaan pituuteensa" eli 195 senttimetriin.(n)</desc>
+  </programme>
+  <programme start="20251004234000 +0000" stop="20251005001000 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Peter ja Lois pohjustavat vahingossa videoklipin, mikä lähettää heidät jostakin syystä osaksi sitä.(n)</desc>
+  </programme>
+  <programme start="20251005001000 +0000" stop="20251005004000 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Peter vie uuden kummisedän roolinsa uudelle tasolle.(n)</desc>
+  </programme>
+  <programme start="20251005004000 +0000" stop="20251005010500 +0000" channel="Star.fi">
+    <title lang="fi">Family Guy</title>
+    <desc lang="fi">Meg suunnittelee häitään yllättävän Quahogin asukkaan kanssa. Sillä aikaa Peter löytää uuden liivin. Hänellä on monta asuun sopivaa seikkailua, ja yhden seikkailun aikana hänen kätensä lähtevät irti. Hänelle jää pikkuruiset kädet, jotka eivät ole vielä kasvaneet takaisin.(n)</desc>
+  </programme>
+  <programme start="20251005010500 +0000" stop="20251005013000 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Charlie melkein hukkuu yrittäessään tehdä vaikutusta kauniiseen tyttöön. Hän kertoo Alanille, että heidän edesmennyt isänsä ilmestyi hänelle ja esitti hänelle pyynnön.(n)</desc>
+  </programme>
+  <programme start="20251005013000 +0000" stop="20251005015000 +0000" channel="Star.fi">
+    <title lang="fi">Miehen puolikkaat</title>
+    <desc lang="fi">Alan ja Kandi päätyvät epätavalliseen huoltajuuskiistaan. Alan on päättänyt pitää hänen ja Kandin koiran huoltajuuden, Kandin lähtiessä ja vieden erossa asunnon ja auton. Koska hän menetti kaiken Judithille heidän erossaan, hän päättää palkata parhaan lakimiehen, jonka tuntee, eli Judithin.(n)</desc>
+  </programme>
+</tv>
