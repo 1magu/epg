@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files_0.zip -->
+  <filename>guide.xml</filename>
+  <!-- <siteini-pack>/config/siteini</siteini-pack> -->
+  <!-- <mode></mode> -->
+  <!-- <postprocess grab="y" run="n">rex</postprocess> -->
+  <!-- <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59</user-agent> -->
+  <!-- to get access to sites which require your credentials -->
+  <!-- <credentials user="your username for the site" password="your password for the site">site name</credentials> -->
+  <!-- for siteini's that need a decrypt_userkey-->
+  <!-- <decryptkey site="site-name">decrypt_userkey</decryptkey> -->
+  <!-- add the correct license id values in the next line -->
+  <license wg-username="yksmagu" registered-email="yksmagu@outlook.com" password="fe9anuQ9">To force a license update; replace this text with the letter f</license>
+  <logging>debug</logging>
+  <timespan>1</timespan>
+  <retry time-out="5">3</retry>
+  <update>i</update>
+  <!-- timespan 0 is one day -->
+  <channels>
+    <!-- <channel update="i" site="iltalehti.fi" site_id="628" xmltv_id="V Sport Ultra HD.se">FI: V Ultra UHD [Multi-Audio]</channel> -->
+    <!-- <channel update="i" site="iltalehti.fi" site_id="628" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel> -->
+    <!-- <channel update="i" site="iltapulu.fi" site_id="v-sport-ultrahd" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel> -->
+    <channel update="i" site="iltalehti.fi" site_id="626" xmltv_id="V Sport Ultra HD.se">FI: V Ultra UHD [Multi-Audio]</channel>
+    <channel update="i" site="iltalehti.fi" site_id="622" xmltv_id="MTV Urheilu 1.fi">MTV Urheilu 1.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="442" xmltv_id="FI: Viaplay 1 Urheilu 1 FHD">FI: Viaplay 1 Urheilu 1 FHD</channel>
+    <channel update="i" site="iltalehti.fi" site_id="442" xmltv_id="FI: Viaplay 1 Urheilu HD">FI: Viaplay 1 Urheilu HD</channel>
+    <channel update="i" site="iltalehti.fi" site_id="443" xmltv_id="FI: Viaplay 2 Urheilu FHD">FI: Viaplay 2 Urheilu FHD</channel>
+    <channel update="i" site="iltalehti.fi" site_id="443" xmltv_id="FI: Viaplay 2 Urheilu HD">FI: Viaplay 2 Urheilu HD</channel>
+    <channel update="i" site="iltalehti.fi" site_id="444" xmltv_id="FI: Viaplay 3 Urheilu FHD">FI: Viaplay 3 Urheilu FHD</channel>
+    <channel update="i" site="iltalehti.fi" site_id="444" xmltv_id="FI: Viaplay 3 Urheilu HD">FI: Viaplay 3 Urheilu HD</channel>
+    <channel update="i" site="iltalehti.fi" site_id="625" xmltv_id="V sport.fi">V sport.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="445" xmltv_id="V sport vinter.fi">V sport vinter.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="440" xmltv_id="V sport GOLF.fi">V sport GOLF.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="629" xmltv_id="V Sport Live 1.fi">V Sport Live 1.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="630" xmltv_id="V Sport Live 2.fi">V Sport Live 2.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="631" xmltv_id="V Sport Live 3.fi">V Sport Live 3.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="632" xmltv_id="V Sport Live 4.fi">V Sport Live 4.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="633" xmltv_id="V Sport Live 5.fi">V Sport Live 5.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="391" xmltv_id="Yle TV1.fi">Yle TV1.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="392" xmltv_id="Yle TV2.fi">Yle TV2.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="556" xmltv_id="TV5.fi">TV5.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="557" xmltv_id="Star.fi">Star.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="621" xmltv_id="Jim.fi">Jim.fi</channel>
+  </channels>
+
+</settings>
