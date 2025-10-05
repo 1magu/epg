@@ -20,10 +20,10 @@
   <!-- timespan 0 is one day -->
   <channels>
     <channel update="i" site="iltalehti.fi" site_id="628" xmltv_id="V Sport Ultra HD.se">FI: V Ultra UHD [Multi-Audio]</channel>
-    <!-- <channel update="i" site="iltalehti.fi" site_id="628" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel> -->
-    <!-- <channel update="i" site="iltapulu.fi" site_id="v-sport-ultrahd" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel> -->
-    <!-- <channel update="i" site="iltalehti.fi" site_id="626" xmltv_id="V Sport Ultra HD.se">FI: V Ultra UHD [Multi-Audio]</channel> -->
+    <channel update="i" site="iltalehti.fi" site_id="626" xmltv_id="V Sport PREMIUM.fi">V Sport Premium HD</channel>
     <channel update="i" site="iltalehti.fi" site_id="622" xmltv_id="MTV Urheilu 1.fi">MTV Urheilu 1.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="623" xmltv_id="MTV Urheilu 2.fi">MTV Urheilu 2.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="8981" xmltv_id="MTV Urheilu 3.fi">MTV Urheilu 3.fi</channel>
     <channel update="i" site="iltalehti.fi" site_id="442" xmltv_id="FI: Viaplay 1 Urheilu 1 FHD">FI: Viaplay 1 Urheilu 1 FHD</channel>
     <channel update="i" site="iltalehti.fi" site_id="442" xmltv_id="FI: Viaplay 1 Urheilu HD">FI: Viaplay 1 Urheilu HD</channel>
     <channel update="i" site="iltalehti.fi" site_id="443" xmltv_id="FI: Viaplay 2 Urheilu FHD">FI: Viaplay 2 Urheilu FHD</channel>
