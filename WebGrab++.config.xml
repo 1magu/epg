@@ -24,6 +24,7 @@
     <channel update="i" site="iltalehti.fi" site_id="622" xmltv_id="MTV Urheilu 1.fi">MTV Urheilu 1.fi</channel>
     <channel update="i" site="iltalehti.fi" site_id="623" xmltv_id="MTV Urheilu 2.fi">MTV Urheilu 2.fi</channel>
     <channel update="i" site="iltalehti.fi" site_id="8981" xmltv_id="MTV Urheilu 3.fi">MTV Urheilu 3.fi</channel>
+    <channel update="i" site="iltalehti.fi" site_id="624" xmltv_id="MTV Max.fi">MTV Max.fi</channel>
     <channel update="i" site="iltalehti.fi" site_id="442" xmltv_id="FI: Viaplay 1 Urheilu 1 FHD">FI: Viaplay 1 Urheilu 1 FHD</channel>
     <channel update="i" site="iltalehti.fi" site_id="442" xmltv_id="FI: Viaplay 1 Urheilu HD">FI: Viaplay 1 Urheilu HD</channel>
     <channel update="i" site="iltalehti.fi" site_id="443" xmltv_id="FI: Viaplay 2 Urheilu FHD">FI: Viaplay 2 Urheilu FHD</channel>
