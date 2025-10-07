@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="V Sport Ultra HD.se">
     <display-name lang="fi">FI: V Ultra UHD [Multi-Audio]</display-name>
     <icon src="https://img.ilcdn.fi/MDOXACrgXpr7xomp9E6Dxe6xu1o=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F6707048387108669191" />
@@ -32,12 +32,12 @@
   </channel>
   <channel id="FI: Viaplay 1 Urheilu 1 FHD">
     <display-name lang="fi">FI: Viaplay 1 Urheilu 1 FHD</display-name>
-    <icon src="https://img.ilcdn.fi/hN096-9_nsBpeWkESdCUrKjL6nQ=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1719593539" />
+    <icon src="https://img.ilcdn.fi/6lzs-IYLIeB8Kb0k0O3tBhJBxGI=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1759830864353" />
     <url>http://www.iltalehti.fi</url>
   </channel>
   <channel id="FI: Viaplay 1 Urheilu HD">
     <display-name lang="fi">FI: Viaplay 1 Urheilu HD</display-name>
-    <icon src="https://img.ilcdn.fi/hN096-9_nsBpeWkESdCUrKjL6nQ=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1719593539" />
+    <icon src="https://img.ilcdn.fi/6lzs-IYLIeB8Kb0k0O3tBhJBxGI=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1759830864353" />
     <url>http://www.iltalehti.fi</url>
   </channel>
   <channel id="FI: Viaplay 2 Urheilu FHD">
@@ -75,63 +75,6 @@
     <icon src="https://img.ilcdn.fi/vziOngJ1-Egx7v7CJ4YGfMfRdjw=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F6202649644002445063" />
     <url>http://www.iltalehti.fi</url>
   </channel>
-  <channel id="V Sport Live 1.fi">
-    <display-name lang="fi">V Sport Live 1.fi</display-name>
-    <icon src="https://img.ilcdn.fi/bj0m-H0YIV2F2xATHKBjQvnFtaA=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F17448203867064370951" />
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <channel id="V Sport Live 2.fi">
-    <display-name lang="fi">V Sport Live 2.fi</display-name>
-    <icon src="https://img.ilcdn.fi/gM583RHw7-HyfvCg0nCFLDTPXnw=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F17449329766971213575" />
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <channel id="V Sport Live 3.fi">
-    <display-name lang="fi">V Sport Live 3.fi</display-name>
-    <icon src="https://img.ilcdn.fi/9mlL0_KXQbYi43O-Mb-UGkDuEyo=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1733238878" />
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <channel id="V Sport Live 4.fi">
-    <display-name lang="fi">V Sport Live 4.fi</display-name>
-    <icon src="https://img.ilcdn.fi/lVzstadiDYBsyyvCqyDy7riQTUs=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1733239393" />
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <channel id="V Sport Live 5.fi">
-    <display-name lang="fi">V Sport Live 5.fi</display-name>
-    <icon src="https://img.ilcdn.fi/Lk34qQvCmkZUWhQU-U8RjQsK8Rs=/0x40/smart/filters:quality(86)/il-telkku-image.prod.il.fi%2F1733239640" />
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <channel id="Yle TV1.fi">
-    <display-name lang="fi">Yle TV1.fi</display-name>
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <channel id="Yle TV2.fi">
-    <display-name lang="fi">Yle TV2.fi</display-name>
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <channel id="TV5.fi">
-    <display-name lang="fi">TV5.fi</display-name>
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <channel id="Star.fi">
-    <display-name lang="fi">Star.fi</display-name>
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <channel id="Jim.fi">
-    <display-name lang="fi">Jim.fi</display-name>
-    <url>http://www.iltalehti.fi</url>
-  </channel>
-  <programme start="20251006080000 +0000" stop="20251006160000 +0000" channel="V Sport Ultra HD.se">
-    <title lang="fi">RedBull TV</title>
-    <desc lang="fi">Makasiiniohjelma.(n)</desc>
-  </programme>
-  <programme start="20251006160000 +0000" stop="20251006190000 +0000" channel="V Sport Ultra HD.se">
-    <title lang="fi">Formula 1</title>
-    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (5.10.2025).(n)</desc>
-  </programme>
-  <programme start="20251006190000 +0000" stop="20251006213000 +0000" channel="V Sport Ultra HD.se">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">Ultra HD -lähetysten katselu vaatii palvelumme kanssa yhteensopivan ja näyttötarkkuuden toistoon vaaditun laitteiston sekä internetyhteyden. Toisto tapahtuu aina parhaalla laitteiston ja yhteyden mahdollistamalla tarkkuudella..Selostus: Mikko Innanen.Tapahtumapaikka: Stamford Bridge.(n)</desc>
-  </programme>
   <programme start="20251007080000 +0000" stop="20251007163000 +0000" channel="V Sport Ultra HD.se">
     <title lang="fi">RedBull TV</title>
     <desc lang="fi">Makasiiniohjelma.(n)</desc>
@@ -144,41 +87,17 @@
     <title lang="fi">Formula 1</title>
     <desc lang="fi">Kilpailu ajetaan Bakun katuradalla, Bakussa, Azerbaidžanissa. (21.9.2025).(n)</desc>
   </programme>
-  <programme start="20251006100000 +0000" stop="20251006123000 +0000" channel="V Sport PREMIUM.fi">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">7. kierroksen ottelu pelataan Emirates Stadiumilla, Lontoossa. (4.10.2025).(n)</desc>
+  <programme start="20251008080000 +0000" stop="20251008160000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">RedBull TV</title>
+    <desc lang="fi">Makasiiniohjelma.(n)</desc>
   </programme>
-  <programme start="20251006123000 +0000" stop="20251006143000 +0000" channel="V Sport PREMIUM.fi">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">7. kierroksen ottelu pelataan Vitality Stadiumilla. (3.10.2025).(n)</desc>
+  <programme start="20251008160000 +0000" stop="20251008190000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Bakun katuradalla, Bakussa, Azerbaidžanissa. (21.9.2025).(n)</desc>
   </programme>
-  <programme start="20251006143000 +0000" stop="20251006163000 +0000" channel="V Sport PREMIUM.fi">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">7. kierroksen ottelu pelataan Old Traffordilla. (4.10.2024).(n)</desc>
-  </programme>
-  <programme start="20251006163000 +0000" stop="20251006170000 +0000" channel="V Sport PREMIUM.fi">
-    <title lang="fi">EFL Championship Highlights</title>
-    <desc lang="fi">Kohokohtia EFL Championshipin viimeisimmältä kierrokselta.(n)</desc>
-  </programme>
-  <programme start="20251006170000 +0000" stop="20251006173000 +0000" channel="V Sport PREMIUM.fi">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">Makasiiniohjelma Valioliigasta.(n)</desc>
-  </programme>
-  <programme start="20251006173000 +0000" stop="20251006183000 +0000" channel="V Sport PREMIUM.fi">
-    <title lang="fi">Bundesliga Highlights</title>
-    <desc lang="fi">Kohokohtia Bundesliigan viimeisimmältä kierrokselta.(n)</desc>
-  </programme>
-  <programme start="20251006183000 +0000" stop="20251006193000 +0000" channel="V Sport PREMIUM.fi">
-    <title lang="fi">Tiki-Taka</title>
-    <desc lang="fi">Studio-ohjelma, jossa on keskusteluja, analyyseja, haastatteluja ja vieraita jalkapallon maailmasta.(n)</desc>
-  </programme>
-  <programme start="20251006193000 +0000" stop="20251006213000 +0000" channel="V Sport PREMIUM.fi">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">7. kierroksen ottelu pelataan Hill Dickinson Stadiumilla, Liverpoolissa. (4.10.2025).(n)</desc>
-  </programme>
-  <programme start="20251006213000 +0000" stop="20251006233000 +0000" channel="V Sport PREMIUM.fi">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">7. kierroksen ottelu pelataan Stamford Bridgellä, Lontoossa. (4.10.2025).(n)</desc>
+  <programme start="20251008190000 +0000" stop="20251008220000 +0000" channel="V Sport Ultra HD.se">
+    <title lang="fi">Formula 1</title>
+    <desc lang="fi">Kilpailu ajetaan Marina Bayn katuradalla, Singaporessa. (5.10.2025).(n)</desc>
   </programme>
   <programme start="20251007100000 +0000" stop="20251007120000 +0000" channel="V Sport PREMIUM.fi">
     <title lang="fi">Valioliiga</title>
@@ -216,79 +135,59 @@
     <title lang="fi">Bundesliga Highlights</title>
     <desc lang="fi">Kohokohtia Bundesliigan viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006030000 +0000" stop="20251006043000 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">MTV Uutiset Live</title>
-    <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
+  <programme start="20251008023500 +0000" stop="20251008053000 +0000" channel="V Sport PREMIUM.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Ottelu pelataan Crypto.com Arenassa. (7.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006043000 +0000" stop="20251006143500 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">Tennis: ATP 1000 Shanghai</title>
-    <desc lang="fi">ATP 1000 -turnaus Shanghai, 3. kierros ( 6.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  <programme start="20251008100000 +0000" stop="20251008120000 +0000" channel="V Sport PREMIUM.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Vitality Stadiumilla. (3.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006143500 +0000" stop="20251006162500 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">La Liga</title>
-    <desc lang="fi">Real Madrid - Villareal (4.10.2025). Selostajana Tero Karhu.(n)</desc>
+  <programme start="20251008120000 +0000" stop="20251008143000 +0000" channel="V Sport PREMIUM.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Emirates Stadiumilla, Lontoossa. (4.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006162500 +0000" stop="20251006182500 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">UEFA Champions League</title>
-    <desc lang="fi">Villareal - Juventus (1.10.2025 ). Selostajana Kim Kallström.(n)</desc>
+  <programme start="20251008143000 +0000" stop="20251008163000 +0000" channel="V Sport PREMIUM.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Hill Dickinson Stadiumilla, Liverpoolissa. (4.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006182500 +0000" stop="20251006185500 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">Hockey Night Maanantai</title>
-    <desc lang="fi">Hockey Night Maanantai harppaa hieman lähemmäs kaukaloita ja niputtaa Liigan pelit ja kuumimmat puheenaiheet aina runkosarjan loppuun asti.(n)</desc>
+  <programme start="20251008163000 +0000" stop="20251008183000 +0000" channel="V Sport PREMIUM.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Old Traffordilla. (4.10.2024).(n)</desc>
   </programme>
-  <programme start="20251006185500 +0000" stop="20251006204500 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">La Liga</title>
-    <desc lang="fi">Sevilla - Barcelona (5.10.2025). Selostajana Lauri Kottonen.(n)</desc>
+  <programme start="20251008183000 +0000" stop="20251008210000 +0000" channel="V Sport PREMIUM.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Stamford Bridgellä, Lontoossa. (4.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006204500 +0000" stop="20251006211000 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">UEFA Champions League Weekly</title>
-    <desc lang="fi">Jaksossa nähdään parhaat palat toisen kierroksen otteluista. Lisäksi tutustutaan lähemmin Sporting CP:n Geovany Quendaan ja Union Saint-Gilloisen Kevin Mac Allisteriin.(n)</desc>
+  <programme start="20251008210000 +0000" stop="20251008220000 +0000" channel="V Sport PREMIUM.fi">
+    <title lang="fi">Bundesliga Highlights</title>
+    <desc lang="fi">Kohokohtia Bundesliigan viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006211000 +0000" stop="20251006213500 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">Mestarien liiga: Kaikki maalit 17.9.</title>
-    <desc lang="fi">MD 2 - 30.9.2025 Mestarien liiga illan kaikki maalit ja kiinnostavimmat tapahtumat MTV Urheilun selostajien seurassa.(n)</desc>
+  <programme start="20251008220000 +0000" stop="20251008230000 +0000" channel="V Sport PREMIUM.fi">
+    <title lang="fi">Valioliiga: Review Of The Season</title>
+    <desc lang="fi">Kohokohtia Valioliigan viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006213500 +0000" stop="20251006220000 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">Motorsport Mundial</title>
-    <desc lang="fi">Viikoittainen moottoriurheiluohjelma, joka tarjoaa tuoreimmat uutiset, kisakuvaukset ja analyysit vesiurheilusta kaksi- ja nelipyöräisiin saakka. Englanninkielinen ohjelma.(n)</desc>
-  </programme>
-  <programme start="20251006220000 +0000" stop="20251007030000 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">MTV Uutiset Live</title>
-    <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
+  <programme start="20251008230000 +0000" stop="20251008233500 +0000" channel="V Sport PREMIUM.fi">
+    <title lang="fi">Valioliiga: Premier League Netbusters</title>
+    <desc lang="fi">Valioliiga-kierroksen maalikooste.(n)</desc>
   </programme>
   <programme start="20251007030000 +0000" stop="20251007043000 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
-  <programme start="20251007043000 +0000" stop="20251007083000 +0000" channel="MTV Urheilu 1.fi">
+  <programme start="20251007043000 +0000" stop="20251007103000 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">Tennis: ATP 1000 Shanghai</title>
     <desc lang="fi">ATP 1000 -turnaus Shanghai, 4. kierros ( 7.10.2025 ). Englanninkielinen selostus.(n)</desc>
-  </programme>
-  <programme start="20251007083000 +0000" stop="20251007090000 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">Hockey Night Maanantai</title>
-    <desc lang="fi">Hockey Night Maanantai harppaa hieman lähemmäs kaukaloita ja niputtaa Liigan pelit ja kuumimmat puheenaiheet aina runkosarjan loppuun asti.(n)</desc>
-  </programme>
-  <programme start="20251007090000 +0000" stop="20251007093000 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">UEFA Champions League Weekly</title>
-    <desc lang="fi">Jaksossa nähdään parhaat palat toisen kierroksen otteluista. Lisäksi tutustutaan lähemmin Sporting CP:n Geovany Quendaan ja Union Saint-Gilloisen Kevin Mac Allisteriin.(n)</desc>
-  </programme>
-  <programme start="20251007093000 +0000" stop="20251007100000 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">Motorsport Mundial</title>
-    <desc lang="fi">Viikoittainen moottoriurheiluohjelma, joka tarjoaa tuoreimmat uutiset, kisakuvaukset ja analyysit vesiurheilusta kaksi- ja nelipyöräisiin saakka. Englanninkielinen ohjelma.(n)</desc>
-  </programme>
-  <programme start="20251007100000 +0000" stop="20251007103000 +0000" channel="MTV Urheilu 1.fi">
-    <title lang="fi">FIA Karting Championships</title>
-    <desc lang="fi">Jakso 9/10. Cremona, Italia. FIA Karting mestaruuskisojen koosteohjelma. Englanninkielinen ohjelma.(n)</desc>
   </programme>
   <programme start="20251007103000 +0000" stop="20251007143000 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">Tennis: ATP 1000 Shanghai</title>
     <desc lang="fi">ATP 1000 -turnaus Shanghai, 4. kierros ( 7.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251007143000 +0000" stop="20251007154000 +0000" channel="MTV Urheilu 1.fi">
+  <programme start="20251007143000 +0000" stop="20251007153500 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">ATP Tennis Season in Review</title>
     <desc lang="fi">Kooste ATP-turnausten parhaista paloista. Mukana turnauksen huippuhetket, henkilökuvaukset sekä kurkistuksia turnauksen kulisseihin.(n)</desc>
   </programme>
-  <programme start="20251007154000 +0000" stop="20251007161000 +0000" channel="MTV Urheilu 1.fi">
+  <programme start="20251007153500 +0000" stop="20251007161000 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">UEFA Champions League Weekly</title>
     <desc lang="fi">Jaksossa nähdään parhaat palat toisen kierroksen otteluista. Lisäksi tutustutaan lähemmin Sporting CP:n Geovany Quendaan ja Union Saint-Gilloisen Kevin Mac Allisteriin.(n)</desc>
   </programme>
@@ -308,53 +207,61 @@
     <title lang="fi">SailGP Highlights</title>
     <desc lang="fi">Jakso 11/14. Kooste SailGP purjehduskilpailun huippuhetkistä. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251007213000 +0000" stop="20251007220000 +0000" channel="MTV Urheilu 1.fi">
+  <programme start="20251007213000 +0000" stop="20251007215000 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">Motorsport Mundial</title>
     <desc lang="fi">Viikoittainen moottoriurheiluohjelma, joka tarjoaa tuoreimmat uutiset, kisakuvaukset ja analyysit vesiurheilusta kaksi- ja nelipyöräisiin saakka. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251007220000 +0000" stop="20251007223000 +0000" channel="MTV Urheilu 1.fi">
+  <programme start="20251007215000 +0000" stop="20251008030000 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
-  <programme start="20251006030000 +0000" stop="20251006110000 +0000" channel="MTV Urheilu 2.fi">
+  <programme start="20251008030000 +0000" stop="20251008043000 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
-  <programme start="20251006110000 +0000" stop="20251006140000 +0000" channel="MTV Urheilu 2.fi">
-    <title lang="fi">MM-ralli</title>
-    <desc lang="fi">Erikoiskoe 1: Pulperia 1, Erikoiskoe 2: Rere 1, Erikoiskoe 3: San Rosendo 1 (12.9.2025). Selostus Juho Kokko, asiantuntija Riku Tahko.(n)</desc>
+  <programme start="20251008043000 +0000" stop="20251008083500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Tennis: ATP 1000 Shanghai</title>
+    <desc lang="fi">ATP 1000 -turnaus Shanghai, 4. kierros ( 8.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251006140000 +0000" stop="20251006165500 +0000" channel="MTV Urheilu 2.fi">
-    <title lang="fi">MM-ralli</title>
-    <desc lang="fi">Erikoiskoe 4: Pulperia 2, Erikoiskoe 5: Rere 2, Erikoiskoe 6: San Rosendo 2 (12.9.2025). Selostus Tomi Tuominen, asiantuntija Janne Ferm.(n)</desc>
+  <programme start="20251008083500 +0000" stop="20251008091000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">SailGP</title>
+    <desc lang="fi">Jakso 10/13. ”Behind the scenes” dokumenttisarja SailGP purjehduskilpailuista. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251006165500 +0000" stop="20251006173500 +0000" channel="MTV Urheilu 2.fi">
+  <programme start="20251008091000 +0000" stop="20251008093500 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">Motorsport Mundial</title>
     <desc lang="fi">Viikoittainen moottoriurheiluohjelma, joka tarjoaa tuoreimmat uutiset, kisakuvaukset ja analyysit vesiurheilusta kaksi- ja nelipyöräisiin saakka. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251006173500 +0000" stop="20251006183000 +0000" channel="MTV Urheilu 2.fi">
+  <programme start="20251008093500 +0000" stop="20251008103000 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">ATP Tennis Season in Review</title>
     <desc lang="fi">Kooste ATP-turnausten parhaista paloista. Mukana turnauksen huippuhetket, henkilökuvaukset sekä kurkistuksia turnauksen kulisseihin.(n)</desc>
   </programme>
-  <programme start="20251006183000 +0000" stop="20251006202000 +0000" channel="MTV Urheilu 2.fi">
-    <title lang="fi">UEFA Champions League</title>
-    <desc lang="fi">Bodo Glimt - Tottenham (30.9.2025 ). Selostajana Kim Kallström.(n)</desc>
+  <programme start="20251008103000 +0000" stop="20251008143000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Tennis: ATP 1000 Shanghai</title>
+    <desc lang="fi">ATP 1000 -turnaus Shanghai, 4. kierros ( 8.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251006202000 +0000" stop="20251006205000 +0000" channel="MTV Urheilu 2.fi">
+  <programme start="20251008143000 +0000" stop="20251008151500 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">ATP Tour This Week</title>
     <desc lang="fi">Viikottaisessa tennismakasiinissa luodaan katsaus ATP-tenniksen taustoihin ja tapahtumiin. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251006205000 +0000" stop="20251006213000 +0000" channel="MTV Urheilu 2.fi">
-    <title lang="fi">La Liga Highlights</title>
-    <desc lang="fi">La Ligan kierroskohtainen koosteohjelma. Kaikki maalit ja tärkeimmät tapahtumat sekä kierroksen parhaimman pelaajan, maalin ja torjunnan esittely. Englanninkielinen ohjelma.(n)</desc>
+  <programme start="20251008151500 +0000" stop="20251008181500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Liiga</title>
+    <desc lang="fi">Kärpät - JYP, Oulun Energia Areena (08.10.2025). Selostajana Teppo Laaksonen.(n)</desc>
   </programme>
-  <programme start="20251006213000 +0000" stop="20251006215000 +0000" channel="MTV Urheilu 2.fi">
+  <programme start="20251008181500 +0000" stop="20251008184500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Serie A</title>
+    <desc lang="fi">Koostejakso Serie A MD 6 kierrokselta. Kaikki maalit ja tärkeimmät tapahtumat. Englanninkielinen ohjelma.(n)</desc>
+  </programme>
+  <programme start="20251008184500 +0000" stop="20251008191500 +0000" channel="MTV Urheilu 1.fi">
     <title lang="fi">Hockey Night Maanantai</title>
-    <desc lang="fi">Hockey Night Maanantai harppaa hieman lähemmäs kaukaloita ja niputtaa Liigan pelit ja kuumimmat puheenaiheet aina runkosarjan loppuun asti.(n)</desc>
+    <desc lang="fi">Menneen Liigaviikon tapahtumat Suvi Puukankaan ja Ari Vallinin terävässä syynissä. Lisäksi nostetaan esiin kaikkien aikojen ulkomaalaisvahvistukset, sekä kunnioitetaan uransa päättänyttä Leijona-legendaa Juuso Hietasta.(n)</desc>
   </programme>
-  <programme start="20251006215000 +0000" stop="20251007030000 +0000" channel="MTV Urheilu 2.fi">
-    <title lang="fi">MTV Uutiset Live</title>
-    <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
+  <programme start="20251008191500 +0000" stop="20251008212000 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">Liiga</title>
+    <desc lang="fi">Kiekko-Espoo - Kärpät, Espoo Metro Areena (04.10.2025). Selostajana Teppo Laaksonen.(n)</desc>
+  </programme>
+  <programme start="20251008212000 +0000" stop="20251008214500 +0000" channel="MTV Urheilu 1.fi">
+    <title lang="fi">UEFA Champions League Weekly</title>
+    <desc lang="fi">Jaksossa nähdään parhaat palat toisen kierroksen otteluista. Lisäksi tutustutaan lähemmin Sporting CP:n Geovany Quendaan ja Union Saint-Gilloisen Kevin Mac Allisteriin.(n)</desc>
   </programme>
   <programme start="20251007030000 +0000" stop="20251007110000 +0000" channel="MTV Urheilu 2.fi">
     <title lang="fi">MTV Uutiset Live</title>
@@ -378,7 +285,7 @@
   </programme>
   <programme start="20251007145500 +0000" stop="20251007152000 +0000" channel="MTV Urheilu 2.fi">
     <title lang="fi">Hockey Night Maanantai</title>
-    <desc lang="fi">Hockey Night Maanantai harppaa hieman lähemmäs kaukaloita ja niputtaa Liigan pelit ja kuumimmat puheenaiheet aina runkosarjan loppuun asti.(n)</desc>
+    <desc lang="fi">Menneen Liigaviikon tapahtumat Suvi Puukankaan ja Ari Vallinin terävässä syynissä. Lisäksi nostetaan esiin kaikkien aikojen ulkomaalaisvahvistukset, sekä kunnioitetaan uransa päättänyttä Leijona-legendaa Juuso Hietasta.(n)</desc>
   </programme>
   <programme start="20251007152000 +0000" stop="20251007181500 +0000" channel="MTV Urheilu 2.fi">
     <title lang="fi">Mestis</title>
@@ -388,103 +295,122 @@
     <title lang="fi">Jääkiekko: Sveitsin liiga</title>
     <desc lang="fi">Lugano - Kloten ( 5.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251007201500 +0000" stop="20251007210500 +0000" channel="MTV Urheilu 2.fi">
+  <programme start="20251007201500 +0000" stop="20251007211000 +0000" channel="MTV Urheilu 2.fi">
     <title lang="fi">FIA WEC - Fujin 6 tunnin kilpailu</title>
     <desc lang="fi">Kooste FIA World Endurance Championship -sarjan 6 Hours of Fuji osakilpailusta. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251007210500 +0000" stop="20251007213500 +0000" channel="MTV Urheilu 2.fi">
+  <programme start="20251007211000 +0000" stop="20251007214000 +0000" channel="MTV Urheilu 2.fi">
     <title lang="fi">MM Motocross</title>
     <desc lang="fi">Behind the gate -sarja tarjoilee motocrossin MM-sarjan kilpailutapahtumien lisäksi henkilökuvia, haastatteluja ja tarinoita kulissien takaa. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251007213500 +0000" stop="20251007220000 +0000" channel="MTV Urheilu 2.fi">
+  <programme start="20251007214000 +0000" stop="20251007220000 +0000" channel="MTV Urheilu 2.fi">
     <title lang="fi">Hockey Night Maanantai</title>
-    <desc lang="fi">Hockey Night Maanantai harppaa hieman lähemmäs kaukaloita ja niputtaa Liigan pelit ja kuumimmat puheenaiheet aina runkosarjan loppuun asti.(n)</desc>
+    <desc lang="fi">Menneen Liigaviikon tapahtumat Suvi Puukankaan ja Ari Vallinin terävässä syynissä. Lisäksi nostetaan esiin kaikkien aikojen ulkomaalaisvahvistukset, sekä kunnioitetaan uransa päättänyttä Leijona-legendaa Juuso Hietasta.(n)</desc>
   </programme>
-  <programme start="20251007220000 +0000" stop="20251007223000 +0000" channel="MTV Urheilu 2.fi">
+  <programme start="20251007220000 +0000" stop="20251008030000 +0000" channel="MTV Urheilu 2.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
-  <programme start="20251006030000 +0000" stop="20251006140000 +0000" channel="MTV Urheilu 3.fi">
+  <programme start="20251008030000 +0000" stop="20251008110000 +0000" channel="MTV Urheilu 2.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
-  <programme start="20251006140000 +0000" stop="20251006155500 +0000" channel="MTV Urheilu 3.fi">
+  <programme start="20251008110000 +0000" stop="20251008125000 +0000" channel="MTV Urheilu 2.fi">
+    <title lang="fi">MM-ralli</title>
+    <desc lang="fi">Erikoiskoe 10: Pelun 2, Erikoiskoe 11: Lota 2 (13.9.2025). Selostus Juho Kokko, asiantuntija Janne Ferm.(n)</desc>
+  </programme>
+  <programme start="20251008125000 +0000" stop="20251008135500 +0000" channel="MTV Urheilu 2.fi">
+    <title lang="fi">MM-ralli</title>
+    <desc lang="fi">Erikoiskoe 12: Maria de las Cruces 2 (13.9.2025). Selostus Juho Kokko, asiantuntija Janne Ferm.(n)</desc>
+  </programme>
+  <programme start="20251008135500 +0000" stop="20251008151500 +0000" channel="MTV Urheilu 2.fi">
+    <title lang="fi">MM-ralli</title>
+    <desc lang="fi">Erikoiskoe 13: Laraquete 1 (14.9.2025). Selostus Juho Kokko, asiantuntija Riku Tahko.(n)</desc>
+  </programme>
+  <programme start="20251008151500 +0000" stop="20251008181500 +0000" channel="MTV Urheilu 2.fi">
+    <title lang="fi">Liiga</title>
+    <desc lang="fi">Tappara - KooKoo, Nokia Arena (08.10.2025). Selostajana Antero Mertaranta.(n)</desc>
+  </programme>
+  <programme start="20251008181500 +0000" stop="20251008185000 +0000" channel="MTV Urheilu 2.fi">
+    <title lang="fi">ATP Tour This Week</title>
+    <desc lang="fi">Viikottaisessa tennismakasiinissa luodaan katsaus ATP-tenniksen taustoihin ja tapahtumiin. Englanninkielinen ohjelma.(n)</desc>
+  </programme>
+  <programme start="20251008185000 +0000" stop="20251008204000 +0000" channel="MTV Urheilu 2.fi">
     <title lang="fi">Serie A</title>
-    <desc lang="fi">Juventus - AC Milan (5.10.2025 ). Selostajana Kim Kallström.(n)</desc>
+    <desc lang="fi">Bologna - Pisa (5.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251006155500 +0000" stop="20251006170000 +0000" channel="MTV Urheilu 3.fi">
-    <title lang="fi">FIM Motocross World Championship</title>
-    <desc lang="fi">Monster Energy FIM Motocross of Nations USA ( 5.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  <programme start="20251008204000 +0000" stop="20251008205500 +0000" channel="MTV Urheilu 2.fi">
+    <title lang="fi">Vesillä: Behind the scenes</title>
   </programme>
-  <programme start="20251006170000 +0000" stop="20251006190000 +0000" channel="MTV Urheilu 3.fi">
-    <title lang="fi">Liiga</title>
-    <desc lang="fi">Tappara - HPK, Nokia Arena (04.10.2025). Selostajana Juho Kokko.(n)</desc>
+  <programme start="20251008205500 +0000" stop="20251008212500 +0000" channel="MTV Urheilu 2.fi">
+    <title lang="fi">FIA Karting Championships</title>
+    <desc lang="fi">Jakso 9/10. Cremona, Italia. FIA Karting mestaruuskisojen koosteohjelma. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251006190000 +0000" stop="20251006210000 +0000" channel="MTV Urheilu 3.fi">
-    <title lang="fi">Liiga</title>
-    <desc lang="fi">KalPa - HIFK, Olvi Areena (04.10.2025). Selostajana Aleksis Ärje.(n)</desc>
-  </programme>
-  <programme start="20251006210000 +0000" stop="20251007030000 +0000" channel="MTV Urheilu 3.fi">
-    <title lang="fi">MTV Uutiset Live</title>
-    <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
+  <programme start="20251008212500 +0000" stop="20251008215500 +0000" channel="MTV Urheilu 2.fi">
+    <title lang="fi">La Liga Highlights</title>
+    <desc lang="fi">La Ligan kierroskohtainen koosteohjelma. Kaikki maalit ja tärkeimmät tapahtumat sekä kierroksen parhaimman pelaajan, maalin ja torjunnan esittely. Englanninkielinen ohjelma.(n)</desc>
   </programme>
   <programme start="20251007030000 +0000" stop="20251007140000 +0000" channel="MTV Urheilu 3.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
   <programme start="20251007140000 +0000" stop="20251007142500 +0000" channel="MTV Urheilu 3.fi">
-    <title lang="fi">Jalkapallon MM-karsinnat: MD7 &amp; MD8 Preview</title>
+    <title lang="fi">Jalkapallon MM-karsinnat: Ennakkomakasiini</title>
     <desc lang="fi">Jalkapallon MM-karsinnat Extra sisältää kierroksia ennakoivat preview-ohjelmat, sekä otteluita käsittelevät review-ohjelmat. Englanninkielinen ohjelma.(n)</desc>
   </programme>
   <programme start="20251007142500 +0000" stop="20251007173000 +0000" channel="MTV Urheilu 3.fi">
     <title lang="fi">EM-ralli</title>
     <desc lang="fi">Erikoiskoe 1: Krašić - Sošice 1, Erikoiskoe 2: Hartje - Stojdraga 1, Erikoiskoe 3: Breganica - Smerovišće 1 ( 4.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251007173000 +0000" stop="20251007203500 +0000" channel="MTV Urheilu 3.fi">
+  <programme start="20251007173000 +0000" stop="20251007204500 +0000" channel="MTV Urheilu 3.fi">
     <title lang="fi">EM-ralli</title>
     <desc lang="fi">Erikoiskoe 4: Krašić - Sošice 2, Erikoiskoe 5: Hartje - Stojdraga 2, Erikoiskoe 6: Breganica - Smerovišće 2 ( 4.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251007203500 +0000" stop="20251007210000 +0000" channel="MTV Urheilu 3.fi">
+  <programme start="20251007204500 +0000" stop="20251007211000 +0000" channel="MTV Urheilu 3.fi">
     <title lang="fi">ATP Tour This Week</title>
     <desc lang="fi">Viikottaisessa tennismakasiinissa luodaan katsaus ATP-tenniksen taustoihin ja tapahtumiin. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251006030000 +0000" stop="20251006110000 +0000" channel="MTV Max.fi">
+  <programme start="20251007211000 +0000" stop="20251008030000 +0000" channel="MTV Urheilu 3.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
-  <programme start="20251006110000 +0000" stop="20251006125000 +0000" channel="MTV Max.fi">
-    <title lang="fi">Serie A</title>
-    <desc lang="fi">Lazio - Torino (4.10.2025 ). Englanninkielinen selostus.(n)</desc>
-  </programme>
-  <programme start="20251006125000 +0000" stop="20251006150000 +0000" channel="MTV Max.fi">
-    <title lang="fi">Serie A</title>
-    <desc lang="fi">Bologna - Pisa (5.10.2025 ). Englanninkielinen selostus.(n)</desc>
-  </programme>
-  <programme start="20251006150000 +0000" stop="20251006193000 +0000" channel="MTV Max.fi">
-    <title lang="fi">Ravit</title>
-    <desc lang="fi">Suora lähetys Seinäjoen ja Solängetin raviradalta.(n)</desc>
-  </programme>
-  <programme start="20251006193000 +0000" stop="20251006200000 +0000" channel="MTV Max.fi">
-    <title lang="fi">FIA Karting Championships</title>
-    <desc lang="fi">Jakso 9/10. Cremona, Italia. FIA Karting mestaruuskisojen koosteohjelma. Englanninkielinen ohjelma.(n)</desc>
-  </programme>
-  <programme start="20251006200000 +0000" stop="20251006214500 +0000" channel="MTV Max.fi">
-    <title lang="fi">Serie A</title>
-    <desc lang="fi">Napoli - Genoa ( 11.5.2025 ). Selostajana Tuomas Virkkunen.(n)</desc>
-  </programme>
-  <programme start="20251006214500 +0000" stop="20251007030000 +0000" channel="MTV Max.fi">
+  <programme start="20251008030000 +0000" stop="20251008140000 +0000" channel="MTV Urheilu 3.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
+  </programme>
+  <programme start="20251008140000 +0000" stop="20251008151500 +0000" channel="MTV Urheilu 3.fi">
+    <title lang="fi">FIM Motocross World Championship</title>
+    <desc lang="fi">Monster Energy FIM Motocross of Nations USA ( 5.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251008151500 +0000" stop="20251008162000 +0000" channel="MTV Urheilu 3.fi">
+    <title lang="fi">EM-ralli</title>
+    <desc lang="fi">Erikoiskoe 7: Veliko Trgovišće - Klanjec 1 ( 5.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251008162000 +0000" stop="20251008172000 +0000" channel="MTV Urheilu 3.fi">
+    <title lang="fi">EM-ralli</title>
+    <desc lang="fi">Erikoiskoe 8: Zagorska Sela - Kumrovec 1 ( 5.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251008172000 +0000" stop="20251008180500 +0000" channel="MTV Urheilu 3.fi">
+    <title lang="fi">EM-ralli</title>
+    <desc lang="fi">Erikoiskoe 9: Veliko Trgovišće - Klanjec 2 ( 5.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251008180500 +0000" stop="20251008191000 +0000" channel="MTV Urheilu 3.fi">
+    <title lang="fi">EM-ralli</title>
+    <desc lang="fi">Erikoiskoe 10: Zagorska Sela - Kumrovec 2 - Power Stage ( 5.10.2025 ). Englanninkielinen selostus.(n)</desc>
+  </programme>
+  <programme start="20251008191000 +0000" stop="20251008211000 +0000" channel="MTV Urheilu 3.fi">
+    <title lang="fi">Mestis</title>
+    <desc lang="fi">RoKi - IPK (07.10.2025). Selostajana Harri Nykänen.(n)</desc>
   </programme>
   <programme start="20251007030000 +0000" stop="20251007110000 +0000" channel="MTV Max.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
-  <programme start="20251007110000 +0000" stop="20251007125000 +0000" channel="MTV Max.fi">
+  <programme start="20251007110000 +0000" stop="20251007130000 +0000" channel="MTV Max.fi">
     <title lang="fi">La Liga</title>
     <desc lang="fi">Real Sociedad - Rayo Vallecano (5.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251007125000 +0000" stop="20251007150000 +0000" channel="MTV Max.fi">
+  <programme start="20251007130000 +0000" stop="20251007150000 +0000" channel="MTV Max.fi">
     <title lang="fi">La Liga</title>
     <desc lang="fi">Alavés - Elche (5.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
@@ -503,45 +429,33 @@
   <programme start="20251007214500 +0000" stop="20251007220000 +0000" channel="MTV Max.fi">
     <title lang="fi">Vesillä: Behind the scenes</title>
   </programme>
-  <programme start="20251007220000 +0000" stop="20251007223000 +0000" channel="MTV Max.fi">
+  <programme start="20251007220000 +0000" stop="20251008030000 +0000" channel="MTV Max.fi">
     <title lang="fi">MTV Uutiset Live</title>
     <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
-  <programme start="20251006070000 +0000" stop="20251006090000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">Bundesliiga</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251008030000 +0000" stop="20251008110000 +0000" channel="MTV Max.fi">
+    <title lang="fi">MTV Uutiset Live</title>
+    <desc lang="fi">Tärkeimmät uutiset ja kiinnostavimmat puheenaiheet - aina!(n)</desc>
   </programme>
-  <programme start="20251006090000 +0000" stop="20251006110000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">Ligue 1</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251008110000 +0000" stop="20251008120000 +0000" channel="MTV Max.fi">
+    <title lang="fi">FIA WEC - Fujin 6 tunnin kilpailu</title>
+    <desc lang="fi">Kooste FIA World Endurance Championship -sarjan 6 Hours of Fuji osakilpailusta. Englanninkielinen ohjelma.(n)</desc>
   </programme>
-  <programme start="20251006110000 +0000" stop="20251006130000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">4.10.2025. Selostus Mikko Innanen.(n)</desc>
+  <programme start="20251008120000 +0000" stop="20251008133000 +0000" channel="MTV Max.fi">
+    <title lang="fi">SailGP</title>
+    <desc lang="fi">SailGP purjehduksen osakilpailu Cádiz, päivä 1 (4.10.2025). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251006130000 +0000" stop="20251006150000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">Ligue 1</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251008133000 +0000" stop="20251008150000 +0000" channel="MTV Max.fi">
+    <title lang="fi">SailGP</title>
+    <desc lang="fi">SailGP purjehduksen osakilpailu Cádiz, päivä 2 (5.10.2025). Englanninkielinen selostus.(n)</desc>
   </programme>
-  <programme start="20251006150000 +0000" stop="20251006171500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">Formula 1</title>
-    <desc lang="fi">5.10.2025.  Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
+  <programme start="20251008150000 +0000" stop="20251008200000 +0000" channel="MTV Max.fi">
+    <title lang="fi">Ravit</title>
+    <desc lang="fi">Suora lähetys Lappeenrannan, Gävlen ja Umåkerin raviradalta.(n)</desc>
   </programme>
-  <programme start="20251006171500 +0000" stop="20251006181500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Top 50 -pelaajat juuri nyt. Sijat 10-1.(n)</desc>
-  </programme>
-  <programme start="20251006181500 +0000" stop="20251006193000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">MotoGP</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
-  </programme>
-  <programme start="20251006193000 +0000" stop="20251006200000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">EFL Championship Highlights</title>
-    <desc lang="fi">Kohokohtia EFL Championshipin viimeisimmältä kierrokselta.(n)</desc>
-  </programme>
-  <programme start="20251006200000 +0000" stop="20251006210000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">Motorsport: NASCAR Cup Series</title>
-    <desc lang="fi">Ajetun kisan kohokohtia 5.10.2025.(n)</desc>
+  <programme start="20251008200000 +0000" stop="20251008220000 +0000" channel="MTV Max.fi">
+    <title lang="fi">La Liga</title>
+    <desc lang="fi">Athletic Bilbao - Mallorca (4.10.2025 ). Englanninkielinen selostus.(n)</desc>
   </programme>
   <programme start="20251007064500 +0000" stop="20251007104500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
     <title lang="fi">Motorsport: NASCAR Cup Series</title>
@@ -555,9 +469,13 @@
     <title lang="fi">Formula 1</title>
     <desc lang="fi">Kooste Singaporen osakilpailusta 5.10.2025.(n)</desc>
   </programme>
-  <programme start="20251007131500 +0000" stop="20251007152000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
-    <title lang="fi">Bundesliiga</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251007131500 +0000" stop="20251007141500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">NHL:n itäisen konferenssin kausiennakko.(n)</desc>
+  </programme>
+  <programme start="20251007141500 +0000" stop="20251007152000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">NHL:n läntisen konferenssin kausiennakko.(n)</desc>
   </programme>
   <programme start="20251007152000 +0000" stop="20251007181500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
     <title lang="fi">CHL</title>
@@ -570,41 +488,45 @@
   <programme start="20251007201500 +0000" stop="20251007211500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
     <title lang="fi">Valioliiga: The Weekend Wrap</title>
   </programme>
-  <programme start="20251006070000 +0000" stop="20251006090000 +0000" channel="FI: Viaplay 1 Urheilu HD">
-    <title lang="fi">Bundesliiga</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251007220500 +0000" stop="20251008023500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006090000 +0000" stop="20251006110000 +0000" channel="FI: Viaplay 1 Urheilu HD">
-    <title lang="fi">Ligue 1</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251008023500 +0000" stop="20251008070000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006110000 +0000" stop="20251006130000 +0000" channel="FI: Viaplay 1 Urheilu HD">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">4.10.2025. Selostus Mikko Innanen.(n)</desc>
+  <programme start="20251008070000 +0000" stop="20251008090000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006130000 +0000" stop="20251006150000 +0000" channel="FI: Viaplay 1 Urheilu HD">
-    <title lang="fi">Ligue 1</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251008090000 +0000" stop="20251008105500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006150000 +0000" stop="20251006171500 +0000" channel="FI: Viaplay 1 Urheilu HD">
-    <title lang="fi">Formula 1</title>
-    <desc lang="fi">5.10.2025.  Selostus Niki Juusela, asiantuntija Ossi Oikarinen.(n)</desc>
-  </programme>
-  <programme start="20251006171500 +0000" stop="20251006181500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+  <programme start="20251008105500 +0000" stop="20251008115000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
     <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Top 50 -pelaajat juuri nyt. Sijat 10-1.(n)</desc>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
   </programme>
-  <programme start="20251006181500 +0000" stop="20251006193000 +0000" channel="FI: Viaplay 1 Urheilu HD">
-    <title lang="fi">MotoGP</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251008115000 +0000" stop="20251008135000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006193000 +0000" stop="20251006200000 +0000" channel="FI: Viaplay 1 Urheilu HD">
-    <title lang="fi">EFL Championship Highlights</title>
-    <desc lang="fi">Kohokohtia EFL Championshipin viimeisimmältä kierrokselta.(n)</desc>
+  <programme start="20251008135000 +0000" stop="20251008155000 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">CHL</title>
+    <desc lang="fi">7.10.2025. Selostus Tero Kainulainen.(n)</desc>
   </programme>
-  <programme start="20251006200000 +0000" stop="20251006210000 +0000" channel="FI: Viaplay 1 Urheilu HD">
-    <title lang="fi">Motorsport: NASCAR Cup Series</title>
-    <desc lang="fi">Ajetun kisan kohokohtia 5.10.2025.(n)</desc>
+  <programme start="20251008155000 +0000" stop="20251008184500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">CHL</title>
+    <desc lang="fi">8.10.2025. Selostus Antti Mäkinen.(n)</desc>
+  </programme>
+  <programme start="20251008184500 +0000" stop="20251008204500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251008204500 +0000" stop="20251008214500 +0000" channel="FI: Viaplay 1 Urheilu 1 FHD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
   </programme>
   <programme start="20251007064500 +0000" stop="20251007104500 +0000" channel="FI: Viaplay 1 Urheilu HD">
     <title lang="fi">Motorsport: NASCAR Cup Series</title>
@@ -618,9 +540,13 @@
     <title lang="fi">Formula 1</title>
     <desc lang="fi">Kooste Singaporen osakilpailusta 5.10.2025.(n)</desc>
   </programme>
-  <programme start="20251007131500 +0000" stop="20251007152000 +0000" channel="FI: Viaplay 1 Urheilu HD">
-    <title lang="fi">Bundesliiga</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251007131500 +0000" stop="20251007141500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">NHL:n itäisen konferenssin kausiennakko.(n)</desc>
+  </programme>
+  <programme start="20251007141500 +0000" stop="20251007152000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">NHL:n läntisen konferenssin kausiennakko.(n)</desc>
   </programme>
   <programme start="20251007152000 +0000" stop="20251007181500 +0000" channel="FI: Viaplay 1 Urheilu HD">
     <title lang="fi">CHL</title>
@@ -633,39 +559,45 @@
   <programme start="20251007201500 +0000" stop="20251007211500 +0000" channel="FI: Viaplay 1 Urheilu HD">
     <title lang="fi">Valioliiga: The Weekend Wrap</title>
   </programme>
-  <programme start="20251006070000 +0000" stop="20251006080000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
-    <title lang="fi">Valioliiga: The Weekend Wrap</title>
+  <programme start="20251007220500 +0000" stop="20251008023500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006080000 +0000" stop="20251006090000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
-    <title lang="fi">Premier League Review</title>
-    <desc lang="fi">Ohjelma tarjoaa oivan tilaisuuden kerrata maailman parhaan jalkapallosarjan edellisen kierroksen tapahtumia. Uusi jakso ilmestyy joka kierroksen viimeisen pelin jälkeisenä päivänä.(n)</desc>
+  <programme start="20251008023500 +0000" stop="20251008070000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006090000 +0000" stop="20251006110000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
-    <title lang="fi">Ligue 1</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251008070000 +0000" stop="20251008090000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006110000 +0000" stop="20251006130000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">5.10.2025. Selostus Ville Kuusinen.(n)</desc>
+  <programme start="20251008090000 +0000" stop="20251008105500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006130000 +0000" stop="20251006150000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">5.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  <programme start="20251008105500 +0000" stop="20251008115000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
   </programme>
-  <programme start="20251006150000 +0000" stop="20251006170000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">5.10.2025. Selostus Mikko Innanen.(n)</desc>
+  <programme start="20251008115000 +0000" stop="20251008135000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006170000 +0000" stop="20251006180000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
-    <title lang="fi">Bundesliga Highlights</title>
-    <desc lang="fi">Huippuhetkiä 6. kierrokselta.(n)</desc>
+  <programme start="20251008135000 +0000" stop="20251008155000 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">CHL</title>
+    <desc lang="fi">7.10.2025. Selostus Tero Kainulainen.(n)</desc>
   </programme>
-  <programme start="20251006180000 +0000" stop="20251006185500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
-    <title lang="fi">Valioliiga: The Weekend Wrap</title>
+  <programme start="20251008155000 +0000" stop="20251008184500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">CHL</title>
+    <desc lang="fi">8.10.2025. Selostus Antti Mäkinen.(n)</desc>
   </programme>
-  <programme start="20251006185500 +0000" stop="20251006210000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
-    <title lang="fi">EFL League Two</title>
-    <desc lang="fi">6.10.2025.(n)</desc>
+  <programme start="20251008184500 +0000" stop="20251008204500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251008204500 +0000" stop="20251008214500 +0000" channel="FI: Viaplay 1 Urheilu HD">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
   </programme>
   <programme start="20251007070000 +0000" stop="20251007073000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
     <title lang="fi">Valioliiga: Premier League Netbusters</title>
@@ -697,43 +629,49 @@
   </programme>
   <programme start="20251007155000 +0000" stop="20251007184500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
     <title lang="fi">CHL</title>
-    <desc lang="fi">7.10.2025. Selostus Jussi Eskola.(n)</desc>
+    <desc lang="fi">7.10.2025. Selostus Nuutti Vihtilä.(n)</desc>
   </programme>
   <programme start="20251007184500 +0000" stop="20251007204500 +0000" channel="FI: Viaplay 2 Urheilu FHD">
     <title lang="fi">Valioliiga</title>
     <desc lang="fi">4.10.2025. Selostus Tero Kainulainen.(n)</desc>
   </programme>
-  <programme start="20251006070000 +0000" stop="20251006080000 +0000" channel="FI: Viaplay 2 Urheilu HD">
-    <title lang="fi">Valioliiga: The Weekend Wrap</title>
+  <programme start="20251008000500 +0000" stop="20251008033000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006080000 +0000" stop="20251006090000 +0000" channel="FI: Viaplay 2 Urheilu HD">
-    <title lang="fi">Premier League Review</title>
-    <desc lang="fi">Ohjelma tarjoaa oivan tilaisuuden kerrata maailman parhaan jalkapallosarjan edellisen kierroksen tapahtumia. Uusi jakso ilmestyy joka kierroksen viimeisen pelin jälkeisenä päivänä.(n)</desc>
+  <programme start="20251008070000 +0000" stop="20251008073000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Premier League Stories</title>
+    <desc lang="fi">Yaya Toure. Käymme läpi yhden Valioliigan ikonisimman keskikenttäpelaajan, Yaya Touren, merkittävää matkaa.(n)</desc>
   </programme>
-  <programme start="20251006090000 +0000" stop="20251006110000 +0000" channel="FI: Viaplay 2 Urheilu HD">
-    <title lang="fi">Ligue 1</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251008073000 +0000" stop="20251008093000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Ville Kuusinen.(n)</desc>
   </programme>
-  <programme start="20251006110000 +0000" stop="20251006130000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+  <programme start="20251008093000 +0000" stop="20251008113000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Mikko Innanen.(n)</desc>
+  </programme>
+  <programme start="20251008113000 +0000" stop="20251008133000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
     <title lang="fi">Valioliiga</title>
     <desc lang="fi">5.10.2025. Selostus Ville Kuusinen.(n)</desc>
   </programme>
-  <programme start="20251006130000 +0000" stop="20251006150000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+  <programme start="20251008133000 +0000" stop="20251008153000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
     <title lang="fi">Valioliiga</title>
     <desc lang="fi">5.10.2025. Selostus Tero Kainulainen.(n)</desc>
   </programme>
-  <programme start="20251006150000 +0000" stop="20251006170000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+  <programme start="20251008153000 +0000" stop="20251008173000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
     <title lang="fi">Valioliiga</title>
     <desc lang="fi">5.10.2025. Selostus Mikko Innanen.(n)</desc>
   </programme>
-  <programme start="20251006170000 +0000" stop="20251006180000 +0000" channel="FI: Viaplay 2 Urheilu HD">
-    <title lang="fi">Bundesliga Highlights</title>
-    <desc lang="fi">Huippuhetkiä 6. kierrokselta.(n)</desc>
+  <programme start="20251008173000 +0000" stop="20251008183000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Premier League Review</title>
+    <desc lang="fi">Ohjelma tarjoaa oivan tilaisuuden kerrata maailman parhaan jalkapallosarjan edellisen kierroksen tapahtumia. Uusi jakso ilmestyy joka kierroksen viimeisen pelin jälkeisenä päivänä.(n)</desc>
   </programme>
-  <programme start="20251006180000 +0000" stop="20251006185500 +0000" channel="FI: Viaplay 2 Urheilu HD">
-    <title lang="fi">Valioliiga: The Weekend Wrap</title>
+  <programme start="20251008183000 +0000" stop="20251008190000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
+    <title lang="fi">Premier League Stories</title>
+    <desc lang="fi">Yaya Toure. Käymme läpi yhden Valioliigan ikonisimman keskikenttäpelaajan, Yaya Touren, merkittävää matkaa.(n)</desc>
   </programme>
-  <programme start="20251006185500 +0000" stop="20251006210000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+  <programme start="20251008190000 +0000" stop="20251008210000 +0000" channel="FI: Viaplay 2 Urheilu FHD">
     <title lang="fi">EFL League Two</title>
     <desc lang="fi">6.10.2025.(n)</desc>
   </programme>
@@ -767,39 +705,51 @@
   </programme>
   <programme start="20251007155000 +0000" stop="20251007184500 +0000" channel="FI: Viaplay 2 Urheilu HD">
     <title lang="fi">CHL</title>
-    <desc lang="fi">7.10.2025. Selostus Jussi Eskola.(n)</desc>
+    <desc lang="fi">7.10.2025. Selostus Nuutti Vihtilä.(n)</desc>
   </programme>
   <programme start="20251007184500 +0000" stop="20251007204500 +0000" channel="FI: Viaplay 2 Urheilu HD">
     <title lang="fi">Valioliiga</title>
     <desc lang="fi">4.10.2025. Selostus Tero Kainulainen.(n)</desc>
   </programme>
-  <programme start="20251006070000 +0000" stop="20251006110000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
-    <title lang="fi">Motorsport: NASCAR Cup Series</title>
-    <desc lang="fi">5.10.2025. NASCAR Cup Series 2025.(n)</desc>
+  <programme start="20251008000500 +0000" stop="20251008033000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">7.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006110000 +0000" stop="20251006130000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+  <programme start="20251008070000 +0000" stop="20251008073000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Premier League Stories</title>
+    <desc lang="fi">Yaya Toure. Käymme läpi yhden Valioliigan ikonisimman keskikenttäpelaajan, Yaya Touren, merkittävää matkaa.(n)</desc>
+  </programme>
+  <programme start="20251008073000 +0000" stop="20251008093000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Ville Kuusinen.(n)</desc>
+  </programme>
+  <programme start="20251008093000 +0000" stop="20251008113000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Mikko Innanen.(n)</desc>
+  </programme>
+  <programme start="20251008113000 +0000" stop="20251008133000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">5.10.2025. Selostus Ville Kuusinen.(n)</desc>
+  </programme>
+  <programme start="20251008133000 +0000" stop="20251008153000 +0000" channel="FI: Viaplay 2 Urheilu HD">
     <title lang="fi">Valioliiga</title>
     <desc lang="fi">5.10.2025. Selostus Tero Kainulainen.(n)</desc>
   </programme>
-  <programme start="20251006130000 +0000" stop="20251006150000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
-    <title lang="fi">Bundesliiga</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
+  <programme start="20251008153000 +0000" stop="20251008173000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">5.10.2025. Selostus Mikko Innanen.(n)</desc>
   </programme>
-  <programme start="20251006150000 +0000" stop="20251006153000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
-    <title lang="fi">Formula 1</title>
-    <desc lang="fi">Kooste Singaporen aika-ajoista 4.10.2025.(n)</desc>
+  <programme start="20251008173000 +0000" stop="20251008183000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Premier League Review</title>
+    <desc lang="fi">Ohjelma tarjoaa oivan tilaisuuden kerrata maailman parhaan jalkapallosarjan edellisen kierroksen tapahtumia. Uusi jakso ilmestyy joka kierroksen viimeisen pelin jälkeisenä päivänä.(n)</desc>
   </programme>
-  <programme start="20251006153000 +0000" stop="20251006160000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
-    <title lang="fi">Formula 1</title>
-    <desc lang="fi">Kooste Singaporen osakilpailusta 5.10.2025.(n)</desc>
+  <programme start="20251008183000 +0000" stop="20251008190000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">Premier League Stories</title>
+    <desc lang="fi">Yaya Toure. Käymme läpi yhden Valioliigan ikonisimman keskikenttäpelaajan, Yaya Touren, merkittävää matkaa.(n)</desc>
   </programme>
-  <programme start="20251006160000 +0000" stop="20251006170000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
-    <title lang="fi">Motorsport: NASCAR Cup Series</title>
-    <desc lang="fi">Ajetun kisan kohokohtia 5.10.2025.(n)</desc>
-  </programme>
-  <programme start="20251006170000 +0000" stop="20251006220000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
-    <title lang="fi">Darts World Grand Prix</title>
-    <desc lang="fi">6.10.2025. Ensimmäinen kierros.(n)</desc>
+  <programme start="20251008190000 +0000" stop="20251008210000 +0000" channel="FI: Viaplay 2 Urheilu HD">
+    <title lang="fi">EFL League Two</title>
+    <desc lang="fi">6.10.2025.(n)</desc>
   </programme>
   <programme start="20251007070000 +0000" stop="20251007120000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
     <title lang="fi">Darts World Grand Prix</title>
@@ -825,33 +775,25 @@
     <title lang="fi">Darts World Grand Prix</title>
     <desc lang="fi">7.10.2025. Ensimmäinen kierros.(n)</desc>
   </programme>
-  <programme start="20251006070000 +0000" stop="20251006110000 +0000" channel="FI: Viaplay 3 Urheilu HD">
-    <title lang="fi">Motorsport: NASCAR Cup Series</title>
-    <desc lang="fi">5.10.2025. NASCAR Cup Series 2025.(n)</desc>
-  </programme>
-  <programme start="20251006110000 +0000" stop="20251006130000 +0000" channel="FI: Viaplay 3 Urheilu HD">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">5.10.2025. Selostus Tero Kainulainen.(n)</desc>
-  </programme>
-  <programme start="20251006130000 +0000" stop="20251006150000 +0000" channel="FI: Viaplay 3 Urheilu HD">
-    <title lang="fi">Bundesliiga</title>
-    <desc lang="fi">5.10.2025.(n)</desc>
-  </programme>
-  <programme start="20251006150000 +0000" stop="20251006153000 +0000" channel="FI: Viaplay 3 Urheilu HD">
-    <title lang="fi">Formula 1</title>
-    <desc lang="fi">Kooste Singaporen aika-ajoista 4.10.2025.(n)</desc>
-  </programme>
-  <programme start="20251006153000 +0000" stop="20251006160000 +0000" channel="FI: Viaplay 3 Urheilu HD">
-    <title lang="fi">Formula 1</title>
-    <desc lang="fi">Kooste Singaporen osakilpailusta 5.10.2025.(n)</desc>
-  </programme>
-  <programme start="20251006160000 +0000" stop="20251006170000 +0000" channel="FI: Viaplay 3 Urheilu HD">
-    <title lang="fi">Motorsport: NASCAR Cup Series</title>
-    <desc lang="fi">Ajetun kisan kohokohtia 5.10.2025.(n)</desc>
-  </programme>
-  <programme start="20251006170000 +0000" stop="20251006220000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+  <programme start="20251008070000 +0000" stop="20251008120000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
     <title lang="fi">Darts World Grand Prix</title>
-    <desc lang="fi">6.10.2025. Ensimmäinen kierros.(n)</desc>
+    <desc lang="fi">7.10.2025. Ensimmäinen kierros.(n)</desc>
+  </programme>
+  <programme start="20251008120000 +0000" stop="20251008140000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Ville Kuusinen.(n)</desc>
+  </programme>
+  <programme start="20251008140000 +0000" stop="20251008160000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Bundesliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Tero Kainulainen.(n)</desc>
+  </programme>
+  <programme start="20251008160000 +0000" stop="20251008180000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">EFL League Two</title>
+    <desc lang="fi">6.10.2025.(n)</desc>
+  </programme>
+  <programme start="20251008180000 +0000" stop="20251008220000 +0000" channel="FI: Viaplay 3 Urheilu FHD">
+    <title lang="fi">Darts World Grand Prix</title>
+    <desc lang="fi">8.10.2025. Toinen kierros.(n)</desc>
   </programme>
   <programme start="20251007070000 +0000" stop="20251007120000 +0000" channel="FI: Viaplay 3 Urheilu HD">
     <title lang="fi">Darts World Grand Prix</title>
@@ -877,41 +819,25 @@
     <title lang="fi">Darts World Grand Prix</title>
     <desc lang="fi">7.10.2025. Ensimmäinen kierros.(n)</desc>
   </programme>
-  <programme start="20251006110000 +0000" stop="20251006130000 +0000" channel="V sport.fi">
+  <programme start="20251008070000 +0000" stop="20251008120000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Darts World Grand Prix</title>
+    <desc lang="fi">7.10.2025. Ensimmäinen kierros.(n)</desc>
+  </programme>
+  <programme start="20251008120000 +0000" stop="20251008140000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">4.10.2025. Selostus Ville Kuusinen.(n)</desc>
+  </programme>
+  <programme start="20251008140000 +0000" stop="20251008160000 +0000" channel="FI: Viaplay 3 Urheilu HD">
     <title lang="fi">Bundesliiga</title>
-    <desc lang="fi">6. kierroksen ottelu pelataan Deutsche Bank Parkilla. (4.10.2025).(n)</desc>
+    <desc lang="fi">4.10.2025. Selostus Tero Kainulainen.(n)</desc>
   </programme>
-  <programme start="20251006130000 +0000" stop="20251006150000 +0000" channel="V sport.fi">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">7. kierroksen ottelu pelataan Vitality Stadiumilla. (3.10.2025).(n)</desc>
+  <programme start="20251008160000 +0000" stop="20251008180000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">EFL League Two</title>
+    <desc lang="fi">6.10.2025.(n)</desc>
   </programme>
-  <programme start="20251006150000 +0000" stop="20251006170000 +0000" channel="V sport.fi">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">7. kierroksen ottelu pelataan Emirates Stadiumilla, Lontoossa. (4.10.2025).(n)</desc>
-  </programme>
-  <programme start="20251006170000 +0000" stop="20251006173000 +0000" channel="V sport.fi">
-    <title lang="fi">EFL Championship Highlights</title>
-    <desc lang="fi">Kohokohtia EFL Championshipin viimeisimmältä kierrokselta.(n)</desc>
-  </programme>
-  <programme start="20251006173000 +0000" stop="20251006180000 +0000" channel="V sport.fi">
-    <title lang="fi">Ligue 1 Highlights</title>
-    <desc lang="fi">Kohokohtia Ligue 1:n viimeisimmältä kierrokselta.(n)</desc>
-  </programme>
-  <programme start="20251006180000 +0000" stop="20251006190000 +0000" channel="V sport.fi">
-    <title lang="fi">Bundesliga Highlights</title>
-    <desc lang="fi">Kohokohtia Bundesliigan viimeisimmältä kierrokselta.(n)</desc>
-  </programme>
-  <programme start="20251006190000 +0000" stop="20251006210000 +0000" channel="V sport.fi">
-    <title lang="fi">Valioliiga</title>
-    <desc lang="fi">7. kierroksen ottelu pelataan Old Traffordilla. (4.10.2024).(n)</desc>
-  </programme>
-  <programme start="20251006210000 +0000" stop="20251006220000 +0000" channel="V sport.fi">
-    <title lang="fi">Valioliiga: Review Of The Season</title>
-    <desc lang="fi">Kohokohtia Valioliigan viimeisimmältä kierrokselta.(n)</desc>
-  </programme>
-  <programme start="20251006220000 +0000" stop="20251006230000 +0000" channel="V sport.fi">
-    <title lang="fi">Bundesliga Highlights</title>
-    <desc lang="fi">Kohokohtia Bundesliigan viimeisimmältä kierrokselta.(n)</desc>
+  <programme start="20251008180000 +0000" stop="20251008220000 +0000" channel="FI: Viaplay 3 Urheilu HD">
+    <title lang="fi">Darts World Grand Prix</title>
+    <desc lang="fi">8.10.2025. Toinen kierros.(n)</desc>
   </programme>
   <programme start="20251007105000 +0000" stop="20251007112000 +0000" channel="V sport.fi">
     <title lang="fi">EFL Championship Highlights</title>
@@ -953,57 +879,53 @@
     <title lang="fi">Valioliiga: Review Of The Season</title>
     <desc lang="fi">Kohokohtia Valioliigan viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006100000 +0000" stop="20251006110000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  <programme start="20251008110000 +0000" stop="20251008113000 +0000" channel="V sport.fi">
+    <title lang="fi">EFL Championship Highlights</title>
+    <desc lang="fi">Kohokohtia EFL Championshipin viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006110000 +0000" stop="20251006120000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251008113000 +0000" stop="20251008120000 +0000" channel="V sport.fi">
+    <title lang="fi">Ligue 1 Highlights</title>
+    <desc lang="fi">Kohokohtia Ligue 1:n viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006120000 +0000" stop="20251006130000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251008120000 +0000" stop="20251008130000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga: Review Of The Season</title>
+    <desc lang="fi">Kohokohtia Valioliigan viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006130000 +0000" stop="20251006140000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251008130000 +0000" stop="20251008150000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Stamford Bridgellä, Lontoossa. (4.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006140000 +0000" stop="20251006150000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251008150000 +0000" stop="20251008160000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga: Review Of The Season</title>
+    <desc lang="fi">Kohokohtia Valioliigan viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006150000 +0000" stop="20251006160000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  <programme start="20251008160000 +0000" stop="20251008163000 +0000" channel="V sport.fi">
+    <title lang="fi">EFL Championship Highlights</title>
+    <desc lang="fi">Kohokohtia EFL Championshipin viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006160000 +0000" stop="20251006170000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251008163000 +0000" stop="20251008170000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">Makasiiniohjelma Valioliigasta.(n)</desc>
   </programme>
-  <programme start="20251006170000 +0000" stop="20251006183000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">Godmorgon NHL</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251008170000 +0000" stop="20251008190000 +0000" channel="V sport.fi">
+    <title lang="fi">Bundesliiga</title>
+    <desc lang="fi">6. kierroksen ottelu pelataan Deutsche Bank Parkilla. (4.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006183000 +0000" stop="20251006193000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251008190000 +0000" stop="20251008210000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">7. kierroksen ottelu pelataan Villa Parkilla, Birminghamissa. (5.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006193000 +0000" stop="20251006203000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251008210000 +0000" stop="20251008213000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga</title>
+    <desc lang="fi">Makasiiniohjelma Valioliigasta.(n)</desc>
   </programme>
-  <programme start="20251006203000 +0000" stop="20251006213000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  <programme start="20251008213000 +0000" stop="20251008220000 +0000" channel="V sport.fi">
+    <title lang="fi">Ligue 1 Highlights</title>
+    <desc lang="fi">Kohokohtia Ligue 1:n viimeisimmältä kierrokselta.(n)</desc>
   </programme>
-  <programme start="20251006213000 +0000" stop="20251006223000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
-  </programme>
-  <programme start="20251006223000 +0000" stop="20251006233000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">NHL On The Fly</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251008220000 +0000" stop="20251008230000 +0000" channel="V sport.fi">
+    <title lang="fi">Valioliiga: Review Of The Season</title>
+    <desc lang="fi">Kohokohtia Valioliigan viimeisimmältä kierrokselta.(n)</desc>
   </programme>
   <programme start="20251007100000 +0000" stop="20251007110000 +0000" channel="V sport vinter.fi">
     <title lang="fi">NHL On The Fly</title>
@@ -1033,45 +955,61 @@
     <title lang="fi">NHL On The Fly</title>
     <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
   </programme>
-  <programme start="20251007165500 +0000" stop="20251007193000 +0000" channel="V sport vinter.fi">
+  <programme start="20251007165500 +0000" stop="20251007194500 +0000" channel="V sport vinter.fi">
     <title lang="fi">CHL</title>
     <desc lang="fi">Ottelu pelataan Monitor ERP Arenassa, Gävlessä. (7.10.2025).(n)</desc>
   </programme>
-  <programme start="20251007193000 +0000" stop="20251007203000 +0000" channel="V sport vinter.fi">
+  <programme start="20251007194500 +0000" stop="20251007210500 +0000" channel="V sport vinter.fi">
     <title lang="fi">NHL On The Fly</title>
     <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
   </programme>
-  <programme start="20251007203000 +0000" stop="20251007220000 +0000" channel="V sport vinter.fi">
-    <title lang="fi">Godmorgon NHL</title>
-    <desc lang="fi">Studio-ohjelma, jossa analyyseja ja kohokohtia NHL:stä.(n)</desc>
+  <programme start="20251007210500 +0000" stop="20251008000500 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Ottelu pelataan Amerant Bank Arenassa, Sunrisessa. (7.10.2025).(n)</desc>
   </programme>
-  <programme start="20251007220000 +0000" stop="20251008000000 +0000" channel="V sport vinter.fi">
+  <programme start="20251008000500 +0000" stop="20251008030000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Ottelu pelataan Madison Square Gardenissa. (7.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251008100000 +0000" stop="20251008110000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL on the Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251008110000 +0000" stop="20251008120000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251008120000 +0000" stop="20251008130000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251008130000 +0000" stop="20251008150000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL</title>
+    <desc lang="fi">Ottelu pelataan Madison Square Gardenissa. (7.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251008150000 +0000" stop="20251008160000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL on the Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
+  </programme>
+  <programme start="20251008160000 +0000" stop="20251008180000 +0000" channel="V sport vinter.fi">
     <title lang="fi">CHL</title>
     <desc lang="fi">Ottelu pelataan Uber Arenassa, Berliinissä. (7.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006070000 +0000" stop="20251006123000 +0000" channel="V sport GOLF.fi">
-    <title lang="fi">DP World Tour</title>
-    <desc lang="fi">Kilpailu pelataan Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
+  <programme start="20251008180000 +0000" stop="20251008200000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">CHL</title>
+    <desc lang="fi">Ottelu pelataan Eisarena Bremerhavenissa. (7.10.2025).(n)</desc>
   </programme>
-  <programme start="20251006123000 +0000" stop="20251006153000 +0000" channel="V sport GOLF.fi">
-    <title lang="fi">Golf: LPGA Tour</title>
-    <desc lang="fi">Kilpailu pelataan Hoakalei Country Clubilla, Havaijissa. (1.-4.10.2025).(n)</desc>
+  <programme start="20251008200000 +0000" stop="20251008210000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL on the Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
   </programme>
-  <programme start="20251006153000 +0000" stop="20251006210000 +0000" channel="V sport GOLF.fi">
-    <title lang="fi">DP World Tour</title>
-    <desc lang="fi">Kilpailu pelataan Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
+  <programme start="20251008210000 +0000" stop="20251008220000 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
   </programme>
-  <programme start="20251006210000 +0000" stop="20251006213000 +0000" channel="V sport GOLF.fi">
-    <title lang="fi">DP World Tour</title>
-    <desc lang="fi">Kohokohtia kilpailusta, joka pelattiin Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
-  </programme>
-  <programme start="20251006213000 +0000" stop="20251006220000 +0000" channel="V sport GOLF.fi">
-    <title lang="fi">Challenge Tour Grand Final Highlights</title>
-    <desc lang="fi">Kohokohtia kilpailusta, joka pelattiin Golf Nazionalessa, Sutrissa, Italiassa. (18.-21.9.2025).(n)</desc>
-  </programme>
-  <programme start="20251006220000 +0000" stop="20251006230000 +0000" channel="V sport GOLF.fi">
-    <title lang="fi">Golf Central</title>
-    <desc lang="fi">Makasiiniohjelma, joka tarjoaa parhaat ja uusimmat uutiset golfin maailmasta ja pelaajien ja asiantuntijoiden haastatteluja.(n)</desc>
+  <programme start="20251008220000 +0000" stop="20251008230500 +0000" channel="V sport vinter.fi">
+    <title lang="fi">NHL On The Fly</title>
+    <desc lang="fi">Huippuhetket NHL-kierroksen otteluista, haastattelut ja analyysit sekä tärkeimmät uutiset.(n)</desc>
   </programme>
   <programme start="20251007070000 +0000" stop="20251007123000 +0000" channel="V sport GOLF.fi">
     <title lang="fi">DP World Tour</title>
@@ -1096,5 +1034,29 @@
   <programme start="20251007220000 +0000" stop="20251007230000 +0000" channel="V sport GOLF.fi">
     <title lang="fi">Golf Central</title>
     <desc lang="fi">Makasiiniohjelma, joka tarjoaa parhaat ja uusimmat uutiset golfin maailmasta ja pelaajien ja asiantuntijoiden haastatteluja.(n)</desc>
+  </programme>
+  <programme start="20251008070000 +0000" stop="20251008123000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kilpailu pelataan Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251008123000 +0000" stop="20251008153000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Golf: LPGA Tour</title>
+    <desc lang="fi">Kilpailu pelataan Hoakalei Country Clubilla, Havaijissa. (1.-4.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251008153000 +0000" stop="20251008203000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kilpailu pelataan Golf Nationalissa, Pariisin lähellä. (10.-13.10.2024).(n)</desc>
+  </programme>
+  <programme start="20251008203000 +0000" stop="20251008210000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kohokohtia kilpailusta, joka pelattiin Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
+  </programme>
+  <programme start="20251008210000 +0000" stop="20251008213000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">Challenge Tour Grand Final Highlights</title>
+    <desc lang="fi">Kohokohtia kilpailusta, joka pelattiin Golf Nazionalessa, Sutrissa, Italiassa. (18.-21.9.2025).(n)</desc>
+  </programme>
+  <programme start="20251008213000 +0000" stop="20251008220000 +0000" channel="V sport GOLF.fi">
+    <title lang="fi">DP World Tour</title>
+    <desc lang="fi">Kohokohtia kilpailusta, joka pelattiin Old Coursella, St. Andrewsissa, Skotlannissa. (2.-5.10.2025).(n)</desc>
   </programme>
 </tv>
